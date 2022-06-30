@@ -23,7 +23,7 @@ DefaultGroupName={#MyAppName}
 DisableProgramGroupPage=yes
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
 ;PrivilegesRequired=lowest
-OutputBaseFilename=SH2HDCVOsetup
+OutputBaseFilename=SH2HDCVPsetup
 DisableWelcomePage=no
 DisableDirPage=no
 WizardImageFile=resources\Thumb.bmp

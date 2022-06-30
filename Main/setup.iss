@@ -21,7 +21,7 @@ DefaultDirName={code:GetDefaultDirName}
 DirExistsWarning=no
 DefaultGroupName={#MyAppName}
 DisableProgramGroupPage=yes
-OutputBaseFilename=SH2HDCVOsetup
+OutputBaseFilename=SH2HDCVPsetup
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
 ;PrivilegesRequired=lowest
 DisableWelcomePage=no
