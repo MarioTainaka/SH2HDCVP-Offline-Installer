@@ -43,7 +43,7 @@ SetupIconFile=resources\sh2.ico
 Name: "english"; MessagesFile: "compiler:Default.isl"
 
 [Files]
-Source: "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Apri 2022 Fixes\Installer Beta\Main\sh2e\*"; DestDir: "{app}\sh2e"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\July 2022 Fixes\Installer Final\Main\sh2e\*"; DestDir: "{app}\sh2e"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]
