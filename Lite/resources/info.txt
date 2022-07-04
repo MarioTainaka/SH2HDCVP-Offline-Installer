@@ -3,16 +3,18 @@
 Silent Hill 2 HD Collection Voice Pack Version 5.0 Lite Edition
 =================================================================
 
-The Audio Enhancment Pack and FMV Enhancment Pack are NOT Required for this mod to function as they are already used as a base. This is the Lite Edition of the mod which features compressed Audio and CG Cutscenes.
+The Audio Enhancment Pack and FMV Enhancment Pack are NOT Required for this mod to function as they are already used as a base.
+
+This is the Lite Edition of the mod, which features compressed audio and video for those with slower internet connecions. 
 
 
 =================================
 Installation
 =================================
 
-1:	Get the Silent Hill Enhanched Edition Essential Files From The Link Below.
+1:	Download and run the Silent Hill Enhanched Edition Installer From The Link Below. Run the installer and install all packages except the FMV Enhnacement Pack and Audio Enhancement Pack.
 
-2: 	Run the installer. the installer will point to the installation path for Silent Hill 2, by default this is located in C:\Program Files (x86)\KONAMI\Silent Hill 2. (It's not recomended to have the game installed there.) 
+2: 	Download and run the Silent Hill 2 HD Collection Voice Pack installer. the installer will point to the installation path for Silent Hill 2, by default this is located in C:\Program Files (x86)\KONAMI\Silent Hill 2. (It's not recomended to have the game installed there.) 
 
 3:   	Install the HD Collection Voice Pack.
 
@@ -36,17 +38,8 @@ This mod is a passion project which replaces the Original Voice Acting For All E
 Links
 =======================
 
-Enhanched Edition Essential Files:	http://www.enhanced.townofsilenthill.com/SH2/install.htm#installEssentialFiles
+Enhanched Edition Installer:http://www.enhanced.townofsilenthill.com/SH2/install.htm
 
-SH2 Enhanchment Module:			http://www.enhanced.townofsilenthill.com/SH2/install.htm#installSH2Enhancements
-
-Image Ehancehment Pack:			http://www.enhanced.townofsilenthill.com/SH2/install.htm#installImageEnhancementPack
-
-Enhanched Exe:				http://www.enhanced.townofsilenthill.com/SH2/install.htm#installEnhancedEXE
-
-Xinput Plus(Optional):			http://www.enhanced.townofsilenthill.com/SH2/install.htm#controllerSetup
-
-DSOAL					:http://www.enhanced.townofsilenthill.com/SH2/install.htm#installDSOA
 
 ==========================
 
@@ -99,8 +92,9 @@ Re-Creating Born From A Wish BGM for
 
 * Spookycookies:
 
-- Youtube:https:	//www.youtube.com/user/spookycookies19
+- Youtube:	https://www.youtube.com/user/spookycookies19
 ----------------------------------------------
+
 
 =============================================
 
@@ -111,6 +105,17 @@ Installer Code
 
 - Contact:https://twitter.com/nipkownix
 
+
+
+==============================================
+Installer Cover Picture
+==============================================
+
+* _H_D_R
+
+Twitter: https://twitter.com/_H_D_R
+
+=============================================
 
 THE AUDIO ENHANCEMENT PACK MOD WAS CREATED BY: 
 ----------------------------------------------
@@ -138,6 +143,7 @@ by angular graphics, revisited by Ratiocinator
 
 *** Special Thanks 
 ================================================================
+
 * Polymega Of The Enhanced Edition Team: 
 
 - Contact :	https://twitter.com/theRatiocinator  
