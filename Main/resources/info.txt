@@ -10,9 +10,9 @@ The Audio Enhancment Pack and FMV Enhancment Pack are NOT Required for this mod 
 Installation
 =================================
 
-1:	Get the Silent Hill Enhanched Edition Essential Files From The Link Below.
+1:	Download and run the Silent Hill Enhanched Edition Installer From The Link Below. Run the installer and install all packages except the FMV Enhnacement Pack and Audio Enhancement Pack.
 
-2: 	Run the installer. the installer will point to the installation path for Silent Hill 2, by default this is located in C:\Program Files (x86)\KONAMI\Silent Hill 2. (It's not recomended to have the game installed there.) 
+2: 	Download and run the Silent Hill 2 HD Collection Voice Pack installer. The installer will point to the installation path for Silent Hill 2, by default this is located in C:\Program Files (x86)\KONAMI\Silent Hill 2. (It's not recomended to have the game installed there.) 
 
 3:   	Install the HD Collection Voice Pack.
 
@@ -36,17 +36,8 @@ This mod is a passion project which replaces the Original Voice Acting For All E
 Links
 =======================
 
-Enhanched Edition Essential Files:	http://www.enhanced.townofsilenthill.com/SH2/install.htm#installEssentialFiles
+Enhanched Edition Installer:http://www.enhanced.townofsilenthill.com/SH2/install.htm
 
-SH2 Enhanchment Module:			http://www.enhanced.townofsilenthill.com/SH2/install.htm#installSH2Enhancements
-
-Image Ehancehment Pack:			http://www.enhanced.townofsilenthill.com/SH2/install.htm#installImageEnhancementPack
-
-Enhanched Exe:				http://www.enhanced.townofsilenthill.com/SH2/install.htm#installEnhancedEXE
-
-Xinput Plus(Optional):			http://www.enhanced.townofsilenthill.com/SH2/install.htm#controllerSetup
-
-DSOAL					:http://www.enhanced.townofsilenthill.com/SH2/install.htm#installDSOA
 
 ==========================
 
@@ -102,6 +93,13 @@ Re-Creating Born From A Wish BGM for
 - Youtube:	https://www.youtube.com/user/spookycookies19
 ----------------------------------------------
 
+==============================================
+Installer Cover Picture
+==============================================
+
+* _H_D_R
+
+Twitter: https://twitter.com/_H_D_R
 
 =============================================
 
