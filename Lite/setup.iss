@@ -60,6 +60,9 @@ Source: "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 N
 [Icons]
 Name: "{group}\{cm:UninstallProgram,{#MyAppName}}"; Filename: "{uninstallexe}"
 
+[Setup] 
+UninstallFilesDir={app}\HD Collection Voice Pack Uninstall
+
 
 [Code]
 var
