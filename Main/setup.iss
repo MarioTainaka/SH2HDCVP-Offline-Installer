@@ -43,6 +43,12 @@ SetupIconFile=resources\sh2.ico
 Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "spanish"; MessagesFile: "compiler:Languages\Spanish.isl"; InfoBeforeFile:"languages\spanish\Readme_sp.txt"; LicenseFile : "languages\spanish\License_sp.txt"
 
+
+[Run]
+Filename: "{app}\sh2pc.exe"; Description: "Launch Silent Hill 2 Enhanced Edition"; Flags: nowait postinstall skipifsilent unchecked
+
+Filename: "{app}\SH2EEconfig.exe"; Description: "Launch Silent Hill 2 Enhanced Edition Config Tool"; Flags: nowait postinstall skipifsilent unchecked
+
 [Files]
 Source: "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\July 2022 Fixes\Installer Final\Main\sh2e\*"; DestDir: "{app}\sh2e"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
