@@ -53,8 +53,14 @@ Filename: "{app}\SH2EEconfig.exe"; Description: "Launch Silent Hill 2 Enhanced E
 Source: "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\July 2022 Fixes\Installer Final\Main\sh2e\*"; DestDir: "{app}\sh2e"; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
+
 [Icons]
 Name: "{group}\{cm:UninstallProgram,{#MyAppName}}"; Filename: "{uninstallexe}"
+
+
+[Setup] 
+UninstallFilesDir={app}\HD Collection Voice Pack Uninstall
+
 
 [Code]
 var
