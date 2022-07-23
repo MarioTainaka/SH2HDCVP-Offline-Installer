@@ -39,6 +39,7 @@ LicenseFile=resources\License.txt
 SetupIconFile=resources\sh2.ico
 
 
+
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "spanish"; MessagesFile: "compiler:Languages\Spanish.isl"; InfoBeforeFile:"languages\spanish\Readme_sp.txt"; LicenseFile : "languages\spanish\License_sp.txt"
