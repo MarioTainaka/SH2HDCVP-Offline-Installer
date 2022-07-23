@@ -41,6 +41,7 @@ SetupIconFile=resources\sh2.ico
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
+Name: "spanish"; MessagesFile: "compiler:Languages\Spanish.isl"; InfoBeforeFile:"languages\spanish\Readme_sp.txt"; LicenseFile : "languages\spanish\License_sp.txt"
 
 [Files]
 Source: "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\July 2022 Fixes\Installer Final\Main\sh2e\*"; DestDir: "{app}\sh2e"; Flags: ignoreversion recursesubdirs createallsubdirs
