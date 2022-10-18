@@ -25,7 +25,7 @@ Installation
 Un-Installation\ Upgrading
 =================================
 
-1:	Remove the old version by using Add Or Remove Programs and install the newer version. You can upgrade between the Lite and Main version if you want to.
+1:	Remove the old version by using Add Or Remove Programs and install the newer version. You can upgrade between the Reloaded II and Main version if you want to.
 
 
 
@@ -152,6 +152,17 @@ by angular graphics, revisited by Ratiocinator
 - Contact:https://twitter.com/nipkownix
 
 ================================================================
+
+
+===================
+Spanish Translation
+===================
+
+* Señor Dane
+
+- Contact: https://twitter.com/senorDane
+
+
 
 ==============
 

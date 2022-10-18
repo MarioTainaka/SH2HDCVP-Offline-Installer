@@ -23,7 +23,7 @@ Registro de cambios de la versión 1.2:
 
 - Se corrigieron algunos errores de transmisión de audio relacionados con el cierre de la transmisión de audio después de que finaliza una escena.
 
-- Compresión de audio fija (otra vez) Ahora el audio del paquete de mejora de Ps2 debería sonar incluso mejor aunque esté comprimido.
+- Compresión de audio fija Ahora el audio del paquete de mejora de Ps2 debería sonar incluso mejor aunque esté comprimido.
 
 - Byte de sonido de vomitar personalizado para Eddie vomitando en la escena CG.
 
@@ -231,7 +231,7 @@ Versión 4.3/Versión 4.3 LITE Edition Hotfix Changelog:
 
 
 -------------------------------------------------- -----
-Registro de cambios de revisiones de la versión 5.0/versión 5.0 LITE Edition:
+Registro de cambios de revisiones de la versión 5.0/versión 5.0 Reloaded II Edition:
 -------------------------------------------------- ------
 - Redid CG Escenas con otros nuevos del equipo de edición mejorada
 
@@ -260,3 +260,16 @@ Registro de cambios de revisiones de la versión 5.0/versión 5.0 LITE Edition:
 - Se normalizó el volumen de Saisho_1 (primera escena de figura acostada). El volumen de la estática de la radio era extremadamente alto antes. (Créditos al equipo de la edición mejorada por esta solución)
 
 - Se agregó el efecto de sonido tablón de madera que faltaba en la escena cinemática de Saisho_2 (¿Está muerto?). Gracias Konami.
+
+
+
+
+-------------------------------------------------- -----
+Registro de cambios de la versión 5.0.1/Versión 5.0.1 Reloaded II Edition:
+-------------------------------------------------- ------
+
+- Se agregó soporte en español al instalador.
+
+- Se agregaron registros de cambios y Léame en español.
+
+- Reverberación agregada a Gero_ed.adx (bucle de vómito de Eddie)
