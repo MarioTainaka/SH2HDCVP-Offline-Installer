@@ -273,3 +273,7 @@ Registro de cambios de la versión 5.0.1/Versión 5.0.1 Reloaded II Edition:
 - Se agregaron registros de cambios y Léame en español.
 
 - Reverberación agregada a Gero_ed.adx (bucle de vómito de Eddie)
+
+- Creó un directorio separado que alberga el desinstalador para solucionar cualquier problema con la herramienta de configuración de edición mejorada
+
+- Se agregó Flash.bik fijo del equipo de edición mejorada. Las versiones anteriores cortaban el audio abruptamente durante el juego. Se ha añadido un desvanecimiento
