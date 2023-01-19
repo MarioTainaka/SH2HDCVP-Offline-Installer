@@ -2,14 +2,14 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "Silent HIll 2 HD Collection Voice Pack"
-#define MyAppVersion "5.0.1"
+#define MyAppVersion "5.0.2"
 #define MyAppPublisher "Mario Tainaka"
 #define MyAppURL "https://twitter.com/SlaveOfSuzumiya"
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
-AppId={{DFC76979-B2BC-4405-AE53-9B65B7C2ACC2}
+AppId={{985CDDA3-DAC1-4DE6-9748-189F7CE6B69F}
 AppName={#MyAppName}
 AppVersion={#MyAppVersion}
 ;AppVerName={#MyAppName} {#MyAppVersion}
