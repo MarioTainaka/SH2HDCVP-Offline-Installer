@@ -1,5 +1,0 @@
-Compression=lzma2/ultra64
-SolidCompression=yes
-DiskSpanning=yes
-SlicesPerDisk=3
-DiskSliceSize=1566000000
