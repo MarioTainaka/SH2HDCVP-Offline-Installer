@@ -1,9 +1,9 @@
 
- Copyright (C) 2022 Mario Tainaka\ SlaveOfSuzumiya
+ Copyright (C) 2023 Mario Tainaka\ SlaveOfSuzumiya
 
-This project uses files from the Silent Hill 2 Enhanced Edition\ Enhanced Edition Team (C) 2022
+This project uses files from the Silent Hill 2 Enhanced Edition\ Enhanced Edition Team (C) 2023
 
-This project uses the following open source tools and libraries (C) 2022
+This project uses the following open source tools and libraries (C) 2023
 
       ------------------------------------------------------------------------
        AFS Packer - Version 2.1.1 By MaikelChan aka PacoChan                 
@@ -14,6 +14,22 @@ This project uses the following open source tools and libraries (C) 2022
                                                                       
                                               
       ----------------------------------------------------------------------
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+		SH2MSGConvert- Version 1.6 By loadwordteam
+
+		https://github.com/loadwordteam/SH2MSGConvert
+
+------------------------------------------------------------------------
+
 
 
 

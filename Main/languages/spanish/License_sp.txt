@@ -1,8 +1,8 @@
-﻿Copyright (C) 2022 Mario Tainaka\ SlaveOfSuzumiya
+﻿Copyright (C) 2023 Mario Tainaka\ SlaveOfSuzumiya
 
-Este proyecto utiliza archivos de Silent Hill 2 Enhanced Edition\ Enhanced Edition Team (C) 2022
+Este proyecto utiliza archivos de Silent Hill 2 Enhanced Edition\ Enhanced Edition Team (C) 2023
 
-Este proyecto utiliza las siguientes herramientas y bibliotecas de código abierto (C) 2022
+Este proyecto utiliza las siguientes herramientas y bibliotecas de código abierto (C) 2023
 
       ------------------------------------------------------------------------
       	Empacador AFS - Versión 2.1.1 Por MaikelChan alias PacoChan                 
@@ -31,6 +31,16 @@ Este proyecto utiliza las siguientes herramientas y bibliotecas de código abier
       	----------------------------------------------------------------------
 
 
+
+
+------------------------------------------------------------------------
+
+
+		SH2MSGConvert- Versión 1.6 Por loadwordteam
+
+		https://github.com/loadwordteam/SH2MSGConvert
+
+------------------------------------------------------------------------
 
 
 
