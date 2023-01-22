@@ -18,7 +18,7 @@ Instalación
 
 4: Inicie el juego.
 
-5: Los créditos, los registros de cambios y este archivo Léame se encuentran en sh2e\HD Collection Voice Pack Support
+5: Los créditos, los registros de cambios y este archivo Léame se encuentran en Konami\Silent Hill 2\HD Collection Voice Pack Support
 
 
 =================================

@@ -1,4 +1,4 @@
-=================================================================
+﻿=================================================================
 
 Silent Hill 2 HD Collection Voice Pack Version 5.0.2
 =================================================================
@@ -18,7 +18,7 @@ Installation
 
 4:    	Launch The Game.
 
-5:	Credits and Changelogs and this readme are located in  sh2e\HD Collection Voice Pack Support
+5:	Credits and Changelogs and this readme are located in   Konami\Silent Hill 2\HD Collection Voice Pack Support
 
 
 =================================
