@@ -3,7 +3,7 @@
 ## Silent HIll 2 HD Collection Voice Pack Version 1.0 Changelog:
 -------------------------------------------------------------------
 
--initial Release.
+- initial Release.
 
 
 --------------------------------------------------------------------
@@ -11,49 +11,49 @@
 ## Silent HIll 2 HD Collection Voice Pack Version 1.1 Changelog:
 ---------------------------------------------------------------------
 
--Includes fixes related to audio streaming, crashes have been mitigated.
+- Includes fixes related to audio streaming, crashes have been mitigated.
 
--Volume leveling for CG Cutscenes. Volume of the CG cutscenes is now equal to that of the streamed audio.
+- Volume leveling for CG Cutscenes. Volume of the CG cutscenes is now equal to that of the streamed audio.
 
--Custom sounds for Eddie his CG Cutscene where he throws up with the new VO.
+- Custom sounds for Eddie his CG Cutscene where he throws up with the new VO.
 
 -----------------------------------------------------------------------------------------------
 ## Silent HIll 2 HD Collection Voice Pack Version 1.2 Changelog:
 -----------------------------------------------------------------------------------------------
 
--Adjusted Volume of All CG Cutscenes so they match up with the volume of the in engine cutscenes.
+- Adjusted Volume of All CG Cutscenes so they match up with the volume of the in engine cutscenes.
 
--Fixed some audio streaming bugs related to closing the audio stream after a cutscene ends.
+- Fixed some audio streaming bugs related to closing the audio stream after a cutscene ends.
 
--Fixed Audio Compression (Again) Now the Audio from the Ps2 enhancement pack should sound even better even though it's compressed.
+- Fixed Audio Compression (Again) Now the Audio from the Ps2 enhancement pack should sound even better even though it's compressed.
 
--Custom throw up sound byte for Eddie throwing up in the CG Cutscene.
+- Custom throw up sound byte for Eddie throwing up in the CG Cutscene.
 
--Added custom Voice Clip for Mary calling out to James, Only Maria's lines were recorded with the new VO.
+- Added custom Voice Clip for Mary calling out to James, Only Maria's lines were recorded with the new VO.
 
--Added Compatibility With the FMV Enhancement Pack 1.6 which allows for choosing of your preferred aspect ratio.
+- Added Compatibility With the FMV Enhancement Pack 1.6 which allows for choosing of your preferred aspect ratio.
 
 --------------------------------------------------------------------------------------------------------------------
 
 ## Silent HIll 2 HD Collection Voice Pack Version 1.2.1 Changelog:
 --------------------------------------------------------------------------------------------------------------------
 
--Ported Common "New VO" From James and Mary/Maria Properly. All Clips should now play as they did in the HD port in right spots.
+- Ported Common "New VO" From James and Mary/Maria Properly. All Clips should now play as they did in the HD port in right spots.
 
--Fixed Eddie Damage VO Glitch From the HD Port Where Eddie his damage voices would overlap each other because one of the lines for the new Vo is 7 seconds long and would also play during the menu because of that.
+- Fixed Eddie Damage VO Glitch From the HD Port Where Eddie his damage voices would overlap each other because one of the lines for the new Vo is 7 seconds long and would also play during the menu because of that.
 
--Fixed Route B Common VO.
+- Fixed Route B Common VO.
 
 ---------------------------------------------------------------------------------------
 
 ## Silent HIll 2 HD Collection Voice Pack Version 1.3-1.9 Changelog (Not Public)
 ---------------------------------------------------------------------------------------
 
--Stereo Mixdown fixes for streaming Cutscenes.
+- Stereo Mixdown fixes for streaming Cutscenes.
 
--Compression Optimization.
+- Compression Optimization.
 
--Trying To Fix Lip Sync For CG Cutscenes.
+- Trying To Fix Lip Sync For CG Cutscenes.
 
 
 ------------------------------------------------------------------------------------------
@@ -64,25 +64,25 @@
 --------------------------------------------------------------------------------------------
 
 
--Retimed and Re-encoded all CG Cutscenes for almost perfect lip sync. (Times where it's off are simply due to the diffrences between the performances)
+- Retimed and Re-encoded all CG Cutscenes for almost perfect lip sync. (Times where it's off are simply due to the diffrences between the performances)
 
--More Common VO Fixes.
+- More Common VO Fixes.
 
--Reduced Overall Size by 160mb going from 4.00Gb to 3.84Gb.
+- Reduced Overall Size by 160mb going from 4.00Gb to 3.84Gb.
 
--Panning Audio Fixes. (These Were Already Mixed Into The Audio Just Not Decoded Properly In The HD Collection)
+- Panning Audio Fixes. (These Were Already Mixed Into The Audio Just Not Decoded Properly In The HD Collection)
 
--Added Radio EQ To Trick Or Treat Elevator Audio.
+- Added Radio EQ To Trick Or Treat Elevator Audio.
 
--Fixed All Mary/Maria Endings Where BGM Was Missing (BGM For Various Scenes Were Missing In The HD Collection).
+- Fixed All Mary/Maria Endings Where BGM Was Missing (BGM For Various Scenes Were Missing In The HD Collection).
 
--Re-Mixed Letters (2 Of Them Cut Off Around The 1 minute Mark (The HD Collection Shipped This Way)
+- Re-Mixed Letters (2 Of Them Cut Off Around The 1 minute Mark (The HD Collection Shipped This Way)
 
--Fixing a goof with the trick or treat audio: For the old voices they covered up the phrase "Torn To Pieces" with static, but for the HD voice that uses the same lines 1:1 the phrase is whispered as it should be. However the file used for when playing with the HD VO is full of pops and clicks. This will now be fixed.
+- Fixing a goof with the trick or treat audio: For the old voices they covered up the phrase "Torn To Pieces" with static, but for the HD voice that uses the same lines 1:1 the phrase is whispered as it should be. However the file used for when playing with the HD VO is full of pops and clicks. This will now be fixed.
 
--Added Echo To Flashback Scenes.
+- Added Echo To Flashback Scenes.
 
--Fixed Another Eddie Damage VO Glitch From the HD Port. (AGAIN)
+- Fixed Another Eddie Damage VO Glitch From the HD Port. (AGAIN)
 
 
 
@@ -93,7 +93,7 @@
 
 --------------------------------------------------------------------------------------------
 
--Added a fix from the Enhanched Team which fixes music looping for the Hospital.
+- Added a fix from the Enhanched Team which fixes music looping for the Hospital.
 
 
 
@@ -110,11 +110,11 @@
 
 --------------------------------------------------------------------------------------------
 
--Fixed Yarinaoshi_Letter and Yarinaoshi Letter Mix/ Mary Letter Endings, Fixed a bug left over from the HD port which causes the audio to just stop in the middle of the reading due to bugged files left in by the team.
+- Fixed Yarinaoshi_Letter and Yarinaoshi Letter Mix/ Mary Letter Endings, Fixed a bug left over from the HD port which causes the audio to just stop in the middle of the reading due to bugged files left in by the team.
 
--Added missing Background Music to all Earnest Scenes in Born From A Wish.
+- Added missing Background Music to all Earnest Scenes in Born From A Wish.
 
--Optimized streaming for voice files more, The game should now stutter less when starting to audio on slower hard drives.
+- Optimized streaming for voice files more, The game should now stutter less when starting to audio on slower hard drives.
 
 
 
@@ -126,29 +126,29 @@
 
 --------------------------------------------------------------------------------------------
 
--All Audio has been switched over to using the patched PS3 Version.
+- All Audio has been switched over to using the patched PS3 Version.
 
--James, Maria and Eddie their gameplay voices now use the Patched PS3 Version's assets.
+- James, Maria and Eddie their gameplay voices now use the Patched PS3 Version's assets.
 
--Streamed Audio (Cutscenes) have been redone using the Patched PS3 Version's assets.
+- Streamed Audio (Cutscenes) have been redone using the Patched PS3 Version's assets.
 
--Audio has been remixed from scratch (AGAIN) from 5:1 to stereo (AGAIN).
+- Audio has been remixed from scratch (AGAIN) from 5:1 to stereo (AGAIN).
 
--Audio has been re-encoded using CRI debugger to be more efficient on the CPU.
+- Audio has been re-encoded using CRI debugger to be more efficient on the CPU.
 
--Yarinaoshi, Yarinoshi_Letter, Yarianoshi_Letter_MIX have been redone.
+- Yarinaoshi, Yarinoshi_Letter, Yarianoshi_Letter_MIX have been redone.
 
--Timing For Yarinaoshi_Letter has been adjusted to better match old voices to preventing timing issues with the scrolling text.
+- Timing For Yarinaoshi_Letter has been adjusted to better match old voices to preventing timing issues with the scrolling text.
 
--Fixed an oversight with the introduction collage. Where the version with voices unlocked upon completing the game would have no audio. This was an oversight on my end and has since been fixed. However the lip sync of the version with voices isn't that stellar due to editing done by PCB. I've trie my best to somewhat fix that version but it's really hard to line it up perfectly.
+- Fixed an oversight with the introduction collage. Where the version with voices unlocked upon completing the game would have no audio. This was an oversight on my end and has since been fixed. However the lip sync of the version with voices isn't that stellar due to editing done by PCB. I've trie my best to somewhat fix that version but it's really hard to line it up perfectly.
 
--Added Missing BGM's to Maria endings.
+- Added Missing BGM's to Maria endings.
 
--Born from a wish BGM that is used in those cutscenes have been redone to be more faithful to the original.
+- Born from a wish BGM that is used in those cutscenes have been redone to be more faithful to the original.
 
--All Streamed Audio (Cutscenes) That have no dialogue now retain their Audio Enhancement Pack assets. (Previously all Cutscene audio was replaced for consistency. But i've come to the conclusion the compressed audio is just horrible.)
+- All Streamed Audio (Cutscenes) That have no dialogue now retain their Audio Enhancement Pack assets. (Previously all Cutscene audio was replaced for consistency. But i've come to the conclusion the compressed audio is just horrible.)
 
--Radio Quiz EQ has been redone using PS3 Assets.
+- Radio Quiz EQ has been redone using PS3 Assets.
 
 
 
@@ -160,7 +160,7 @@
 
 --------------------------------------------------------------------------------------------
 
--Added the new Sh2 Pc Credits Video from the Enhanced Team Update #6 released on 28 October 2020. (Please install Version 4.0 before installing this update.)
+- Added the new Sh2 Pc Credits Video from the Enhanced Team Update #6 released on 28 October 2020. (Please install Version 4.0 before installing this update.)
 
 
 
@@ -175,11 +175,11 @@
 
 --------------------------------------------------------------------------------------------
 
--Moved Cutscene Audio over to uncompressed wave/.wav assets for better audio quality.
+- Moved Cutscene Audio over to uncompressed wave/.wav assets for better audio quality.
 
--background hiss due to ADX/ATAC 3 Compression in almost all cutscenes has been eliminated.
+- background hiss due to ADX/ATAC 3 Compression in almost all cutscenes has been eliminated.
 
--Improved support for DSOAL Pop/Click Fix by The Enhanced Edition Team.
+- Improved support for DSOAL Pop/Click Fix by The Enhanced Edition Team.
 
 
 --------------------------------------------------------------------------
@@ -194,7 +194,7 @@
 To-Do's
 --------------------------------------------
 
--Fix Bowling Alley Alleyway With Maria (There is no dialouge because the voice files are empty, The HD Collection Shipped This Way)
+- Fix Bowling Alley Alleyway With Maria (There is no dialouge because the voice files are empty, The HD Collection Shipped This Way)
 
 
 
@@ -238,7 +238,7 @@ To-Do's
 ## Silent HIll 2 HD Collection Voice Pack Version 4.3/ Version 4.3 LITE Edition Hotfix Changelog:
 ---------------------------------------------------------------------------------------------------
 
--Maintenance Update in preparation for future updates from the Enhanced Edition Team (Combined all hotfix updates into one so that the user only has to download version 4.1 and then 4.3 Of The Regular Or Lite Edition)
+- Maintenance Update in preparation for future updates from the Enhanced Edition Team (Combined all hotfix updates into one so that the user only has to download version 4.1 and then 4.3 Of The Regular Or Lite Edition)
 
 
 
