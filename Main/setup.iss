@@ -28,7 +28,7 @@ DisableWelcomePage=no
 DisableDirPage=no
 WizardImageFile=resources\Thumb.bmp
 WizardSmallImageFile=resources\top.bmp
-SolidCompression=yes
+SolidCompression=no
 DiskSpanning=yes
 SlicesPerDisk=3
 DiskSliceSize=1566000000
@@ -36,6 +36,7 @@ WizardStyle=modern
 InfoBeforeFile=resources\info.txt
 LicenseFile=resources\License.txt
 SetupIconFile=resources\sh2.ico
+Compression=zip
 
 
 [Languages]
