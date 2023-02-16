@@ -33,14 +33,12 @@ DiskSpanning=yes
 SlicesPerDisk=3
 DiskSliceSize=1566000000
 WizardStyle=modern
-InfoBeforeFile=resources\info.txt
-LicenseFile=resources\License.txt
 SetupIconFile=resources\sh2.ico
 Compression=zip
 
 
 [Languages]
-Name: "english"; MessagesFile: "compiler:Default.isl"
+Name: "english"; MessagesFile: "compiler:Default.isl"; InfoBeforeFile:"languages\english\Readme_en.txt"; LicenseFile : "languages\english\License_en.txt"
 Name: "spanish"; MessagesFile: "compiler:Languages\Spanish.isl"; InfoBeforeFile:"languages\spanish\Readme_sp.txt"; LicenseFile : "languages\spanish\License_sp.txt"
 
 

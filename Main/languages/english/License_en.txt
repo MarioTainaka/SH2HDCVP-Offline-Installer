@@ -1,4 +1,4 @@
-
+﻿
  Copyright (C) 2023 Mario Tainaka\ SlaveOfSuzumiya
 
 This project uses files from the Silent Hill 2 Enhanced Edition\ Enhanced Edition Team (C) 2023
