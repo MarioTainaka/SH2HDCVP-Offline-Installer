@@ -42,7 +42,7 @@ Compression=zip
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "spanish"; MessagesFile: "compiler:Languages\Spanish.isl"; InfoBeforeFile:"languages\spanish\Readme_sp.txt"; LicenseFile : "languages\spanish\License_sp.txt"
-Name: "italian"; MessagesFile: "compiler:Languages\Italian.isl"; InfoBeforeFile:"languages\italian\Readme_it.txt"; LicenseFile : "languages\Italian\License_it.txt"
+
 
 
 [Run]
