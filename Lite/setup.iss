@@ -133,3 +133,20 @@ begin
   Result := InstallationPath;
 end;
 
+ // Custom message code which makes the message box appear
+[Code]
+function InitializeSetup: Boolean;
+begin
+  Result := True;  
+  MsgBox(ExpandConstant('{cm:CustomMessage}'), mbInformation, MB_OK);
+end;
+
+
+
+[CustomMessages]
+
+MsgBox=(ExpandConstant('{cm:MyCustomMessage}'), mbInformation, MB_OK);
+
+CustomMessage=Undefined //just in case (should be equal to English)
+english.CustomMessage=The Silent Hill 2 Enhanced Edition is required for this mod to function, please make sure you have installed the latest version before continuing. Ensure the Audio Enhancemment And FMV Enhancement Pack are NOT installed before continuing
+spanish.CustomMessage=Se requiere Silent Hill 2 Enhanced Edition para que este mod funcione, asegúrese de haber instalado la última versión antes de continuar. Asegúrese de que Audio Enhancemment y FMV Enhancement Pack NO estén instalados antes de continuar
