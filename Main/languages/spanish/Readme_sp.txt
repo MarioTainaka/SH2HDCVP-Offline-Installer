@@ -25,7 +25,7 @@ Instalación
 Desinstalación\ Actualización
 =================================
 
-1: Elimine la versión anterior usando Agregar o quitar programas e instale la versión más nueva. Puede actualizar entre la versión Reloaded II y Main si lo desea.
+1: Elimine la versión anterior usando Agregar o quitar programas e instale la versión más nueva. Puede actualizar entre la versión Reloaded II y Main\Lite si lo desea.
 
 
 

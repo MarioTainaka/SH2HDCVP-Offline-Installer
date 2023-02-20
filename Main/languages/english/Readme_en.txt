@@ -1,18 +1,18 @@
-﻿=================================================================
+=================================================================
 
 Silent Hill 2 HD Collection Voice Pack Version 5.0.2
 =================================================================
 
-The Audio Enhancment Pack and FMV Enhancment Pack are NOT Required for this mod to function as they are already used as a base. 
+The Audio Enhancement Pack and FMV Enhancement Pack are NOT Required for this mod to function as they are already used as a base. 
 
 
 =================================
 Installation
 =================================
 
-1:	Download and run the Silent Hill Enhanched Edition Installer From The Link Below. Run the installer and install all packages except the FMV Enhnacement Pack and Audio Enhancement Pack.
+1:	Download and run the Silent Hill Enhanced Edition Installer From The Link Below. Run the installer and install all packages except the FMV Enhancement Pack and Audio Enhancement Pack.
 
-2: 	Download and run the Silent Hill 2 HD Collection Voice Pack installer. The installer will point to the installation path for Silent Hill 2, by default this is located in C:\Program Files (x86)\KONAMI\Silent Hill 2. (It's not recomended to have the game installed there.) 
+2: 	Download and run the Silent Hill 2 HD Collection Voice Pack installer. The installer will point to the installation path for Silent Hill 2, by default this is located in C:\Program Files (x86)\KONAMI\Silent Hill 2. (It's not recommended to have the game installed there.) 
 
 3:   	Install the HD Collection Voice Pack.
 
@@ -25,18 +25,18 @@ Installation
 Un-Installation\ Upgrading
 =================================
 
-1:	Remove the old version by using Add Or Remove Programs and install the newer version. You can upgrade between the Reloaded II and Main version if you want to.
+1:	Remove the old version by using Add Or Remove Programs and install the newer version. You can upgrade between the Reloaded II and Main\Lite version if you want to.
 
 
 
-This mod is a passion project which replaces the Original Voice Acting For All Events and in game voices in the game with the HD 2012 voices recorded at PCB Studios in L.A famous for dubbing your favourite games like Persona. It also includes redone FMV's with the HD voices using the FMV Enhanchement Pack As A Base. The Enhanched Audio is also used as a base. The HD voices have been remixed to true 2 channel stereo Instead of 5:1 and all mixing errors have been fixed.
+This mod is a passion project which replaces the Original Voice Acting For All Events and in game voices in the game with the HD 2012 voices recorded at PCB Studios in L.A famous for dubbing your favorite games like Persona. It also includes redone FMV's with the HD voices using the FMV Enhancement Pack As A Base. The Enhanced Audio is also used as a base. The HD voices have been remixed to true 2 channel stereo Instead of 5:1 and all mixing errors have been fixed.
 
 =======================
 
 Links
 =======================
 
-Enhanched Edition Installer:http://www.enhanced.townofsilenthill.com/SH2/install.htm
+Enhanced Edition Installer:http://www.enhanced.townofsilenthill.com/SH2/install.htm
 
 
 ==========================
@@ -169,7 +169,7 @@ Spanish Translation
 Known Issues
 =============
 
--Fix Bowling Alley Alleyway With Maria (There is no dialouge because the voice files are empty, The HD Collection Shipped This Way)
+-Fix Bowling Alley Alleyway With Maria (There is no dialogue because the voice files are empty, The HD Collection Shipped This Way)
 
 
 
