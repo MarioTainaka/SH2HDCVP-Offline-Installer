@@ -303,7 +303,7 @@ Version 5.0.2/ Version 5.0.2 Reloaded II Edition Changelog:
 
 - General cleaning
 
-- Added new subtitles for Saisho_2 (Is this thing broken) to reference the new voice Mary voice-over. In Version 1.0 of the HD Collection there was no VO. James was reacting to static. In update 1.1 on PS3 they added Voice-overs but they don't line up with the original line at all. The director likely didn't know what the line should be. The subtitles have been edited in English, Italian and Spanish to reflect this new line.
+- Added new subtitles for Saisho_2 (Is this thing broken) to reference the new voice Mary voice-over. In Version 1.0 of the HD Collection there was no VO. James was reacting to static. In update 1.1 on PS3 they added Voice-overs but they don't line up with the original line at all. The director likely didn't know what the line should be. The subtitles have been edited in English, Italian, French and Spanish to reflect this new line.
 
 - Added Liscene.txt file to reference all tools used for this project.
 

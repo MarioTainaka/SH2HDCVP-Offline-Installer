@@ -289,7 +289,7 @@ Registro de cambios de la versión 5.0.2/Versión 5.0.2 Reloaded II Edition:
 
 - Limpieza General
 
-- Se agregaron nuevos subtítulos para Saisho_2 (¿Esta cosa está rota?) para hacer referencia a la nueva voz en off de Mary. En la versión 1.0 de HD Collection no había VO. James estaba reaccionando a la estática. En la actualización 1.1 en PS3 agregaron Voice-overss pero no se alinean con la línea original en absoluto. El director probablemente no sabía cuál debería ser la línea. Los subtítulos han sido editados en inglés, italiano y español para reflejar esto.
+- Se agregaron nuevos subtítulos para Saisho_2 (¿Esta cosa está rota?) para hacer referencia a la nueva voz en off de Mary. En la versión 1.0 de HD Collection no había VO. James estaba reaccionando a la estática. En la actualización 1.1 en PS3 agregaron Voice-overss pero no se alinean con la línea original en absoluto. El director probablemente no sabía cuál debería ser la línea. Los subtítulos han sido editados en Inglés, Italiano, Alemán, Francés y Español para reflejar esto.
 
 - Se agregó el archivo Liscene.txt para hacer referencia a todas las herramientas utilizadas para este proyecto.
 

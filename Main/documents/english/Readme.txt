@@ -21,11 +21,14 @@ Installation
 5:	Credits and Changelogs and this readme are located in   Konami\Silent Hill 2\HD Collection Voice Pack Support
 
 
-=================================
-Un-Installation\ Upgrading
-=================================
+==================================================
+Un-Installation\ Upgrading\Turning The Mod Off
+==================================================
 
-1:	Remove the old version by using Add Or Remove Programs and install the newer version. You can upgrade between the Reloaded II and Main\Lite version if you want to.
+1:	Remove the old version by using Add Or Remove Programs and install the newer version. You can upgrade between the Main\Lite version if you want to.
+
+2:      If you want to disable the mod without uninstalling it just rename the "lang" folder to something else like "lang_backup" for example. Be sure to change the name back when un-installing.
+
 
 
 

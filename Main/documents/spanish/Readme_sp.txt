@@ -21,12 +21,13 @@ Instalación
 5: Los créditos, los registros de cambios y este archivo Léame se encuentran en Konami\Silent Hill 2\HD Collection Voice Pack Support
 
 
-=================================
-Desinstalación\ Actualización
-=================================
+==================================================
+Desinstalación\Actualización\Desactivación del Mod
+==================================================
 
-1: Elimine la versión anterior usando Agregar o quitar programas e instale la versión más nueva. Puede actualizar entre la versión Reloaded II y Main\Lite si lo desea.
+1: Elimine la versión anterior usando Agregar o quitar programas e instale la versión más nueva. Puede actualizar entre la versión Main\Lite si lo desea.
 
+2: Si desea deshabilitar el mod sin desinstalarlo, simplemente cambie el nombre de la carpeta "lang" a algo más como "lang_backup", por ejemplo. Asegúrese de volver a cambiar el nombre al desinstalar.
 
 
 Este mod es un proyecto apasionante que reemplaza la actuación de voz original para todos los eventos y las voces en el juego con las voces HD 2012 grabadas en PCB Studios en L.A, famosas por doblar tus juegos favoritos como Persona. También incluye FMV rehechos con las voces HD utilizando el paquete de mejora de FMV como base. El audio mejorado también se utiliza como base. Las voces HD se han remezclado a verdadero estéreo de 2 canales en lugar de 5:1 y se han solucionado todos los errores de mezcla.
