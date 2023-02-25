@@ -166,6 +166,15 @@ Spanish Translation
 
 
 
+===================
+Italian Translation
+===================
+
+* Sonikko06
+
+- Contact: https://twitter.com/Sonikko06
+
+
 ==============
 
 Known Issues
