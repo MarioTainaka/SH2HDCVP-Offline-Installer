@@ -40,6 +40,8 @@ Compression=zip
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"; InfoBeforeFile:"C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\English\Readme.txt"; LicenseFile : "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\English\License.txt"
 Name: "spanish"; MessagesFile: "compiler:Languages\Spanish.isl"; InfoBeforeFile:"C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Spanish\Readme_sp.txt"; LicenseFile : "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Spanish\License_sp.txt"
+Name: "italian"; MessagesFile: "compiler:Languages\Italian.isl"; InfoBeforeFile:"C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Italian\Readme_it.txt"; LicenseFile : "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Italian\License_it.txt"
+
 
 
 
@@ -133,7 +135,6 @@ begin
 end;
 
 
-
 // Custom message code which makes the message box appear
 [Code]
 function InitializeSetup: Boolean;
@@ -143,6 +144,7 @@ begin
 end;
 
 
+
 [CustomMessages]
 
 MsgBox=(ExpandConstant('{cm:MyCustomMessage}'), mbInformation, MB_OK);
@@ -150,5 +152,5 @@ MsgBox=(ExpandConstant('{cm:MyCustomMessage}'), mbInformation, MB_OK);
 CustomMessage=Undefined //just in case (should be equal to English)
 english.CustomMessage=Ensure Silent Hill 2: Enhanced Edition is installed prior to running this installer for the Silent Hill 2 HD Collection Voice Pack
 spanish.CustomMessage=Asegúrese de que Silent Hill 2: Enhanced Edition esté instalado antes de ejecutar este instalador para Silent Hill 2 HD Collection Voice Pack
-
+italian.CustomMessage=Assicurati che Silent Hill 2: Enhanced Edition sia installato prima di eseguire questo programma di installazione per Silent Hill 2 HD Collection Voice Pack
 
