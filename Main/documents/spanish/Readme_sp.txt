@@ -164,6 +164,15 @@ Traducción Española
 
 - Contact: https://twitter.com/senorDane
 
+
+===================
+Traduccion Italiana
+===================
+
+* Sonikko06
+
+- Contacto: https://twitter.com/Sonikko06
+
 ====================
 
 Problemas conocidos
