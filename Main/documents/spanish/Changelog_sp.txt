@@ -280,9 +280,9 @@ Registro de cambios de la versión 5.0.1/Versión 5.0.1 Reloaded II Edition:
 
 
 
--------------------------------------------------- -----
-Registro de cambios de la versión 5.0.2/Versión 5.0.2 Reloaded II Edition:
--------------------------------------------------- ------
+-------------------------------------------------- -----------------
+Registro de cambios de la versión 5.0.2/Versión 5.0.2 Lite Edition:
+-------------------------------------------------- -----------------
 
 
 - Sincronización de audio CG Cutscene mejorada.

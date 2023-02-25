@@ -297,7 +297,7 @@ Version 5.0.1/ Version 5.0.1 Reloaded II Edition Changelog:
 
 
 -------------------------------------------------------
-Version 5.0.2/ Version 5.0.2 Reloaded II Edition Changelog:
+Version 5.0.2/ Version 5.0.2 Lite Edition Changelog:
 --------------------------------------------------------
 
 - Migliorata sincronizzazione audio delle cutscene CG.
