@@ -297,16 +297,16 @@ To-Do's
 
 
 ------------------------------------------------------------------------------------------------------
-## Silent HIll 2 HD Collection Voice Pack Version 5.0.2/ Version 5.0.2 Reloaded II Edition Changelog:
+## Silent HIll 2 HD Collection Voice Pack Version 5.0.2/ Version 5.0.2 Lite Edition Changelog:
 -------------------------------------------------------------------------------------------------------
 
 - Improved CG Cutscene audio sync.
 
 - General cleaning
 
-- Added new subtitles for Saisho_2 (Is this thing broken) to refrence the new voice Mary voice-over. In Version 1.0 of the HD Collection there was no VO. James was reacting to static. In update 1.1 on PS3 they added Voice-overss but they don't line up with the original line at all. The director likely didn't know what the line should be. The subtitles have been edited in English, Italian and Spanish to reflect this new line.
+- Added new subtitles for Saisho_2 (Is this thing broken) to reference the new voice Mary voice-over. In Version 1.0 of the HD Collection there was no VO. James was reacting to static. In update 1.1 on PS3 they added Voice-overs but they don't line up with the original line at all. The director likely didn't know what the line should be. The subtitles have been edited in English, Italian, French and Spanish to reflect this new line.
 
-- Added Liscene.txt file to refrence all tools used for this project.
+- Added Liscene.txt file to reference all tools used for this project.
 
 - Added Silent Hill 2 HD Collection Dub Staff Credits.txt which lists all staff involved in the HD Collection Dub. Alot of the staff was never credited properly.
 
@@ -314,9 +314,18 @@ To-Do's
 
 - Moved Readme files and other docs to the root install directory instead of the sh2e directory. The New Directory by default is Konami\Silent HIll 2\ HD Collection Voice Pack Support.
 
-- Remove uneeded compression in order to speedup installation on low end systems.
+- Remove unneeded compression in order to speedup installation on low end systems.
 
-- Restored Original BGM for SCENE_02 (James narrarting his quest to find Mary to the player) The original guitar lute has been restored.
+- Restored Original BGM for SCENE_02 (James narrating his quest to find Mary to the player) The original guitar lute has been restored.
+
+- Added Italian localization to the installer. 
+
+- Added Italian Readme’s and Changelogs.
+
+- Fixed typos.
+
+
+
 
 
 
