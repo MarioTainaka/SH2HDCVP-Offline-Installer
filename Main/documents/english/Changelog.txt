@@ -325,6 +325,18 @@ Version 5.0.2/ Version 5.0.2 Lite Edition Changelog:
 
 
 
+------------------------------------------------------------
+Version 5.0.3/ Version 5.0.3 Lite Edition Changelog:
+-------------------------------------------------------------
+
+- Restored Original BGM for geki (Born From A Wish intro cutscene, huge thanks to Spookycookies once again for stitching the Original music back together.
+
+- Restored Original BGM for aijin (Maria Ending Bossfight Intro cutscene)
+
+
+
+
+
 
 
 
