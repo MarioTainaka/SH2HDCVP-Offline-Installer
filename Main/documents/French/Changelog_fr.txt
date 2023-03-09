@@ -1,0 +1,324 @@
+-------------------------------------------------- ------------------
+
+Version 1.0 :
+-------------------------------------------------- -----------------
+
+-Version initiale.
+
+
+-------------------------------------------------- ------------------
+
+Version 1.1, liste des modifications :
+-------------------------------------------------- -------------------
+
+-Comprend des correctifs liés à la diffusion audio, les plantages ont été atténués.
+
+-Mise à niveau du volume pour les cinématiques CG, qui est maintenant égal à celui de l'audio diffusé.
+
+-Sons personnalisés pour Eddie pour la cinématique CG où il vomit, dans le nouveau doublage.
+
+-------------------------------------------------- ---------------------------------------------
+Version 1.2, liste des modifications :
+-------------------------------------------------- ---------------------------------------------
+
+-Ajustement du volume de toutes les cinématiques CG afin qu'elles correspondent au volume du moteur.
+
+-Correction de certains problèmes de diffusion audio liés à la fermeture du flux en fin de cinématique.
+
+-Compression audio corrigée (encore). Maintenant, l'audio du PS2 Enhancement Pack devrait être meilleur, même si compressé.
+
+- Son de vomissement personnalisé de la cinématique CG d'Eddie.
+
+-Ajout d'une voix personnalisée de Mary appelant James, seules les lignes de Maria ont été enregistrées pour le nouveau doublage.
+
+-Ajout de la compatibilité avec le FMV Enhancement Pack 1.6 pour permettre de choisir votre aspect-ratio préféré.
+
+-------------------------------------------------- -------------------------------------------------- ----------------
+
+Version 1.2.1, liste des modifications :
+-------------------------------------------------- -------------------------------------------------- ----------------
+
+-Port correct du "nouveau doublage" de James et Mary/Maria. Tous les clips devraient maintenant être lus comme dans le port HD, aux bons endroits.
+
+-Correction d'un glitch du son d'Eddie heurté dans le doublage, sa voix de plainte se chevaucheraient car l'une des lignes du nouveau doublage dure 7 secondes et jouerait également pendant le menu à cause de ça.
+
+-Route B doublage commun corrigé.
+
+-------------------------------------------------- -------------------------------------
+
+Version 1.3-1.9 (non publiées), liste des modifications :
+-------------------------------------------------- -------------------------------------
+
+-Corrections du mixage stéréo pour les cinématiques.
+
+-Optimisation de la compression.
+
+-Essai de correction des synchronisations labiales pour les cinématiques CG.
+
+
+-------------------------------------------------- ----------------------------------------
+
+
+Version 2.0, liste des modifications :
+
+-------------------------------------------------- ------------------------------------------
+
+
+- Toutes les cinématiques CG resynchronisées et ré-encodées pour une synchronisation labiale quasi parfaite. (les moments asynchrones sont dus aux différences de performance)
+
+-Plus de correctifs communs de doublage.
+
+-Taille globale réduite de 160 Mo, passant de 4,00 Go à 3,84 Go.
+
+-Corrections audio panoramiques. (ceux-ci, déjà mélangés dans l'audio, ne sont pas décodés correctement depuis le nouveau doublage)
+
+-Ajout d'un égaliseur radio pour tromper/traiter l'audio de l'ascenseur.
+
+-Correction de toutes les fins de Mary/Maria où la musique de fond manquait (la musique de fond de diverses scènes manquait dans le nouveau doublage).
+
+-Lettres réécrites (2 d'entre elles coupées autour de 1 minute (le nouveau doublage est ainsi fait))
+
+-Réparée une gaffe de l'audio trompé/traité : pour le doublage d'origine ils ont couvert la phrase "Torn To Pieces" par un son statique, mais pour la voix du nouveau doublage qui utilise les mêmes lignes 1:1, la phrase est chuchotée comme il se doit. Cependant, le fichier utilisé pour jouer avec le nouveau doublage est plein de pops et de clics. C'est désormais corrigé.
+
+-Ajout d'un écho aux scènes de flashback.
+
+-Correction d'un autre glitch du son d'Eddie heurté à partir du nouveau doublage. (ENCORE)
+
+
+
+-------------------------------------------------- ----------------------------------------
+
+
+Version 2.0.1, liste des modifications :
+
+-------------------------------------------------- ------------------------------------------
+
+-Ajout d'un correctif de l'Enhanced Team qui corrige la musique en boucle à l'hôpital.
+
+
+
+
+
+
+
+
+
+-------------------------------------------------- ----------------------------------------
+
+
+Version 3.0, liste des modifications :
+
+-------------------------------------------------- ------------------------------------------
+
+-Correction et mixage de la lettre de Yarinaoshi/ la lettre de Mary des fins, correction d'un bug laissé par le port HD qui fait que l'audio s'arrête juste au milieu de la lecture en raison de fichiers problématiques laissés par l'équipe de développement.
+
+-Ajout de la musique de fond manquante à toutes les scènes d'Ernest dans Born From A Wish.
+
+-Diffusion plus optimisée pour les fichiers vocaux, le jeu devrait désormais moins bégayer lors du démarrage de l'audio sur des disques durs lents.
+
+
+
+
+-------------------------------------------------- ----------------------------------------
+
+
+Version 4.0, liste des modifications :
+
+-------------------------------------------------- ------------------------------------------
+
+-Tout l'audio a été changé par utilisation de celui la version PS3 patchée.
+
+-James, Maria et Eddie, leurs voix utilisent désormais les ressources de la version PS3 patchée.
+
+-La diffusion audio (scènes cinématiques) a été refait à l'aide des ressources de la version PS3 patchée.
+
+-L'audio a été totalement remixé (ENCORE) de 5:1 à stéréo (ENCORE).
+
+-L'audio a été ré-encodé à l'aide du débogueur CRI pour être plus efficace au niveau du  processeur.
+
+-Yarinaoshi, Yarinoshi_Lettre, Yarianoshi_Lettre_MIX ont été refaits.
+
+-La synchronisation de Yarinaoshi_Lettre a été ajustée pour mieux correspondre à l'ancien doublage afin d'éviter les problèmes de synchronisation avec le texte défilant.
+
+-Correction d'un oubli avec le collage à l'introduction. Là où la version des voix déverrouillées à la fin du jeu n'aurait pas d'audio audible. Il s'agissait d'un oubli de ma part et a depuis été corrigé. Cependant, la synchronisation labiale de la version avec voix n'est pas si stellaire en raison de l'édition effectuée par PCB. J'ai fait de mon mieux pour corriger quelque peu cette version, mais il est vraiment difficile de l'aligner parfaitement.
+
+-Ajout de BGM manquants aux fins de Maria.
+
+-Born from a wish BGM qui est utilisé dans ces cinématiques ont été refaites pour être plus fidèles à l'original.
+
+-Tous les flux audio (scènes cinématiques) qui n'ont pas de dialogue conservent désormais leurs ressources de l'Audio Enhancement Pack. (Auparavant, tout l'audio des cinématiques était remplacé par souci de cohérence. Mais j'en suis venu à la conclusion que l'audio compressé est tout simplement affreux.)
+
+-Radio Quiz EQ a été refait en utilisant les ressources PS3.
+
+
+
+
+-------------------------------------------------- ----------------------------------------
+
+
+Version 4.01, liste des modifications :
+
+-------------------------------------------------- ------------------------------------------
+
+-Ajout de la nouvelle vidéo des Crédits PC de la mise à jour de l'Enhanced Team #6 publiée le 28 octobre 2020. (Veuillez installer la version 4.0 avant d'installer cette mise à jour.)
+
+
+
+
+
+
+
+-------------------------------------------------- ----------------------------------------
+
+
+Version 4.1, liste des modifications :
+
+-------------------------------------------------- ------------------------------------------
+
+-Déplacement de l'audio des cinématiques vers des ressources wave/.wav non compressées pour une meilleure qualité audio.
+
+- Le sifflement de fond dû à la compression ADX/ATAC 3 a été éliminé dans presque toutes les cinématiques.
+
+- Prise en charge améliorée des corrections des Pop/Click DSOAL par l'Enhanced Edition Team.
+
+
+-------------------------------------------------- --------------
+Version 4.1.1, liste des modifications :
+-------------------------------------------------- --------------
+
+- Ajout d'un correctif de l'Enhanced Team pour la boucle BGM de Flesh Lips publiée le 13 janvier 2021
+
+
+--------------------------------------------
+
+À faire
+--------------------------------------------
+
+-Correction de Maria dans l'allée du Bowling  (Il n'y a pas de dialogue car les fichiers vocaux sont vides, le nouveau doublage est ainsi fait)
+
+
+
+
+-------------------------------------------------- ----------------------
+Version 4.1- 4.1.1 (édition légère)
+
+- Cinématiques CG compressées
+
+- Flux audio compressé (cinématiques en ADX)
+
+
+
+-------------------------------------------------- ----------------------
+Version 4.1- 4.1.2 Hotfix (édition légère) :
+
+
+- Ajout de la piste de voix manquante à la vidéo d'ouverture après avoir terminé le jeu.
+
+
+
+
+
+-------------------------------------------------- -----
+Version 4.2 Hotfix, liste des modifications (édition légère) :
+-------------------------------------------------- ------
+
+- Ajout d'effet sonore de poignard à la scène de mort de Maria.
+
+- Ajout d'effets sonores de frappe manquants lors de la première scène d'Ernest dans Born From A Wish.
+
+- Ajout d'un correctif de l'Enhanced Team pour la boucle BGM de Flesh Lips publiée le 13 janvier 2021.
+
+- Ré-ajout de la cinématique d'ouverture avec les deux pistes de voix à partir de la version 4.1.1 Lite Edition.
+
+
+
+
+-------------------------------------------------- -----
+Version 4.3 Hotfix, liste des modifications (édition légère) :
+-------------------------------------------------- ------
+
+-Mise à jour de maintenance en préparation des futures mises à jour de l'Enhanced Edition Team (Combinant toutes les mises à jour de correctifs en une seule afin que l'utilisateur n'ait qu'à télécharger la version 4.1 puis 4.3 de l'édition régulière ou Lite)
+
+
+
+
+-------------------------------------------------- -----
+Version 5.0/version 5.0 Reloaded II Edition :
+-------------------------------------------------- ------
+- Cinématiques CG refaites sur la base des toutes nouvelles de l'Enhanced Edition Team
+
+- Compatibilité ajoutée pour la nouvelle version du moteur audio Silent Hill 2 Enhanced Edition de Gemeni Loboto
+
+- Suppression des métadonnées de fichiers inutiles des fichiers Wave restants du processus de décodage de la HD Collection PS3 afin de ne pas provoquer le bug du nouveau moteur audio. (Merci Konami)
+
+- Optimisation de la taille du fichier Voice.afs en rééchantillonnant tout l'audio lié à la HD Collection à 44100hz. Cela devrait maintenant l'aligner sur les fichiers officiels du Audio Enhancement Pack.
+
+- Refonte de toutes les cinématiques CG sur la base des toutes nouvelles cinématiques améliorées par I.A de l'Enhanced Edition Team
+
+- Refait entièrement le collage de l'Intro. La HD Collection a une qualité audio grâce à la conversion vidéo en bink.
+
+- Résolution de problèmes de coupure audio avec certaines cinématiques (il s'agissait d'un problème dans la HD Collection, l'audio se coupait en entrée/sortie brusquement pendant certaines scènes) Scène 01 (James dans la salle de bain), 703 (Amy est tombée par la fenêtre), 703_b (Amy donne-le), 703_c (Amy à mon papa)
+
+- Ajout de filtres écho et sourdine à bp_edi_1_b (Did you find the lady you're looking for?) Audio qui peut être entendu dans le bowling. Les voix originales avaient des filtres failbes d'écho et sourdine appliqués pour faire sentir au joueur qu'Eddie et Laura n'étaient pas dans la même pièce. dans la HD Collection il n'y a rien.
+
+- SCENE_53 corrigée (Flashback final de Mary lors de la marche dans le couloir) Mary n'aura plus de coupure à mi-souffle à la fin de l'audio.
+
+- Ajout d'écho à kokuchi (Flashback Radio de Mary à l'Hospital ) Cette régression est enfin corrigée.
+
+- Correction d'un problème où la deuxième piste de la cinématique au moment de traverser les appartements ne se jouait pas lors du défilement rapide du texte (Crédits à Polymega de l'Enhanced Edition Team)
+
+- Correction d'un problème dans la version édition légère du mod où certain BGM des crédits serait silencieux. Cela a été causé par un mauvais réencodage.
+
+- Normalisation du volume Saisho_1 (Première cinématique Lying Figure). Le volume de la radio statique était extrêmement fort auparavant. (Merci à l'Enhanced Edition Team pour ce correctif)
+
+- Ajout du SFX de planche de bois manquant à la cinématique Saisho_2 (Is It Dead?). Merci Konami.
+
+
+
+
+
+-------------------------------------------------- ---------
+Version 5.0.1/Version 5.0.1 Reloaded II Edition  :
+-------------------------------------------------- ---------
+
+- Ajout de l'Espagnol au programme d'installation.
+
+- Ajout des fichiers Readme et Changelogs traduits en Espagnols.
+
+- Ajout d'écho à Gero_ed.adx (boucle du son de vomi d'Eddie)
+
+- Création d'un répertoire séparé pour le programme de désinstallation afin de résoudre tout problème avec l'outil de configuration de l'Enhanced Edition
+
+- Ajout du fichier Flash.bik corrigé par l'Enhanced Edition Team. Les versions précédentes coupaient brusquement l'audio pendant le jeu. Un fondu a été ajouté
+
+
+
+
+
+-------------------------------------------------- ----------
+Version 5.0.2/5.0.2 (édition légère), liste des modifications :
+-------------------------------------------------- -----------
+
+- Amélioration de la synchronisation audio des cinématiques CG.
+
+- Nettoyage global
+
+- Ajout de nouveaux sous-titres pour Saisho_2 (Is this thing broken) en référence à la nouvelle voix off de Mary. Dans la version 1.0 de la HD Collection, il n'y avait pas de doublage. James réagissait statiquement. Dans la mise à jour 1.1 sur PS3, ils ont ajouté des voix off, mais qui ne correspondent pas du tout à la ligne originale. Le réalisateur ne sachant probablement pas de quelle ligne il s'agit. Les sous-titres ont été édités en Anglais, Italien, Français et Espagnol pour refléter cette nouvelle ligne.
+
+- Ajout du fichier Lisence.txt pour référencer tous les outils utilisés pour ce projet.
+
+- Ajout de Silent Hill 2 HD Collection Dub Staff Credits.txt qui répertorie tout le personnel impliqué dans le nouveau doublage de la HD Collection. Une grande partie du personnel n'a jamais été crédité correctement.
+
+- Suppression de hooks Reloaded II inutiles afin d'améliorer les performances.
+
+- Déplacement des fichiers Readme et autres documents vers le répertoire d'installation racine au lieu du répertoire sh2e. Le nouveau répertoire par défaut est Konami\Silent HIll 2\ HD Collection Voice Pack Support.
+
+- Suppression de compressions inutiles afin d'accélérer l'installation sur les systèmes d'entrée de gamme.
+
+- BGM original restauré pour SCENE_02 (James expliquant sa quête pour trouver Mary, au joueur) Le luth de la guitare a été restauré comme à l'original.
+
+- Ajout de la localisation Italienne au programme d'installation.
+
+- Ajout des fichiers Readme et Changelogs Italiens.
+
+- Correction des fautes de prappe.

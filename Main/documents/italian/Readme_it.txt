@@ -173,6 +173,14 @@ Traduzione italiana
 - Contatto: https://twitter.com/Sonikko06
 
 
+=======================
+Traduzione in francese
+=======================
+
+* Framous
+
+- Contatto: https://www.moddb.com/members/klemc
+
 
 =====================
 
