@@ -333,6 +333,7 @@ Version 5.0.3/ Version 5.0.3 Lite Edition Changelog:
 
 - Restored Original BGM for aijin (Maria Ending Bossfight Intro cutscene)
 
+- Added French localization to the installer. 
 
 
 
