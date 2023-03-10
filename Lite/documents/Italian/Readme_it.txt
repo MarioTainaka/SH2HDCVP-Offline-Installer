@@ -1,6 +1,6 @@
 ﻿=================================================================
 
-Silent Hill 2 HD Collection Voice Pack Version 5.0.2 Lite Edition
+Silent Hill 2 HD Collection Voice Pack Version 5.0.3 Lite Edition
 =================================================================
 
 Il pack Audio Enhancement e FMV Enhancement NON sono richiesti per il funzionamento di questa mod visto che sono già utilizzati come base di partenza.
@@ -174,6 +174,15 @@ Traduzione italiana
 * Sonikko06
 
 - Contatto: https://twitter.com/Sonikko06
+
+
+======================
+Traduzione in francese
+======================
+
+* Framous
+
+- Contact: https://www.moddb.com/members/klemc
 
 
 
