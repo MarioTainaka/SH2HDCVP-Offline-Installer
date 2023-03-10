@@ -1,228 +1,212 @@
-﻿--------------------------------------------------------------------
+﻿====================================================================
 
-Version 1.0 Changelog:
--------------------------------------------------------------------
+Registro delle modifiche della versione 1.0:
+===================================================================
 
--Release Iniziale
+=Release Iniziale
 
 
---------------------------------------------------------------------
+====================================================================
+Registro delle modifiche della versione 1.1:
+=====================================================================
 
-Version 1.1 Changelog:
----------------------------------------------------------------------
+- Include fix relativi allo streaming audio, i crash sono stati ridotti.
 
--Include fix relativi allo streaming audio, i crash sono stati ridotti.
+- Livellamento volume per le cutscene CG. Il volume delle cutscene CG è simile a quello dell'audio ingame.
 
--Livellamento volume per le cutscene CG. Il volume delle cutscene CG è simile a quello dell'audio ingame.
+- Suoni custom col nuovo doppiatore per la cutscene in CG dove Eddie vomita.
 
--Suoni custom col nuovo doppiatore per la cutscene in CG dove Eddie vomita.
+===============================================================================================
+Registro delle modifiche della versione 1.2:
+===============================================================================================
 
------------------------------------------------------------------------------------------------
-Version 1.2 Changelog:
------------------------------------------------------------------------------------------------
+- Volume ritoccato per tutte le cutscene CG, adesso sono allo stesso volume delle cutscene in engine.
 
--Volume ritoccato per tutte le cutscene CG, adesso sono allo stesso volume delle cutscene in engine.
+- Risolti alcuni problemi con lo streaming audio in relazione alla chiusura dello stream audio una volta finita una cutscene.
 
--Risolti alcuni problemi con lo streaming audio in relazione alla chiusura dello stream audio una volta finita una cutscene.
+- Aggiustata la compressione audio (di nuovo). Ora l'audio dal pack PS2 Enhancement dovrebbe suonare ancora meglio nonostante sia compresso.
 
--Aggiustata la compressione audio (di nuovo). Ora l'audio dal pack PS2 Enhancement dovrebbe suonare ancora meglio nonostante sia compresso.
+- Suond byte custom per il suono del vomito di Eddie nella cutscene CG.
 
--Suond byte custom per il suono del vomito di Eddie nella cutscene CG.
+- Aggiunti clip vocali custom per Mary che chiama James, solo le voci di Maria sono state registrate con la nuova doppiatrice.
 
--Aggiunti clip vocali custom per Mary che chiama James, solo le voci di Maria sono state registrate con la nuova doppiatrice.
+- Ora compatibile con il FMV Enhancement Pack 1.6 che permette di sceglere il tuo aspect ratio preferito.
 
--Ora compatibile con il FMV Enhancement Pack 1.6 che permette di sceglere il tuo aspect ratio preferito.
 
+====================================================================================================================
+Registro delle modifiche della versione 1.2.1:
+====================================================================================================================
 
---------------------------------------------------------------------------------------------------------------------
+- Port accurato dei clip de nuovi doppiatori di James e Mary/Maria. Tutte le tracce ora dovrebbero partire nei punti giusti come nella versione HD.
 
-Version 1.2.1 Changelog:
---------------------------------------------------------------------------------------------------------------------
+- Risolto un glitch con le tracce vocali di Eddie, originariamente quando veniva colpito le tracce vocali si sovrapponevano, perché una delle tracce nuove dura 7 secondi. Continuavano a suonare anche durante i menù per questo motivo.
 
--Port accurato dei clip de nuovi doppiatori di James e Mary/Maria. Tutte le tracce ora dovrebbero partire nei punti giusti come nella versione HD.
+- Aggiustato un problema con il doppiaggio nella Route B.
 
--Risolto un glitch con le tracce vocali di Eddie, originariamente quando veniva colpito le tracce vocali si sovrapponevano, perché una delle tracce nuove dura 7 secondi. Continuavano a suonare anche durante i menù per questo motivo.
+==========================================================
+Versione 1.3-1.9 Registro delle modifiche (non pubblico)
+=========================================================
 
--Aggiustato un problema con il doppiaggio nella Route B.
+- Fix per il Mixdown Stereo delle Cutscene con streaming audio.
 
----------------------------------------------------------------------------------------
+- Ottimizzazione della compressione.
 
-Version 1.3-1.9 Changelog (Not Public)
----------------------------------------------------------------------------------------
+- Tentativo di aggiustare il lip sync per le cutscene CG.
 
--Fix per il Mixdown Stereo delle Cutscene con streaming audio.
 
--Ottimizzazione della compressione.
+==============================================
+Registro delle modifiche della versione 2.0:
+==============================================
 
--Tentativo di aggiustare il lip sync per le cutscene CG.
 
+- Corretto il timing e ri=codifica di tutte le Cutscene CG per avere un lip sync quasi perfetto. (I punti in cui non combacia è perché le performance sono diverse).
 
-------------------------------------------------------------------------------------------
+- Altri fix per il doppiaggio.
 
+- Peso totale ridotto di 160mb, passando da 4.00Gb a 3.84Gb.
 
-Version 2.0 Changelog:
+- Fix riguardo il panning audio\passaggio da un canale all'altro. (Erano già mixati nei file, non venivano decodificati correttamente nella Collection HD).
 
---------------------------------------------------------------------------------------------
+- Aggiunta Equalizzazione Radio alla traccia Trick or Treat dell'ascensore.
 
+- Aggiustate tutti i finali di Mary/Maria dove mancava la musica (La musica per diverse scene mancava nella Collection HD).
 
--Corretto il timing e ri-codifica di tutte le Cutscene CG per avere un lip sync quasi perfetto. (I punti in cui non combacia è perché le performance sono diverse).
+- Rifatto il mixing delle Lettere (due si interrompevano a circa un minuto, la Collection HD è stata rilasciata così).
 
--Altri fix per il doppiaggio.
+- Risolto un problema con l'audio Trick or Treat: Per le voci vecchie hanno coperto la frase "Torn To Piece" con rumore bianco, per le voci HD che usano lo stesso dialogo 1:1 la frase è sussurrata come dovrebbe. Però il file usato è pieno di pop e click. È stato risolto con questo fix.
 
--Peso totale ridotto di 160mb, passando da 4.00Gb a 3.84Gb.
+- Aggiunto eco alle cutscene dei Flashback.
 
--Fix riguardo il panning audio\passaggio da un canale all'altro. (Erano già mixati nei file, non venivano decodificati correttamente nella Collection HD).
+- Risolto un altro problema con le voci di Eddie quando viene colpito relative alla collection HD. (DI NUOVO).
 
--Aggiunta Equalizzazione Radio alla traccia Trick or Treat dell'ascensore.
 
--Aggiustate tutti i finali di Mary/Maria dove mancava la musica (La musica per diverse scene mancava nella Collection HD).
 
--Rifatto il mixing delle Lettere (due si interrompevano a circa un minuto, la Collection HD è stata rilasciata così).
+================================================
+Registro delle modifiche della versione 2.0.1:
+================================================
 
--Risolto un problema con l'audio Trick or Treat: Per le voci vecchie hanno coperto la frase "Torn To Piece" con rumore bianco, per le voci HD che usano lo stesso dialogo 1:1 la frase è sussurrata come dovrebbe. Però il file usato è pieno di pop e click. È stato risolto con questo fix.
+- Aggiunto un fix del Team Enhanced che risolve problemi col loop della musica per l'Ospedale.
 
--Aggiunto eco alle cutscene dei Flashback.
 
--Risolto un altro problema con le voci di Eddie quando viene colpito relative alla collection HD. (DI NUOVO).
 
 
 
-------------------------------------------------------------------------------------------
 
 
-Version 2.0.1 Changelog:
 
---------------------------------------------------------------------------------------------
 
--Aggiunto un fix del Team Enhanced che risolve problemi col loop della musica per l'Ospedale.
+============================================
+Registro delle modifiche della versione 3.0:
+============================================
 
+- Risolti problemi con Yarinaoshi_Letter e Yarinaoshi Letter/I finali delle lettere di Mary, risolto un bug della collection HD che fa interrompere l'audio durante la lettura per via di alcuni file buggati lasciati dal team.
 
+- Aggiunta musica di sottofondo in tutte le scene di Earnest in Born From A Wish.
 
+- Ottimizzato ancora lo streaming dei file vocali, il gioco dovrebbe scattare di meno quando fa partire un file audio su hard disk più lenti.
 
 
 
 
+============================================
 
+Registro delle modifiche della versione 4.0
+============================================
 
-------------------------------------------------------------------------------------------
+- Tutto il comparto audio è stato scambiato con quello patchato della versione PS3.
 
+- Le voci di James, Maria ed Eddie ora usano gli asset della versione PS3 Patchata.
 
-Version 3.0 Changelog:
+- L'audio streamato (Cutscenes) è stato rifatto utilizzando la version PS3 patchata.
 
---------------------------------------------------------------------------------------------
+- L'audio è stato remixato da capo (DI NUOVO) da 5:1 a Stereo.
 
--Risolti problemi con Yarinaoshi_Letter e Yarinaoshi Letter/I finali delle lettere di Mary, risolto un bug della collection HD che fa interrompere l'audio durante la lettura per via di alcuni file buggati lasciati dal team.
+- L'audio è stato ricodificato utilizzando CRI debugger per essere più efficiente per la CPU.
 
--Aggiunta musica di sottofondo in tutte le scene di Earnest in Born From A Wish.
+- Yarinaoshi, Yarinaoshi_Letter, Yarinaoshi_Letter_MIX sono state rifatte.
 
--Ottimizzato ancora lo streaming dei file vocali, il gioco dovrebbe scattare di meno quando fa partire un file audio su hard disk più lenti.
+- Il timing per Yarinaoshi_Letter è stato sistemato per essere più simile alle voci vecchie, prevenendo problemi di tempismo col testo su schermo.
 
+- Aggiustata una svista con il collage dell'introduzione, la versione con le voci sbloccate dopo aver completato il gioco non aveva audio. Il lip sync della versione non è stellare per via dell'editing fatto da PCB. Ho fatto del mio meglio per aggiustare quella versione ma è difficile farlo combaciare perfettamente.
 
+- Aggiunte le BGM mancanti alle ending di Maria.
 
+- Born From A Wish BGM che è utilizzata in quelle cutscene è stata rifatta per essere più fedele all'originale.
 
-------------------------------------------------------------------------------------------
+- Tutte l'audio streamato (cutscenes) che non hanno dialogo ora mantengono gli asset dell'Audio Enhancement Pack. (In precedenza tutto l'audio delle cutscene era stato rimpiazzato per coerenza. Sono arrivato alla conclusione che l'audio compresso è semplicemente orribile).
 
+- L'equalizzazione Radio per il Quiz è stata rifatta usando gli asset PS3.
 
-Version 4.0 Changelog:
 
---------------------------------------------------------------------------------------------
 
--Tutto il comparto audio è stato scambiato con quello patchato della versione PS3.
 
--Le voci di James, Maria ed Eddie ora usano gli asset della versione PS3 Patchata.
+========================================================
+Registro modifiche aggiornamento rapido versione 4.0.1:
 
--L'audio streamato (Cutscenes) è stato rifatto utilizzando la version PS3 patchata.
+========================================================
 
--L'audio è stato remixato da capo (DI NUOVO) da 5:1 a Stereo.
+- Aggiunti i video dei crediti di SH2 PC dall'aggiornamento #6 dell'Enhanced Team rilasciato il 28 ottobre 2020. (Si prega di installare la versione 4.0 prima di questo aggiornamento).
 
--L'audio è stato ricodificato utilizzando CRI debugger per essere più efficiente per la CPU.
 
--Yarinaoshi, Yarinaoshi_Letter, Yarinaoshi_Letter_MIX sono state rifatte.
 
--Il timing per Yarinaoshi_Letter è stato sistemato per essere più simile alle voci vecchie, prevenendo problemi di tempismo col testo su schermo.
 
--Aggiustata una svista con il collage dell'introduzione, la versione con le voci sbloccate dopo aver completato il gioco non aveva audio. Il lip sync della versione non è stellare per via dell'editing fatto da PCB. Ho fatto del mio meglio per aggiustare quella versione ma è difficile farlo combaciare perfettamente.
+============================================
 
--Aggiunte le BGM mancanti alle ending di Maria.
+Registro delle modifiche della versione 4.1:
+===========================================
 
--Born From A Wish BGM che è utilizzata in quelle cutscene è stata rifatta per essere più fedele all'originale.
+- L'audio delle Cutscene è ora non compresso (wave/.wav) per avere qualità audio migliore.
 
--Tutte l'audio streamato (cutscenes) che non hanno dialogo ora mantengono gli asset dell'Audio Enhancement Pack. (In precedenza tutto l'audio delle cutscene era stato rimpiazzato per coerenza. Sono arrivato alla conclusione che l'audio compresso è semplicemente orribile).
+- Il rumore sibilante di sfondo dovuto alla compressione ADX/ATAC 3 in quasi tutte le cutscene è stato rimosso.
 
--L'equalizzazione Radio per il Quiz è stata rifatta usando gli asset PS3.
+- Migliorato il supporto per il fix dei Pop/Click del Enhanced Edition Team.
 
 
-
-
-------------------------------------------------------------------------------------------
-
-
-Version 4.0.1 Hotfix Changelog:
-
---------------------------------------------------------------------------------------------
-
--Aggiunti i video dei crediti di SH2 PC dall'aggiornamento #6 dell'Enhanced Team rilasciato il 28 ottobre 2020. (Si prega di installare la versione 4.0 prima di questo aggiornamento).
-
-
-
-
-
-
-------------------------------------------------------------------------------------------
-
-
-Version 4.1 Changelog:
-
---------------------------------------------------------------------------------------------
-
--L'audio delle Cutscene è ora non compresso (wave/.wav) per avere qualità audio migliore.
-
--Il rumore sibilante di sfondo dovuto alla compressione ADX/ATAC 3 in quasi tutte le cutscene è stato rimosso.
-
--Migliorato il supporto per il fix dei Pop/Click del Enhanced Edition Team.
-
-
-----------------------------------------------------------------
-Version 4.1.1 Hotfix Changelog:
-----------------------------------------------------------------
+==================================================================
+Versione 4.1.1 Registro delle modifiche dell'aggiornamento rapido:
+===================================================================
 
 - Aggiunto il fix dell'Enhanced Team per il loop della BGM Flesh Lips rilasciato il 13 Gennaio 2021.
 
 
---------------------------------------------
+==========
 
 Da fare
---------------------------------------------
+==========
 
--Aggiustare l'audio per Bowling Alley Alleway con Maria (Non ci sono dialoghi perché i file delle voci sono vuoti, la Collection HD è stata rilasciata così).
-
-
+- Aggiustare l'audio per Bowling Alley Alleway con Maria (Non ci sono dialoghi perché i file delle voci sono vuoti, la Collection HD è stata rilasciata così).
 
 
-------------------------------------------------------------------------
-Version 4.1- 4.1.1 (Lite Edition)
+
+====================================
+Versione 4.1= 4.1.1 (Edizione Lite)
+====================================
 
 - Compresse le cutscene CG
 
-- Compresso l'audio streaming (Cutscenes -> ADX)
-
-
-
-------------------------------------------------------------------------
-Version 4.1- 4.1.2 Hotfix (Lite Edition)
-
-
-- Aggiunte tracce vocali mancanti al video iniziale dopo aver completato il gioco.
+- Compresso l'audio streaming (Cutscenes => ADX)
 
 
 
 
 
--------------------------------------------------------
-Version 4.2/ Version 4.2 LITE Edition Hotfix Changelog:
---------------------------------------------------------
+===========================================================================================
+Registro delle modifiche dell'aggiornamento rapido versione 4.1=versione 4.1.2 edizione LITE
+===========================================================================================
 
-- Aggiunto effetti sonori dell'accoltellamento alla scena della morte di Maria.
+-  Aggiunte tracce vocali mancanti al video iniziale dopo aver completato il gioco.
+
+
+
+
+
+
+
+===========================================================================================
+Registro delle modifiche dell'aggiornamento rapido versione 4.2/versione 4.2 edizione LITE:
+===========================================================================================
+
+-  Aggiunto effetti sonori dell'accoltellamento alla scena della morte di Maria.
 
 - Aggiunti effetti sonori dei colpi durante la prima scena di Earnest in Born From A Wish.
 
@@ -232,19 +216,18 @@ Version 4.2/ Version 4.2 LITE Edition Hotfix Changelog:
 
 
 
+===========================================================================================
+Registro delle modifiche dell'aggiornamento rapido versione 4.3/versione 4.3 edizione LITE:
+===========================================================================================
 
--------------------------------------------------------
-Version 4.3/ Version 4.3 LITE Edition Hotfix Changelog:
---------------------------------------------------------
-
--Maintenance Update in preparation for future updates from the Enhanced Edition Team (Combined all hotfix updates into one so that the user only has to download version 4.1 and then 4.3 Of The Regular Or Lite Edition)
-
+- Aggiornamento di manutenzione in preparazione per futuri aggiornamenti dal team di Enhanced Edition (combinati tutti gli aggiornamenti hotfix in uno in modo che l'utente debba solo scaricare la versione 4.1 e quindi 4.3 dell'edizione normale o Lite)
 
 
 
--------------------------------------------------------
-Version 5.0/ Version 5.0 Reloaded II Edition Changelog:
---------------------------------------------------------
+
+===============================================================================
+Registro delle modifiche della versione 5.0/ Versione 5.0 Reloaded II Edition:
+===============================================================================
 - Rimpiazzato le Cutscene CG con quelle nuove del Team Enhanced Edition
 
 - Aggiunta compatibilità per le nuove verisoni dell'Engine Audio di SH2 Enhanced Edition di Gemeni Loboto
@@ -277,9 +260,9 @@ Version 5.0/ Version 5.0 Reloaded II Edition Changelog:
 
 
 
--------------------------------------------------------
-Version 5.0.1/ Version 5.0.1 Reloaded II Edition Changelog:
---------------------------------------------------------
+===================================================================================
+Registro delle modifiche della versione 5.0.1/ Versione 5.0.1 Reloaded II Edition:
+===================================================================================
 
 - Aggiunto supporto per lo spagnolo al setup.
 
@@ -290,15 +273,16 @@ Version 5.0.1/ Version 5.0.1 Reloaded II Edition Changelog:
 - Creata una directory separata in cui c'è l'uninstaller per risolvere qualsiasi problema col tool di configurazione dell'Enhanced Edition.
 
 - Added Fixed Flash.bik from the Enhanced Edition Team. Previous versions would clip the audio abruptly during gameplay. A fadeout has been added
+
 - Aggiunto Fixed Flash.bik dal team Enhanced Edition. Le versioni precedenti interrompevano l'audio in maniera improvvisa durante il gameplay. É stato aggiunto un fadeout.
 
 
 
 
 
--------------------------------------------------------
-Version 5.0.2/ Version 5.0.2 Lite Edition Changelog:
---------------------------------------------------------
+============================================================================
+Registro delle modifiche della versione 5.0.2/versione 5.0.2 edizione Lite:
+============================================================================
 
 - Migliorata sincronizzazione audio delle cutscene CG.
 
@@ -320,6 +304,17 @@ Version 5.0.2/ Version 5.0.2 Lite Edition Changelog:
 
 - Aggiunta localizzazione Italiana all'installer.
 
+
+===========================================================================
+Registro delle modifiche della versione 5.0.3/versione 5.0.3 edizione Lite:
+============================================================================
+
+
+- BGM originale restaurato per geki (scena introduttiva di Born From A Wish, grazie ancora una volta a Spookycookies per aver ricucito la musica originale.
+
+- Musica di sottofondo originale ripristinata per aijin (Maria termina il filmato introduttivo della lotta con il boss)
+
+- Aggiunta la localizzazione francese al programma di installazione.
 
 
 

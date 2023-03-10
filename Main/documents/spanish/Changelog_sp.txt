@@ -1,13 +1,13 @@
-﻿--------------------------------------------------------------------
+﻿====================================================================
 Registro de cambios de la versión 1.0:
--------------------------------------------------------------------
+===================================================================
 
--Versión inicial.
+- Versión inicial.
 
 
---------------------------------------------------------------------
+====================================================================
 Registro de cambios de la versión 1.1:
----------------------------------------------------------------------
+=====================================================================
 
 - Incluye correcciones relacionadas con la transmisión de audio, se han mitigado los bloqueos.
 
@@ -15,9 +15,9 @@ Registro de cambios de la versión 1.1:
 
 - Sonidos personalizados para Eddie su CG Escena donde vomita con las nuevas Voces.
 
------------------------------------------------------------------------------------------------
+===============================================================================================
 Registro de cambios de la versión 1.2:
------------------------------------------------------------------------------------------------
+===============================================================================================
 
 - Volumen ajustado de todas las escenas de CG para que coincidan con el volumen de las escenas del motor.
 
@@ -31,21 +31,21 @@ Registro de cambios de la versión 1.2:
 
 - Compatibilidad añadida con FMV Enhancement Pack 1.6 que permite elegir la relación de aspecto preferida.
 
---------------------------------------------------------------------------------------------------------------------
+====================================================================================================================
 
 Version 1.2.1 Changelog:
---------------------------------------------------------------------------------------------------------------------
+====================================================================================================================
 
 - Transferidas Nuevas Voces comunes de James y Mary/Maria correctamente"
 
 - Se arregló la falla de Eddie Damage VO desde el puerto HD donde las voces de Eddie se superponían entre sí porque una de las líneas para el nuevo Vo tiene 7 segundos de duración y también se reproduciría durante el menú debido a eso.
 
 - Corregido voces comunes en Ruta B.
----------------------------------------------------------------------------------------
+=======================================================================================
 
 Versión 1.3-1.9 Registro de cambios (no pública)
 
----------------------------------------------------------------------------------------
+=======================================================================================
 
 -  Correcciones de Stereo Mixdown para la Escenas transmitidas.
 
@@ -54,15 +54,15 @@ Versión 1.3-1.9 Registro de cambios (no pública)
 -  Tratando de arreglar la sincronización de labios para escenas de CG.
 
 
-------------------------------------------------------------------------------------------
+==========================================================================================
 
 
 Registro de cambios de la versión 2.0:
 
---------------------------------------------------------------------------------------------
+============================================================================================
 
 
-- Re-sincronizado todas las escenas CG para una sincronización de labios casi perfecta. (Momentos en que estan desfasadas se deben simplemente a)
+- Re=sincronizado todas las escenas CG para una sincronización de labios casi perfecta. (Momentos en que estan desfasadas se deben simplemente a)
 
 - Correcciones de voz más comunes.
 
@@ -84,10 +84,10 @@ Registro de cambios de la versión 2.0:
 
 
 
-------------------------------------------------------------------------------------------
+==========================================================================================
 
 Registro de cambios de la versión 2.0.1:
---------------------------------------------------------------------------------------------
+============================================================================================
 
 - Se agregó una solución del equipo mejorado que corrige el bucle de música para el hospital.
 
@@ -99,11 +99,11 @@ Registro de cambios de la versión 2.0.1:
 
 
 
-------------------------------------------------------------------------------------------
+==========================================================================================
 
 
 Registro de cambios de la versión 3.0:
---------------------------------------------------------------------------------------------
+============================================================================================
 
 - Se corrigieron Yarinaoshi_Letter y Yarinaoshi Letter Mix/Mary Letter Endings, se corrigió un error que quedó del puerto HD que hace que el audio se detenga en medio de la lectura debido a archivos con errores dejados por el equipo.
 
@@ -114,11 +114,11 @@ Registro de cambios de la versión 3.0:
 
 
 
-------------------------------------------------------------------------------------------
+==========================================================================================
 
 Registro de cambios de la versión 4.0:
 
---------------------------------------------------------------------------------------------
+============================================================================================
 - Todo el audio se ha cambiado para usar la versión parcheada de PS3.
 
 - James, Maria y Eddie, sus voces de juego, ahora usan los activos de la versión parcheada de PS3.
@@ -145,11 +145,11 @@ Registro de cambios de la versión 4.0:
 
 
 
-------------------------------------------------------------------------------------------
+==========================================================================================
 
 Registro de cambios de revisiones de la versión 4.0.1:
 
---------------------------------------------------------------------------------------------
+============================================================================================
 
 - Se agregó el nuevo video de créditos de Silent Hill 2 PC de la actualización de equipo mejorada n.º 6 lanzada el 28 de octubre de 2020. (Instala la versión 4.0 antes de instalar esta actualización).
 
@@ -159,10 +159,10 @@ Registro de cambios de revisiones de la versión 4.0.1:
 
 
 
-------------------------------------------------------------------------------------------
+==========================================================================================
 
 Registro de cambios de la versión 4.1:
---------------------------------------------------------------------------------------------
+============================================================================================
 
 - Se movió el audio de la escena de corte a activos de .wav sin comprimir para una mejor calidad de audio.
 
@@ -171,26 +171,26 @@ Registro de cambios de la versión 4.1:
 - Soporte mejorado para DSOAL Pop/Click Fix por The Enhanced Edition Team.
 
 
-----------------------------------------------------------------
+================================================================
 Registro de cambios de revisiones de la versión 4.1.1:
-----------------------------------------------------------------
+================================================================
 
 - Corrección de equipo mejorada agregada para Flesh Lips BGM Looping lanzada el 13 de enero de 2021
 
 
---------------------------------------------
+============================================
 
 Tareas pendientes	
---------------------------------------------
+============================================
 
--Arreglar el callejón de la boliche con María (no hay diálogo porque los archivos de voz están vacíos, la colección HD se envía de esta manera)
-
-
+- Arreglar el callejón de la boliche con María (no hay diálogo porque los archivos de voz están vacíos, la colección HD se envía de esta manera)
 
 
 
--------------------------------------------------- -------------------------------------
-Versión 4.1- 4.1.1 (Edición Lite)
+
+
+================================================== =====================================
+Versión 4.1= 4.1.1 (Edición Lite)
 
 - Escenas CG comprimidas
 
@@ -198,8 +198,8 @@ Versión 4.1- 4.1.1 (Edición Lite)
 
 
 
--------------------------------------------------- -------------------------------------
-Versión 4.1- 4.1.2 Revisión (Edición Lite)
+================================================== =====================================
+Versión 4.1= 4.1.2 Revisión (Edición Lite)
 
 
 - Se agregó la pista de VO faltante al video de apertura después de terminar el juego.
@@ -208,9 +208,9 @@ Versión 4.1- 4.1.2 Revisión (Edición Lite)
 
 
 
--------------------------------------------------- -----
+================================================== =====
 Registro de cambios de revisión de la versión 4.2/versión 4.2 LITE Edition:
--------------------------------------------------- ------
+================================================== ======
 
 - Se agregaron efectos de sonido de apuñalamiento a la escena de la muerte de María.
 
@@ -222,17 +222,17 @@ Registro de cambios de revisión de la versión 4.2/versión 4.2 LITE Edition:
 
 
 
--------------------------------------------------- -----
+================================================== =====
 Versión 4.3/Versión 4.3 LITE Edition Hotfix Changelog:
--------------------------------------------------- ------
+================================================== ======
 
--Actualización de mantenimiento en preparación para futuras actualizaciones del equipo de edición mejorada (combinó todas las actualizaciones de revisión en una sola para que el usuario solo tenga que descargar la versión 4.1 y luego la 4.3 de la edición regular o liviana)
+- Actualización de mantenimiento en preparación para futuras actualizaciones del equipo de edición mejorada (combinó todas las actualizaciones de revisión en una sola para que el usuario solo tenga que descargar la versión 4.1 y luego la 4.3 de la edición regular o liviana)
 
 
 
--------------------------------------------------- -----
+================================================== =====
 Registro de cambios de revisiones de la versión 5.0/versión 5.0 Reloaded II Edition:
--------------------------------------------------- ------
+================================================== ======
 - Redid CG Escenas con otros nuevos del equipo de edición mejorada
 
 - Compatibilidad añadida para la nueva versión de Silent Hill 2 Enhanced Edition Audio Engine bu Gemeni Loboto
@@ -264,9 +264,9 @@ Registro de cambios de revisiones de la versión 5.0/versión 5.0 Reloaded II Ed
 
 
 
--------------------------------------------------- -----
+================================================== =====
 Registro de cambios de la versión 5.0.1/Versión 5.0.1 Reloaded II Edition:
--------------------------------------------------- ------
+================================================== ======
 
 - Se agregó soporte en español al instalador.
 
@@ -280,16 +280,16 @@ Registro de cambios de la versión 5.0.1/Versión 5.0.1 Reloaded II Edition:
 
 
 
--------------------------------------------------- -----------------
+================================================== =================
 Registro de cambios de la versión 5.0.2/Versión 5.0.2 Lite Edition:
--------------------------------------------------- -----------------
+================================================== =================
 
 
 - Sincronización de audio CG Cutscene mejorada.
 
 - Limpieza General
 
-- Se agregaron nuevos subtítulos para Saisho_2 (¿Esta cosa está rota?) para hacer referencia a la nueva voz en off de Mary. En la versión 1.0 de HD Collection no había VO. James estaba reaccionando a la estática. En la actualización 1.1 en PS3 agregaron Voice-overss pero no se alinean con la línea original en absoluto. El director probablemente no sabía cuál debería ser la línea. Los subtítulos han sido editados en Inglés, Italiano, Alemán, Francés y Español para reflejar esto.
+- Se agregaron nuevos subtítulos para Saisho_2 (¿Esta cosa está rota?) para hacer referencia a la nueva voz en off de Mary. En la versión 1.0 de HD Collection no había VO. James estaba reaccionando a la estática. En la actualización 1.1 en PS3 agregaron Voice=overss pero no se alinean con la línea original en absoluto. El director probablemente no sabía cuál debería ser la línea. Los subtítulos han sido editados en Inglés, Italiano, Alemán, Francés y Español para reflejar esto.
 
 - Se agregó el archivo Liscene.txt para hacer referencia a todas las herramientas utilizadas para este proyecto.
 
@@ -308,3 +308,14 @@ Registro de cambios de la versión 5.0.2/Versión 5.0.2 Lite Edition:
 - Léame italiano y registros de cambios añadidos.
 
 - Errores tipográficos corregidos.
+
+
+================================================== =================
+Registro de cambios de la versión 5.0.3/Versión 5.0.3 Lite Edition:
+================================================== =================
+
+- BGM original restaurado para geki (escena de introducción de Born From A Wish, muchas gracias a Spookycookies una vez más por unir la música original de nuevo.
+
+- BGM original restaurado para aijin (María finaliza la escena de introducción de la pelea con el jefe)
+
+- Se agregó la localización en francés al instalador.
