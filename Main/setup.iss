@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "Silent HIll 2 HD Collection Voice Pack"
-#define MyAppVersion "5.0.2"
+#define MyAppVersion "5.0.3"
 #define MyAppPublisher "Mario Tainaka"
 #define MyAppURL "https://twitter.com/SlaveOfSuzumiya"
 
@@ -41,6 +41,7 @@ Compression=zip
 Name: "english"; MessagesFile: "compiler:Default.isl"; InfoBeforeFile:"C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\English\Readme.txt"; LicenseFile : "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\English\License.txt"
 Name: "spanish"; MessagesFile: "compiler:Languages\Spanish.isl"; InfoBeforeFile:"C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Spanish\Readme_sp.txt"; LicenseFile : "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Spanish\License_sp.txt"
 Name: "italian"; MessagesFile: "compiler:Languages\Italian.isl"; InfoBeforeFile:"C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Italian\Readme_it.txt"; LicenseFile : "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Italian\License_it.txt"
+Name: "French"; MessagesFile: "compiler:Languages\French.isl"; InfoBeforeFile:"C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\French\Readme_fr.txt"; LicenseFile : "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\French\License_fr.txt"
 
 
 
@@ -153,4 +154,5 @@ CustomMessage=Undefined //just in case (should be equal to English)
 english.CustomMessage=Ensure Silent Hill 2: Enhanced Edition is installed prior to running this installer for the Silent Hill 2 HD Collection Voice Pack
 spanish.CustomMessage=Asegúrese de que Silent Hill 2: Enhanced Edition esté instalado antes de ejecutar este instalador para Silent Hill 2 HD Collection Voice Pack
 italian.CustomMessage=Assicurati che Silent Hill 2: Enhanced Edition sia installato prima di eseguire questo programma di installazione per Silent Hill 2 HD Collection Voice Pack
+French.CustomMessage=Assurez-vous que Silent Hill 2: Enhanced Edition est installé avant d'exécuter ce programme d'installation pour le pack de voix Silent Hill 2 HD Collection
 
