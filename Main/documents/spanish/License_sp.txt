@@ -4,7 +4,7 @@ Este proyecto utiliza archivos de Silent Hill 2 Enhanced Edition\ Enhanced Editi
 
 Este proyecto utiliza las siguientes herramientas y bibliotecas de código abierto (C) 2023
 
-      ------------------------------------------------------------------------
+       ==============================================================
       	Empacador AFS - Versión 2.1.1 Por MaikelChan alias PacoChan                 
        https://github.com/MaikelChan/AFSPacker            
                                                                      
@@ -13,13 +13,13 @@ Este proyecto utiliza las siguientes herramientas y bibliotecas de código abier
        https://github.com/MaikelChan/AFSLib              
                                                                       
                                               
-      ----------------------------------------------------------------------
+       ==============================================================
 
 
 
 										
 
-	-----------------------------------------------------------------------
+	 ==============================================================
       	 VG Audio WPF - Versión 1.1.1 Por Sajid alias Sajidur78          
       	 https://github.com/Sajidur78/VGAudio.Wp      
       	                                                          
@@ -28,23 +28,22 @@ Este proyecto utiliza las siguientes herramientas y bibliotecas de código abier
       	  https://github.com/Thealexbarney/VGAudio    
       	                                                          
       	                                      
-      	----------------------------------------------------------------------
+      	 ==============================================================
 
 
 
 
-------------------------------------------------------------------------
-
+ ==============================================================
 
 		SH2MSGConvert- Versión 1.6 Por loadwordteam
 
 		https://github.com/loadwordteam/SH2MSGConvert
 
-------------------------------------------------------------------------
+ ==============================================================
 
 
 
- 	--------------------------------------------------------------------	
+===========================================================================	
       	Guiones de audio de Silent HIll 2 Elisha Riedlinger aka elishacloud               	
       	 https://github.com/elishacloud/Silent-Hill-2-Enhancements           
       	                                                                	
@@ -52,14 +51,14 @@ Este proyecto utiliza las siguientes herramientas y bibliotecas de código abier
       	                          						
       	                                                                	
       	                            	
-     	-------------------------------------------------------------------------
+ ==========================================================================
 
 
 
 
 
 
-	--------------------------------------------------------------- 
+ ============================================================== 
       	     Compilador Inno Setup por jrsoftware                	 
              https://github.com/jrsoftware/issrc           
       	                                                               
@@ -67,7 +66,7 @@ Este proyecto utiliza las siguientes herramientas y bibliotecas de código abier
       	                          					 
       	                                                                
       	                              	         	 
-     	------------------------------------------------------------------
+ ==============================================================
 
 
 
@@ -75,7 +74,7 @@ Este proyecto utiliza las siguientes herramientas y bibliotecas de código abier
 
 
 
-	---------------------------------------------------------------    
+	 ==============================================================    
       	   
 	Extractor SND de la colección Silent Hill HD de Justin Drapper      
       			              
@@ -84,14 +83,14 @@ Este proyecto utiliza las siguientes herramientas y bibliotecas de código abier
       	                           					 
       	                                                                
       	                              	         
-     	----------------------------------------------------------------
+     	 ==============================================================
 
 
 
 
 
 
-	----------------------------------------------------------------------------              
+	 ==============================================================             
       	    	
 		Instalador de la edición mejorada de Silent Hill 2 Nipkow     	               
       	     https://github.com/nipkownix/SH2EE-web-installer     
@@ -100,7 +99,7 @@ Este proyecto utiliza las siguientes herramientas y bibliotecas de código abier
             https://github.com/jrsoftware/issrc       	 
       	                                                                
       	                              	         
-     	------------------------------------------------------------------------
+     	 ==============================================================
 
 
 

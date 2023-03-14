@@ -5,7 +5,7 @@ Questo progetto usa file dal Silent Hill 2 Enhanced Edition\ Enhanced Edition Te
 
 Questo progetto utilizza i seguenti tools e librerie open source (C) 2023
 
-      ------------------------------------------------------------------------
+ ==============================================================
        AFS Packer - Version 2.1.1 By MaikelChan aka PacoChan                 
        https://github.com/MaikelChan/AFSPacker            
                                                                      
@@ -13,7 +13,7 @@ Questo progetto utilizza i seguenti tools e librerie open source (C) 2023
        https://github.com/MaikelChan/AFSLib              
                                                                       
                                               
-      ----------------------------------------------------------------------
+ ==============================================================
 
 
 
@@ -21,21 +21,21 @@ Questo progetto utilizza i seguenti tools e librerie open source (C) 2023
 
 
 
-------------------------------------------------------------------------
+ ==============================================================
 
 
 		SH2MSGConvert- Version 1.6 By loadwordteam
 
 		https://github.com/loadwordteam/SH2MSGConvert
 
-------------------------------------------------------------------------
+ ==============================================================
 
 
 
 
 										
 
-	-----------------------------------------------------------------------
+	 ==============================================================
       	 VG Audio WPF - Version 1.1.1 By Sajid aka Sajidur78          
       	 https://github.com/Sajidur78/VGAudio.Wp      
       	                                                          
@@ -43,13 +43,13 @@ Questo progetto utilizza i seguenti tools e librerie open source (C) 2023
       	 https://github.com/Thealexbarney/VGAudio    
       	                                                          
       	                                      
-      	----------------------------------------------------------------------
+      	==============================================================
 
 
 
 
 
- 	--------------------------------------------------------------------	
+ 	 ==============================================================	
       	 Silent HIll 2 Audio Scripts By Elisha Riedlinger aka elishacloud               	
       	 https://github.com/elishacloud/Silent-Hill-2-Enhancements           
       	                                                                	
@@ -57,14 +57,14 @@ Questo progetto utilizza i seguenti tools e librerie open source (C) 2023
       	                          						
       	                                                                	
       	                            	
-     	-------------------------------------------------------------------------
+     	 ==============================================================
 
 
 
 
 
 
-	--------------------------------------------------------------- 
+	 ============================================================== 
       	     Inno Setup Compiler By jrsoftware                	 
              https://github.com/jrsoftware/issrc           
       	                                                               
@@ -72,7 +72,7 @@ Questo progetto utilizza i seguenti tools e librerie open source (C) 2023
       	                          					 
       	                                                                
       	                              	         	 
-     	------------------------------------------------------------------
+     	 ==============================================================
 
 
 
@@ -80,7 +80,7 @@ Questo progetto utilizza i seguenti tools e librerie open source (C) 2023
 
 
 
-	---------------------------------------------------------------    
+	 ==============================================================   
       	    Silent Hill HD Collection SND Extractor By Justin Drapper      
       			              
       	                                                                
@@ -88,14 +88,14 @@ Questo progetto utilizza i seguenti tools e librerie open source (C) 2023
       	                           					 
       	                                                                
       	                              	         
-     	----------------------------------------------------------------
+     	 ==============================================================
 
 
 
 
 
 
-	----------------------------------------------------------------------------              
+	 ==============================================================              
       	    Silent Hill 2 Enhanced Edition Installer By Nipkow     	               
       	     https://github.com/nipkownix/SH2EE-web-installer     
       	               					         
@@ -103,7 +103,7 @@ Questo progetto utilizza i seguenti tools e librerie open source (C) 2023
             https://github.com/jrsoftware/issrc       	 
       	                                                                
       	                              	         
-     	------------------------------------------------------------------------
+     	 ==============================================================
 
 
 
