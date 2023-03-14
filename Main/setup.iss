@@ -34,7 +34,7 @@ SlicesPerDisk=3
 DiskSliceSize=1566000000
 WizardStyle=modern
 SetupIconFile=resources\sh2.ico
-Compression=zip
+Compression=lzma2/ultra 
 
 
 [Languages]
