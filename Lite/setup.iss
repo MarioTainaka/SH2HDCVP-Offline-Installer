@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "Silent HIll 2 HD Collection Voice Pack Lite Edition"
-#define MyAppVersion "5.0.3"
+#define MyAppVersion "5.0.4"
 #define MyAppPublisher "Mario Tainaka"
 #define MyAppURL "https://twitter.com/SlaveOfSuzumiya"
 
@@ -74,12 +74,13 @@ Source: "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 N
 // Optional Components catagories, the main files which include the FMV, SFX and Dialouge files will not be selectable to prevent user error
 
 [Components]
+Name: "main"; Description: "Main Files";Types: full compact custom; Flags: fixed
 Name: "sub"; Description: "Cutscene Subtitle Fixes For All Langauges"; Types:  full; Flags: dontinheritcheck
 Name: "bgm"; Description: "Audio Enhacement Pack Music"; Types:  full; Flags: dontinheritcheck
-Name: "main"; Description: "Main Files";Types: full compact custom; Flags: fixed
 
 
-//Code which should show a description of the catagory options. This doesn't work yet?
+
+//Code which should show a description of the catagory options. Huge thanks to Nipkow for getting this to workt
 
 [Code]
 
@@ -164,9 +165,10 @@ var
   Description: string;
 begin
   case Index of
-    0: Description := 'This is the description of Main Files';
-    1: Description := 'This is the description of Additional Files';
-    2: Description := 'This is the description of Help Files';
+    0: Description := 'Installs important files required for this mod to function';
+    1: Description := 'Fixes subtitles for certain in-game cutscenes for all langauges (Not recomended when using translation packs)';
+    2: Description := 'Install Enhanced Edition Music Files (Not required If you have a full Enhanced Edition installation)';
+    
   else
     Description := 'Move your mouse over a component to see its description.';
   end;
@@ -220,14 +222,14 @@ begin
       Parent      := WizardForm.SelectComponentsPage;
       Left        := WizardForm.ComponentsList.Left;
       Width       := WizardForm.ComponentsList.Width;
-      Height      := ScaleY(15);
-      Top         := WizardForm.ComponentsList.Top + WizardForm.ComponentsList.Height - CompLabel.Height - ScaleY(5);
+      Height      := ScaleY(40);
+      Top         := WizardForm.ComponentsList.Top + WizardForm.ComponentsList.Height - CompLabel.Height - ScaleY(40);
       Anchors     := [akLeft, akBottom];
       AutoSize    := False;
       WordWrap    := True;
   end;
 
-  WizardForm.ComponentsList.Height := WizardForm.ComponentsList.Height - CompLabel.Height - ScaleY(10);
+  WizardForm.ComponentsList.Height := WizardForm.ComponentsList.Height - CompLabel.Height - ScaleY(40);
 end;
 
 
