@@ -214,18 +214,20 @@ begin
   SetTimer(0, 0, 50, CreateCallback(@HoverTimerProc));
 
   CompLabel := TLabel.Create(WizardForm);
-  CompLabel.Parent := WizardForm.SelectComponentsPage;
-  CompLabel.Left := WizardForm.ComponentsList.Left;
-  CompLabel.Width := WizardForm.ComponentsList.Width;
-  CompLabel.Height := ScaleY(32);
-  CompLabel.Top :=
-    WizardForm.ComponentsList.Top + WizardForm.ComponentsList.Height -
-    CompLabel.Height;
-  CompLabel.AutoSize := False;
-  CompLabel.WordWrap := True;
+  with CompLabel do
+  begin
+      Caption     := '';
+      Parent      := WizardForm.SelectComponentsPage;
+      Left        := WizardForm.ComponentsList.Left;
+      Width       := WizardForm.ComponentsList.Width;
+      Height      := ScaleY(15);
+      Top         := WizardForm.ComponentsList.Top + WizardForm.ComponentsList.Height - CompLabel.Height - ScaleY(5);
+      Anchors     := [akLeft, akBottom];
+      AutoSize    := False;
+      WordWrap    := True;
+  end;
 
-  WizardForm.ComponentsList.Height :=
-    WizardForm.ComponentsList.Height - CompLabel.Height - ScaleY(8);
+  WizardForm.ComponentsList.Height := WizardForm.ComponentsList.Height - CompLabel.Height - ScaleY(10);
 end;
 
 
