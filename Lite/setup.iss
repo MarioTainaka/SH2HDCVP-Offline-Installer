@@ -80,7 +80,7 @@ Name: "bgm"; Description: "Audio Enhacement Pack Music"; Types:  full; Flags: do
 
 
 
-//Code which should show a description of the catagory options. Huge thanks to Nipkow for getting this to workt
+//Code which should show a description of the catagory options. Huge thanks to Nipkow for getting this to work
 
 [Code]
 
@@ -329,31 +329,7 @@ end;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//Warning Box Before starting installation
 
 [CustomMessages]
 
