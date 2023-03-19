@@ -338,6 +338,15 @@ To=Do's
 - Added French localization to the installer. 
 
 
+============================================================
+## Version 5.0.4/ Version 5.0.4 Lite Edition Changelog:
+=============================================================
+
+- Added installation components so that the user can remove or install individual components to save space. Read the Readme for more info.
+
+
+
+
 
 
 
