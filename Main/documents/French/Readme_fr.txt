@@ -1,6 +1,6 @@
 ﻿================================================= ===============
 
-Silent Hill 2 HD Collection Voice Pack Version 5.0.3
+Silent Hill 2 HD Collection Voice Pack Version 5.0.4
 ================================================= ===============
 
 L'Audio Enhancement et FMV Enhancement Packs ne sont PAS nécessaires pour que ce mod fonctionne car ils sont déjà utilisés comme base.
@@ -20,10 +20,20 @@ Installation
 
 5 : Les crédits et les journaux des modifications ainsi que ce fichier Readme_fr se trouvent dans le dossier Konami\Silent Hill 2\HD Collection Voice Pack Support
 
+=================================================
+Composants d'installation
+=================================================
 
-=================================================
+Main (Principal) : ce composant comprend les FMV de l'édition améliorée, les effets sonores et les fichiers de dialogue requis. Ceci est nécessaire pour que le mod fonctionne et ne peut pas être décoché
+
+Cutscene Subtitle Fixes For All Languages : (Corrections des sous-titres de la cinématique pour toutes les langues) : Il existe deux cinématiques dans le jeu dont le contexte a été considérablement modifié dans la collection HD en raison d'oublis. Cette option corrige les sous-titres pour s'adapter à cela. Par défaut, cela est corrigé lorsque vous jouez au jeu en anglais uniquement. Cette option active ce correctif pour toutes les langues. Il n'est pas recommandé d'activer ce correctif si vous utilisez des packs de traduction car les fichiers seront écrasés.
+
+Audio Enhancement Pack Music (Pack d'amélioration audio Musique) : Cette option installe les fichiers musicaux de l'Enhanced Edition inclus dans l'Audio Enhancement Pack. Si vous disposez déjà d'une installation complète de l'Enhanced Edition, vous pouvez la désactiver pour économiser environ 819 Mo d'espace.
+
+
+====================================================
 Désinstallation \ Mise à jour \ Désactivation du mod
-=================================================
+====================================================
 
 1 : Supprimez l'ancienne version à l'aide de la fonction Ajout ou suppression de programmes et installez la version la plus récente. Vous pouvez mettre à niveau entre la version Normale\Légère si vous le souhaitez.
 

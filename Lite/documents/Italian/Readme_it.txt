@@ -1,6 +1,6 @@
 ﻿=================================================================
 
-Silent Hill 2 HD Collection Voice Pack Version 5.0.3 Lite Edition
+Silent Hill 2 HD Collection Voice Pack Version 5.0.4 Lite Edition
 =================================================================
 
 Il pack Audio Enhancement e FMV Enhancement NON sono richiesti per il funzionamento di questa mod visto che sono già utilizzati come base di partenza.
@@ -22,9 +22,19 @@ Installation
 5:	I crediti, i Changelog e questa readme si trovano in   Konami\Silent Hill 2\HD Collection Voice Pack Support
 
 
-=================================
+===================================================
+Componenti di installazione
+===================================================
+
+Main (Principale) : questo componente include gli FMV della Enhanced Edition, gli effetti sonori ei file di dialogo richiesti. Questo è necessario per il funzionamento della mod e non può essere deselezionato
+
+Cutscene Subtitle Fixes For All Languages: (Correzioni dei sottotitoli dei filmati per tutte le lingue): ci sono due filmati di gioco il cui contesto è stato modificato in modo massiccio nella raccolta HD a causa di sviste. Questa opzione corregge i sottotitoli per adattarsi a questo. Per impostazione predefinita, questo problema viene risolto solo quando si gioca in inglese. Questa opzione abilita questa correzione per tutte le lingue. Non è consigliabile abilitare questa correzione se si utilizzano i pacchetti di traduzione poiché i file verranno sovrascritti.
+
+Audio Enhancement Pack Music: questa opzione installa i file musicali della Enhanced Edition inclusi nel Audio Enhancement Pack, se hai già un'installazione completa della Enhanced Edition puoi disattivarla per risparmiare circa 819 MB di spazio
+
+=================================================
 Disinstallazione\Aggiornamento\Disattivare la mod
-=================================
+=================================================
 
 1:	Rimuovi la vecchia versione utilizzando Installazione Applicazioni e installa la versione nuova. Puoi passare dalle versioni Reloaded II e Main/Lite in caso di necessità.
 

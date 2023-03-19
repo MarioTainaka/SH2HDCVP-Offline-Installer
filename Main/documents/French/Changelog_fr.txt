@@ -333,3 +333,11 @@ Version 5.0.3/5.0.3 (édition légère), liste des modifications :
 - BGM original restauré pour aijin (Maria ending boss fight Intro cutscene)
 
 - Ajout de la localisation française au programme d'installation.
+
+
+================================================== ==========
+Version 5.0.4/5.0.4 (édition légère), liste des modifications :
+================================================== ===========
+
+- Ajout de composants d'installation afin que l'utilisateur puisse supprimer ou installer des composants individuels pour économiser de l'espace. Lisez le fichier Lisez-moi pour plus d'informations.
+
