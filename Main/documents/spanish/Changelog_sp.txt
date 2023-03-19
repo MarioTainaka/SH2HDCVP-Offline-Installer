@@ -319,3 +319,10 @@ Registro de cambios de la versión 5.0.3/Versión 5.0.3 Lite Edition:
 - BGM original restaurado para aijin (María finaliza la escena de introducción de la pelea con el jefe)
 
 - Se agregó la localización en francés al instalador.
+
+
+================================================== =================
+Registro de cambios de la versión 5.0.4/Versión 5.0.4 Lite Edition:
+================================================== =================
+
+- Se agregaron componentes de instalación para que el usuario pueda quitar o instalar componentes individuales para ahorrar espacio. Lea el archivo Léame para obtener más información.

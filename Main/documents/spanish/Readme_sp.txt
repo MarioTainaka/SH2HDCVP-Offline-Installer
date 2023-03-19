@@ -1,5 +1,5 @@
 ﻿=================================================================
-Silent Hill 2 HD Collection Voice Pack Versión 5.0.3
+Silent Hill 2 HD Collection Voice Pack Versión 5.0.4
 =================================================================
 
 El paquete de mejora de audio y el paquete de mejora de FMV NO son necesarios para que este mod funcione, ya que ya se utilizan como base..
@@ -19,6 +19,15 @@ Instalación
 4: Inicie el juego.
 
 5: Los créditos, los registros de cambios y este archivo Léame se encuentran en Konami\Silent Hill 2\HD Collection Voice Pack Support
+
+==================================================
+Componentes de instalación
+==================================================
+Main (Principal) : este componente incluye los FMV de edición mejorada, los efectos de sonido y los archivos de diálogo necesarios. Esto es necesario para que el mod funcione y no se puede desmarcar
+
+Cutscene Subtitle Fixes For All Languages (Correcciones de subtítulos de cinemáticas para todos los idiomas) : hay dos cinemáticas en el juego cuyo contexto cambió enormemente en la colección HD debido a descuidos. Esta opción corrige los subtítulos para adaptarse a esto. De forma predeterminada, esto se soluciona cuando se juega solo en inglés. Esta opción habilita esta solución para todos los idiomas. No se recomienda habilitar esta solución si está utilizando paquetes de traducción, ya que se sobrescribirán los archivos.
+
+Audio Enhancement Pack Music (Paquete de mejora de audio Música) : esta opción instala los archivos de música de la Edición mejorada incluidos en el Paquete de mejora de audio. Si ya tiene una instalación completa de la Edición mejorada, puede desactivarla para ahorrar alrededor de 819 MB de espacio.
 
 
 ==================================================

@@ -317,5 +317,15 @@ Registro delle modifiche della versione 5.0.3/versione 5.0.3 edizione Lite:
 - Aggiunta la localizzazione francese al programma di installazione.
 
 
+===========================================================================
+Registro delle modifiche della versione 5.0.4/versione 5.0.4 edizione Lite:
+============================================================================
+
+- Aggiunti componenti di installazione in modo che l'utente possa rimuovere o installare singoli componenti per risparmiare spazio. Leggi il Leggimi per maggiori informazioni.
+
+
+
+
+
 
 
