@@ -40,7 +40,7 @@ Compression=zip
 
 [InstallDelete]
 
-// Delete old movie files. The files will be overwritten anyway. But this will avoid weird edge cases or if the Enhanced Edition Team updates the player to a new format.
+// Delete old movie files. The files will be overwritten anyway. But this will avoid weird edge cases if the Enhanced Edition Team updates the player to a new format or something 
 
 
 
