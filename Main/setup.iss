@@ -38,10 +38,10 @@ Compression=lzma2/ultra
 
  //Readme and License file are read from the source dir 
 [Languages]
-Name: "english"; MessagesFile: "compiler:Default.isl"; InfoBeforeFile:"C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\English\Readme.txt"; LicenseFile : "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\English\License.txt"
-Name: "spanish"; MessagesFile: "compiler:Languages\Spanish.isl"; InfoBeforeFile:"C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Spanish\Readme_sp.txt"; LicenseFile : "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Spanish\License_sp.txt"
-Name: "italian"; MessagesFile: "compiler:Languages\Italian.isl"; InfoBeforeFile:"C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Italian\Readme_it.txt"; LicenseFile : "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Italian\License_it.txt"
-Name: "French"; MessagesFile: "compiler:Languages\French.isl"; InfoBeforeFile:"C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\French\Readme_fr.txt"; LicenseFile : "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\French\License_fr.txt"
+Name: "english"; MessagesFile: "compiler:Default.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\English\Readme.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\English\License.txt"
+Name: "spanish"; MessagesFile: "compiler:Languages\Spanish.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Spanish\Readme_sp.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Spanish\License_sp.txt"
+Name: "italian"; MessagesFile: "compiler:Languages\Italian.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Italian\Readme_it.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\Italian\License_it.txt"
+Name: "French"; MessagesFile: "compiler:Languages\French.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\French\Readme_fr.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\French\License_fr.txt"
 
 
 
@@ -55,15 +55,15 @@ Filename: "{app}\SH2EEconfig.exe"; Description: "Launch Silent Hill 2 Enhanced E
 [Files]
 // Main Installation Files, CG Cutscenes, SFX and Dialouge as well as help files. These will always be installed regardless of the components selected
 
-Source: "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\common\*"; DestDir: "{app}\lang"; Flags: ignoreversion recursesubdirs createallsubdirs;  Components: main 
+Source: "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\common\*"; DestDir: "{app}\lang"; Flags: ignoreversion recursesubdirs createallsubdirs;  Components: main 
 
-Source: "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\*"; DestDir: "{app}\HD Collection Voice Pack Support"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: main
+Source: "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\*"; DestDir: "{app}\HD Collection Voice Pack Support"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: main
 
 
 // Optional Component files
-Source: "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\additional_subtitle\*"; DestDir: "{app}\lang"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: sub
+Source: "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\additional_subtitle\*"; DestDir: "{app}\lang"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: sub
 
-Source: "C:\Users\sjomm\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\additional_bgm\*"; DestDir: "{app}\lang"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: bgm
+Source: "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\additional_bgm\*"; DestDir: "{app}\lang"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: bgm
 
 
 
