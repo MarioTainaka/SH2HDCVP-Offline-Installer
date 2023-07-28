@@ -37,6 +37,51 @@ SetupIconFile=resources\sh2.ico
 Compression=zip
 
 
+
+[InstallDelete]
+
+// Delete old movie files. The files will be overwritten anyway. But this will avoid weird edge cases or if the Enhanced Edition Team updates the player to a new format.
+
+
+
+Type: files; Name: "{app}\lang\movie\credits.bik"
+Type: files; Name: "{app}\lang\movie\deai.bik"
+Type: files; Name: "{app}\lang\movie\end.bik"
+Type: files; Name: "{app}\lang\movie\end_dog.bik"
+Type: files; Name: "{app}\lang\movie\end_wish.bik"
+Type: files; Name: "{app}\lang\movie\flash.bik"
+Type: files; Name: "{app}\lang\movie\gero.bik"
+Type: files; Name: "{app}\lang\movie\hakaba.bik"
+Type: files; Name: "{app}\lang\movie\hei.bik"
+Type: files; Name: "{app}\lang\movie\knife.bik"
+Type: files; Name: "{app}\lang\movie\korosu_a.bik"
+Type: files; Name: "{app}\lang\movie\korosu_b.bik"
+Type: files; Name: "{app}\lang\movie\murder.bik"
+Type: files; Name: "{app}\lang\movie\open.bik"
+Type: files; Name: "{app}\lang\movie\rouya.bik"
+Type: files; Name: "{app}\lang\movie\saikai.bik"
+Type: files; Name: "{app}\lang\movie\sh2e3.bik"
+Type: files; Name: "{app}\lang\movie\sh3e3.bik"
+Type: files; Name: "{app}\lang\movie\sh3tgs.bik"
+Type: files; Name: "{app}\lang\movie\toilet.bik"
+Type: files; Name: "{app}\lang\movie\water.bik"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
  //Readme and License file are read from the source dir 
  
@@ -340,6 +385,10 @@ english.CustomMessage=Ensure Silent Hill 2: Enhanced Edition is installed prior 
 spanish.CustomMessage=Asegúrese de que Silent Hill 2: Enhanced Edition esté instalado antes de ejecutar este instalador para Silent Hill 2 HD Collection Voice Pack
 italian.CustomMessage=Assicurati che Silent Hill 2: Enhanced Edition sia installato prima di eseguire questo programma di installazione per Silent Hill 2 HD Collection Voice Pack
 French.CustomMessage=Assurez-vous que Silent Hill 2: Enhanced Edition est installé avant d'exécuter ce programme d'installation pour le pack de voix Silent Hill 2 HD Collection
+
+
+
+
 
 
 
