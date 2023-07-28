@@ -36,6 +36,37 @@ WizardStyle=modern
 SetupIconFile=resources\sh2.ico
 Compression=lzma2/ultra 
 
+
+[InstallDelete]
+
+// Delete old movie files. The files will be overwritten anyway. But this will avoid weird edge cases if the Enhanced Edition Team updates the player to a new format or something 
+
+
+
+Type: files; Name: "{app}\lang\movie\credits.bik"
+Type: files; Name: "{app}\lang\movie\deai.bik"
+Type: files; Name: "{app}\lang\movie\end.bik"
+Type: files; Name: "{app}\lang\movie\end_dog.bik"
+Type: files; Name: "{app}\lang\movie\end_wish.bik"
+Type: files; Name: "{app}\lang\movie\flash.bik"
+Type: files; Name: "{app}\lang\movie\gero.bik"
+Type: files; Name: "{app}\lang\movie\hakaba.bik"
+Type: files; Name: "{app}\lang\movie\hei.bik"
+Type: files; Name: "{app}\lang\movie\knife.bik"
+Type: files; Name: "{app}\lang\movie\korosu_a.bik"
+Type: files; Name: "{app}\lang\movie\korosu_b.bik"
+Type: files; Name: "{app}\lang\movie\murder.bik"
+Type: files; Name: "{app}\lang\movie\open.bik"
+Type: files; Name: "{app}\lang\movie\rouya.bik"
+Type: files; Name: "{app}\lang\movie\saikai.bik"
+Type: files; Name: "{app}\lang\movie\sh2e3.bik"
+Type: files; Name: "{app}\lang\movie\sh3e3.bik"
+Type: files; Name: "{app}\lang\movie\sh3tgs.bik"
+Type: files; Name: "{app}\lang\movie\toilet.bik"
+Type: files; Name: "{app}\lang\movie\water.bik"
+
+
+
  //Readme and License file are read from the source dir 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\English\Readme.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Main\HD Collection Voice Pack Support\English\License.txt"
