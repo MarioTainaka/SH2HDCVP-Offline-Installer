@@ -38,7 +38,26 @@ Compression=zip
 
 
 
+
+ // Previous versions of the project will be deleted before starting installation of the new version
+
 [InstallDelete]
+
+
+
+
+
+// Delete old dialouge archive. There's technically no need to do this, but it's better to be safe then sorry.
+
+
+Type: files; Name: "{app}\lang\sound\adx\voice\voice.afs"
+Type: files; Name: "{app}\lang\sound\sddata.bin"
+
+
+
+
+
+
 
 // Delete old movie files. The files will be overwritten anyway. But this will avoid weird edge cases if the Enhanced Edition Team updates the player to a new format or something 
 
@@ -65,6 +84,106 @@ Type: files; Name: "{app}\lang\movie\sh3e3.bik"
 Type: files; Name: "{app}\lang\movie\sh3tgs.bik"
 Type: files; Name: "{app}\lang\movie\toilet.bik"
 Type: files; Name: "{app}\lang\movie\water.bik"
+
+
+// Delete optional langauge files with cutscene subtitle fixes for Saisho_2
+
+
+Type: files; Name: "{app}\lang\etc\message\stage_town_east_msg_e.mes"
+Type: files; Name: "{app}\lang\etc\message\stage_town_east_msg_f.mes"
+Type: files; Name: "{app}\lang\etc\message\stage_town_east_msg_g.mes"
+Type: files; Name: "{app}\lang\etc\message\stage_town_east_msg_i.mes"
+Type: files; Name: "{app}\lang\etc\message\stage_town_east_msg_s.mes"
+
+
+
+// Delete Optional BGM files from the Enhanced Edition Team. There's technically no need to do this but this will keep everything clean.
+
+Type: files; Name: "{app}\lang\sound\adx\apart\bgm_001.adx"
+Type: files; Name: "{app}\lang\sound\adx\apart\bgm_003.adx"
+Type: files; Name: "{app}\lang\sound\adx\apart\bgm_014.adx"
+Type: files; Name: "{app}\lang\sound\adx\apart\bgm_101.aix"
+Type: files; Name: "{app}\lang\sound\adx\apart\bgm_102.aix"
+Type: files; Name: "{app}\lang\sound\adx\apart\bgm_103.aix"
+Type: files; Name: "{app}\lang\sound\adx\apart\bgm_118.aix"
+Type: files; Name: "{app}\lang\sound\adx\apart\bgm_125.aix"
+Type: files; Name: "{app}\lang\sound\adx\end\bgm_002.adx"
+Type: files; Name: "{app}\lang\sound\adx\end\bgm_012.adx"
+Type: files; Name: "{app}\lang\sound\adx\forest\bgm_022.adx"
+Type: files; Name: "{app}\lang\sound\adx\forest\bgm_114_a.adx"
+Type: files; Name: "{app}\lang\sound\adx\forest\bgm_114_b.aix"
+Type: files; Name: "{app}\lang\sound\adx\forest\bgm_115.aix"
+Type: files; Name: "{app}\lang\sound\adx\hospital\bgm_016.adx"
+Type: files; Name: "{app}\lang\sound\adx\hospital\bgm_021.adx"
+Type: files; Name: "{app}\lang\sound\adx\hospital\bgm_100.aix"
+Type: files; Name: "{app}\lang\sound\adx\hospital\bgm_105.aix"
+Type: files; Name: "{app}\lang\sound\adx\hospital\bgm_106.aix"
+Type: files; Name: "{app}\lang\sound\adx\hospital\bgm_111.aix"
+Type: files; Name: "{app}\lang\sound\adx\hospital\bgm_119.aix"
+Type: files; Name: "{app}\lang\sound\adx\hospital\bgm_123.aix"
+Type: files; Name: "{app}\lang\sound\adx\hotel\bgm_007.adx"
+Type: files; Name: "{app}\lang\sound\adx\hotel\bgm_009.adx"
+Type: files; Name: "{app}\lang\sound\adx\hotel\bgm_017.adx"
+Type: files; Name: "{app}\lang\sound\adx\hotel\bgm_108.aix"
+Type: files; Name: "{app}\lang\sound\adx\hotel\bgm_112.aix"
+Type: files; Name: "{app}\lang\sound\adx\hotel\bgm_112_NG.aix"
+Type: files; Name: "{app}\lang\sound\adx\hotel\bgm_113.aix"
+Type: files; Name: "{app}\lang\sound\adx\hotel\bgm_121.aix"
+Type: files; Name: "{app}\lang\sound\adx\hotel\bgm_122.aix"
+Type: files; Name: "{app}\lang\sound\adx\hotel\bgm_124.aix"
+Type: files; Name: "{app}\lang\sound\adx\hotel\bgm_126.adx"
+Type: files; Name: "{app}\lang\sound\adx\mansion\bgm_104.aix"
+Type: files; Name: "{app}\lang\sound\adx\prison\bgm_015.adx"
+Type: files; Name: "{app}\lang\sound\adx\prison\bgm_020.adx"
+Type: files; Name: "{app}\lang\sound\adx\prison\bgm_107.aix"
+Type: files; Name: "{app}\lang\sound\adx\prison\bgm_109.aix"
+Type: files; Name: "{app}\lang\sound\adx\prison\bgm_110.aix"
+Type: files; Name: "{app}\lang\sound\adx\prison\bgm_116.aix"
+Type: files; Name: "{app}\lang\sound\adx\prison\bgm_120.aix"
+Type: files; Name: "{app}\lang\sound\adx\prison\bgm_128.aix"
+Type: files; Name: "{app}\lang\sound\adx\town\bgm_004.adx"
+Type: files; Name: "{app}\lang\sound\adx\town\bgm_005.adx"
+Type: files; Name: "{app}\lang\sound\adx\town\bgm_018.adx"
+Type: files; Name: "{app}\lang\sound\adx\town\bgm_117.aix"
+
+
+// Delete support Readme files for the HD Collection Voice Pack. These might be moved into the root directory at some point. Tec... you know the drill at this point.
+
+Type: files; Name: "{app}\HD Collection Voice Pack Support\English\Changelog.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\English\License.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\English\Readme.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\English\Silent Hill 2 HD Collection Dub Staff Credits.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\French\Changelog_fr.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\French\License_fr.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\French\Readme_fr.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\French\Silent Hill 2 HD Collection Dub Staff Credits_fr.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Italian\Changelog_it.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Italian\License_it.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Italian\Readme_it.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Italian\Silent Hill 2 HD Collection Dub Staff Credits.txt_it"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Spanish\Changelog_sp.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Spanish\License_sp.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Spanish\Readme_sp.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Spanish\Silent Hill 2 HD Collection Dub Staff Credits_sp.txt"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
