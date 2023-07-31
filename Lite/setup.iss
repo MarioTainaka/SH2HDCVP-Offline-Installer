@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "Silent HIll 2 HD Collection Voice Pack Lite Edition"
-#define MyAppVersion "5.0.4"
+#define MyAppVersion "5.0.5"
 #define MyAppPublisher "Mario Tainaka"
 #define MyAppURL "https://twitter.com/SlaveOfSuzumiya"
 
@@ -35,8 +35,7 @@ DiskSliceSize=1566000000
 WizardStyle=modern
 SetupIconFile=resources\sh2.ico
 Compression=zip
-
-
+OutputDir=C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Output\Lite
 
 
  // Previous versions of the project will be deleted before starting installation of the new version
@@ -331,7 +330,7 @@ begin
   case Index of
     0: Description := 'Installs important files required for this mod to function';
     1: Description := 'Fixes subtitles for certain in-game cutscenes for all langauges (Not recomended when using translation packs)';
-    2: Description := 'Install Enhanced Edition Music Files (Not required If you have a full Enhanced Edition installation)';
+    2: Description := 'Install Enhanced Edition Music Files (Highly recommended if the game is installed on a HDD or SD Card)';
     
   else
     Description := 'Move your mouse over a component to see its description.';
