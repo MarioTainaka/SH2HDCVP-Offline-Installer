@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "Silent HIll 2 HD Collection Voice Pack"
-#define MyAppVersion "5.0.4"
+#define MyAppVersion "5.0.5"
 #define MyAppPublisher "Mario Tainaka"
 #define MyAppURL "https://twitter.com/SlaveOfSuzumiya"
 
@@ -292,7 +292,7 @@ begin
   case Index of
     0: Description := 'Installs important files required for this mod to function';
     1: Description := 'Fixes subtitles for certain in-game cutscenes for all langauges (Not recomended when using translation packs)';
-    2: Description := 'Install Enhanced Edition Music Files (Highly recommended if the game is installed on a HDD or SD Card)';
+    2: Description := 'Reinstalls Enhanced Edition Music files to the langauge folder (Highly recommended if the game is installed on a HDD or SD Card)';
     
   else
     Description := 'Move your mouse over a component to see its description.';

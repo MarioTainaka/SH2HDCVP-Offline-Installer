@@ -330,7 +330,7 @@ begin
   case Index of
     0: Description := 'Installs important files required for this mod to function';
     1: Description := 'Fixes subtitles for certain in-game cutscenes for all langauges (Not recomended when using translation packs)';
-    2: Description := 'Install Enhanced Edition Music Files (Highly recommended if the game is installed on a HDD or SD Card)';
+    2: Description := 'Reinstalls Enhanced Edition Music files to the langauge folder (Highly recommended if the game is installed on a HDD or SD Card)';
     
   else
     Description := 'Move your mouse over a component to see its description.';
