@@ -1,5 +1,5 @@
 ﻿=================================================================
-Silent Hill 2 HD Collection Voice Pack Versión 5.0.4 Edición Lite
+Silent Hill 2 HD Collection Voice Pack Versión 5.0.5 Edición Lite
 =================================================================
 
 El paquete de mejora de audio y el paquete de mejora de FMV NO son necesarios para que este mod funcione, ya que ya se utilizan como base. Esta es la Edición Lite del mod, que presenta audio comprimido y escenas CG para reducir el tamaño del archivo para aquellos con Internet lento. Los activos del instalador también se comprimen para reducir aún más el tamaño del archivo.
@@ -27,7 +27,7 @@ Main (Principal) : este componente incluye los FMV de edición mejorada, los efe
 
 Cutscene Subtitle Fixes For All Languages (Correcciones de subtítulos de cinemáticas para todos los idiomas) : hay dos cinemáticas en el juego cuyo contexto cambió enormemente en la colección HD debido a descuidos. Esta opción corrige los subtítulos para adaptarse a esto. De forma predeterminada, esto se soluciona cuando se juega solo en inglés. Esta opción habilita esta solución para todos los idiomas. No se recomienda habilitar esta solución si está utilizando paquetes de traducción, ya que se sobrescribirán los archivos.
 
-Audio Enhancement Pack Music (Paquete de mejora de audio Música) : esta opción instala los archivos de música de la Edición mejorada incluidos en el Paquete de mejora de audio. Si ya tiene una instalación completa de la Edición mejorada, puede desactivarla para ahorrar alrededor de 819 MB de espacio.
+Audio Enhancement Pack Music (Paquete de mejora de audio Música) : Esta opción reinstala los archivos de música de la Edición mejorada incluidos en el Paquete de mejora de audio. Si está ejecutando el juego desde un disco duro o una tarjeta SD, se recomienda habilitar esta opción, ya que el juego tendrá problemas de rendimiento.
 
 
 ==================================================

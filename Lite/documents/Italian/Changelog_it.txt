@@ -324,5 +324,16 @@ Registro delle modifiche della versione 5.0.4/versione 5.0.4 edizione Lite:
 - Aggiunti componenti di installazione in modo che l'utente possa rimuovere o installare singoli componenti per risparmiare spazio. Leggi il Leggimi per maggiori informazioni.
 
 
+===========================================================================
+Registro delle modifiche della versione 5.0.5/versione 5.0.5 edizione Lite:
+============================================================================
+
+- Aggiunto codice per ripulire i vecchi file dalle versioni precedenti.
+
+- Descrizioni modificate.
+
+- Aggiunto il supporto per VHS Alternate Audio. Si prega di notare che durante la scena finale il VO tornerà a Monica Taylor Horgan poiché PCB non ha mai registrato l'audio per la versione non censurata.
+
+
 
 
