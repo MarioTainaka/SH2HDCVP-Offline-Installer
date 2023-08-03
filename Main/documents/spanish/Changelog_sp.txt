@@ -326,3 +326,15 @@ Registro de cambios de la versión 5.0.4/Versión 5.0.4 Lite Edition:
 ================================================== =================
 
 - Se agregaron componentes de instalación para que el usuario pueda quitar o instalar componentes individuales para ahorrar espacio. Lea el archivo Léame para obtener más información.
+
+
+
+================================================== =================
+Registro de cambios de la versión 5.0.5/Versión 5.0.5 Lite Edition:
+================================================== =================
+
+- Código agregado para limpiar archivos antiguos de versiones anteriores.
+
+- Descripciones ajustadas.
+ 
+- Se agregó soporte para VHS Alternate Audio. Tenga en cuenta que durante la escena final, el VO volverá a ser Monica Taylor Horgan, ya que PCB nunca grabó audio para la versión sin censura.

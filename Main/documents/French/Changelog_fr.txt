@@ -341,3 +341,16 @@ Version 5.0.4/5.0.4 (édition légère), liste des modifications :
 
 - Ajout de composants d'installation afin que l'utilisateur puisse supprimer ou installer des composants individuels pour économiser de l'espace. Lisez le fichier Lisez-moi pour plus d'informations.
 
+
+
+
+================================================== ==========
+Version 5.0.5/5.0.5 (édition légère), liste des modifications :
+================================================== ===========
+
+- Ajout de code pour nettoyer les anciens fichiers des anciennes versions.
+
+- Descriptions ajustées.
+
+- Ajout de la prise en charge de l'audio alternatif VHS. Veuillez noter que pendant la scène finale, le VO reviendra à Monica Taylor Horgan car PCB n'a jamais enregistré d'audio pour la version non censurée.
+
