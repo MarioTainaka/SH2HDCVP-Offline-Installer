@@ -454,8 +454,8 @@ end;
 MsgBox=(ExpandConstant('{cm:MyCustomMessage}'), mbInformation, MB_OK);
 
 CustomMessage=Undefined //just in case (should be equal to English)
-english.CustomMessage=Ensure Silent Hill 2: Enhanced Edition is installed prior to running this installer for the Silent Hill 2 HD Collection Voice Pack
-spanish.CustomMessage=Asegúrese de que Silent Hill 2: Enhanced Edition esté instalado antes de ejecutar este instalador para Silent Hill 2 HD Collection Voice Pack
-italian.CustomMessage=Assicurati che Silent Hill 2: Enhanced Edition sia installato prima di eseguire questo programma di installazione per Silent Hill 2 HD Collection Voice Pack
-French.CustomMessage=Assurez-vous que Silent Hill 2: Enhanced Edition est installé avant d'exécuter ce programme d'installation pour le pack de voix Silent Hill 2 HD Collection
+english.CustomMessage=Ensure version 2.1.2070.0 of Silent Hill 2: Enhanced Edition released on April 5th 2023 or higher is installed prior to running this installer to avoid any issues
+spanish.CustomMessage=Asegúrese de que la versión 2.1.2070.0 de Silent Hill 2: Enhanced Edition lanzada el 5 de abril de 2023 o posterior esté instalada antes de ejecutar este instalador para evitar problemas
+italian.CustomMessage=Assicurati che la versione 2.1.2070.0 di Silent Hill 2: Enhanced Edition rilasciata il 5 aprile 2023 o successiva sia installata prima di eseguire questo programma di installazione per evitare problemi
+French.CustomMessage=Assurez-vous que la version 2.1.2070.0 de Silent Hill 2 : Enhanced Edition publiée le 5 avril 2023 ou une version ultérieure est installée avant d'exécuter ce programme d'installation pour éviter tout problème
 
