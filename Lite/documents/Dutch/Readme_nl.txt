@@ -213,6 +213,21 @@ Franse vertaling
 
 - Contact: https://www.moddb.com/members/klemc
 
+======================
+Nederlandse vertaling
+======================
+
+Uh... ik... nee serieus.
+
+====================
+Portugees (Portugal)
+=====================
+
+*PTKay
+
+Contact:https://twitter.com/PTKay__
+
+
 ===================
 Bekende problemen
 ====================
