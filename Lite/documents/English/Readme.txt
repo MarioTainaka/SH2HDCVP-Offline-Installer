@@ -195,6 +195,22 @@ French Translation
 - Contact: https://www.moddb.com/members/klemc
 
 
+=================
+Dutch Translation
+=================
+
+Uh... me.. no seriously.
+
+====================
+Portuguese (Portugal)
+=====================
+
+*PTKay
+
+Contact:https://twitter.com/PTKay__
+
+
+
 ==============
 
 Known Issues

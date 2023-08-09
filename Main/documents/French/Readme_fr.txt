@@ -193,6 +193,22 @@ Traduction française
 - Contact: https://www.moddb.com/members/klemc
 
 
+=========================
+Traduction en néerlandais
+=========================
+
+Euh... moi... non sérieusement.
+
+====================
+Portugais (Portugal)
+=====================
+
+*PTKay
+
+Contact:https://twitter.com/PTKay__
+
+
+
 
 ================
 

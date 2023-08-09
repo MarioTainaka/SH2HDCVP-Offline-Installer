@@ -1,0 +1,86 @@
+
+ 
+Auteursrechten (C) 2023 Mario Tainaka\ SlaveOfSuzumiya
+
+Dit project gebruikt bestanden van het Silent Hill 2 Enhanced Edition Team (C) 2023
+
+Dit project gebruikt de volgende open source tools en bibliotheken (C) 2023
+
+      ==============================================================
+       AFS Packer - Versie 2.1.1 Door MaikelChan aka PacoChan                 
+       https://github.com/MaikelChan/AFSPacker            
+                                                                     
+       Aangedreven door AFSLib - Versie 2.0.2               
+       https://github.com/MaikelChan/AFSLib              
+                                                                      
+                                              
+      ==============================================================
+
+
+==============================================================
+SH2MSGConvert versie 1.6 van loadwordteam
+
+		https://github.com/loadwordteam/SH2MSGConvert
+
+==============================================================
+
+
+
+========================================================================
+      	 VG Audio WPF - Versie 1.1.1 Door Sajid Ook Bekend Als Sajidur78          
+      	 https://github.com/Sajidur78/VGAudio.Wp      
+      	                                                          
+      	 Aangedreven door VG Audio - Versie 2.2.1       
+      	 https://github.com/Thealexbarney/VGAudio    
+      	                                                          
+      	                                      
+ =======================================================================
+
+=============================================================================
+      	 Silent HIll 2 Audio Scripts Door Elisha Riedlinger Ook Bekend Als elishacloud               	
+      	 https://github.com/elishacloud/Silent-Hill-2-Enhancements           
+      	                                                                	
+      	               					              	
+      	                          						
+      	                                                                	
+      	                            	
+        =================================================================
+
+
+
+
+
+ ============================================================== 
+      	     Inno Setup-compiler door jrsoftware                	 
+             https://github.com/jrsoftware/issrc           
+      	                                                               
+      	               					         
+      	                          					 
+      	                                                                
+      	                              	         	 
+ ==============================================================
+
+
+
+==============================================================    
+   Silent Hill HD Collectie SND Extractor door Justin Drapper      
+      			              
+      	                                                                
+      	               					         
+      	                           					 
+      	                                                                
+      	                              	         
+ ==============================================================
+
+
+
+
+======================================================================              
+Installatieprogramma voor Silent Hill 2 Enhanced Edition door Nipkow     	               
+      	     https://github.com/nipkownix/SH2EE-web-installer     
+      	               					         
+      	    Aangedreven door Inno Setup Compiler               
+            https://github.com/jrsoftware/issrc       	 
+      	                                                                
+      	                              	         
+======================================================================

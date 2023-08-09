@@ -194,6 +194,22 @@ Traduzione in francese
 
 
 
+=========================
+Traduction en néerlandais
+=========================
+
+Euh... moi... non sérieusement.
+
+====================
+Portugais (Portugal)
+=====================
+
+*PTKay
+
+Contact:https://twitter.com/PTKay__
+
+
+
 ==============
 
 Problèmes connus

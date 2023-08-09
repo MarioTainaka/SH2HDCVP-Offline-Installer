@@ -1,0 +1,25 @@
+
+===============================================================
+Versão 5.0.5/ Versão 5.0.5 Lite Edition Registo de alterações:
+==============================================================
+
+- Adicionado código para limpar ficheiros antigos de versões anteriores.
+
+- Descrições ajustadas.
+
+- Adicionado suporte para áudio alternativo VHS. Nota que, durante a cena final, a voz será revertida para Monica Taylor Horgan, uma vez que o PCB nunca gravou áudio para a versão sem censura. 
+
+- Adicionada a localização em português (Portugal) ao projeto.
+
+- Adicionada a localização em holandês ao projeto.
+
+
+
+
+
+
+
+
+
+
+

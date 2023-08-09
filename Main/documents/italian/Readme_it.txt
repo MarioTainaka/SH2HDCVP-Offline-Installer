@@ -192,6 +192,22 @@ Traduzione in francese
 - Contatto: https://www.moddb.com/members/klemc
 
 
+
+========================
+Traduzione in olandese
+=======================
+
+Uh... io... no seriamente.
+
+========================
+Portoghese (Portogallo)
+========================
+
+*PTKay
+
+Contatto:https://twitter.com/PTKay__
+
+
 =====================
 
 Problemi Conosciuti

@@ -176,30 +176,29 @@ Traduzione Spagnola
 - Contatto: https://twitter.com/senorDane
 
 
+	
 
-===================
-Traduzione italiana
-===================
+========================
+Traduzione in olandese
+=======================
 
-* Sonikko06
+Uh... io... no seriamente.
 
-- Contatto: https://twitter.com/Sonikko06
+========================
+Portoghese (Portogallo)
+========================
 
+*PTKay
 
-======================
-Traduzione in francese
-======================
-
-* Framous
-
-- Contact: https://www.moddb.com/members/klemc
+Contatto:https://twitter.com/PTKay__
 
 
 
-==============
+
+====================
 
 Problemi Conosciuti
-=============
+====================
 
 -Manca un dialogo nella sala da Bowling con Maria (La versione HD è stata rilasciata così, i file audio sono vuoti)
 
