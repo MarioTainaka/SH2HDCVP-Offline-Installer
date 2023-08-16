@@ -1,5 +1,5 @@
 
-============================================================
+=============================================================
 Version 5.0.5/ Version 5.0.5 Lite Edition Changelog:
 =============================================================
 
@@ -12,9 +12,6 @@ Version 5.0.5/ Version 5.0.5 Lite Edition Changelog:
 - Added Portuguese (Portugal) localization to the project.
 
 - Added Dutch localization to the project.
- 
-
-
 
 
 

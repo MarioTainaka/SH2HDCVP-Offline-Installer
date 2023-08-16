@@ -347,6 +347,24 @@ To=Do's
 
 
 
+=============================================================
+## Version 5.0.5/ Version 5.0.5 Lite Edition Changelog:
+=============================================================
+
+- Added code to cleanup old files from older versions.
+
+- Adjusted descriptions.
+
+- Added support for VHS Alternate Audio. Please note that during the final scene the VO will revert to Monica Taylor Horgan as PCB never recorded audio for the uncensored version.
+
+- Added Portuguese (Portugal) localization to the project.
+
+- Added Dutch localization to the project.
+
+
+
+
+
 
 
 

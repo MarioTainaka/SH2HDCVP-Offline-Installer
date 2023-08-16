@@ -9,6 +9,9 @@ Registro delle modifiche della versione 5.0.5/versione 5.0.5 edizione Lite:
 
 - Aggiunto il supporto per VHS Alternate Audio. Si prega di notare che durante la scena finale il VO tornerà a Monica Taylor Horgan poiché PCB non ha mai registrato l'audio per la versione non censurata.
 
+- Aggiunta la localizzazione in portoghese (Portogallo) al progetto.
+
+- Aggiunta la localizzazione in olandese al progetto.
 
 
 

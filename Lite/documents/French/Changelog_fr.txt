@@ -8,3 +8,8 @@ Version 5.0.5/5.0.5 (édition légère), liste des modifications:
 - Descriptions ajustées.
 
 - Ajout de la prise en charge de l'audio alternatif VHS. Veuillez noter que pendant la scène finale, le VO reviendra à Monica Taylor Horgan car PCB n'a jamais enregistré d'audio pour la version non censurée.
+
+- Ajout de la localisation portugaise (Portugal) au projet.
+
+- Ajout de la localisation néerlandaise au projet.
+
