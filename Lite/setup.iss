@@ -204,13 +204,47 @@ Type: files; Name: "{app}\HD Collection Voice Pack Support\Spanish\Silent Hill 2
  //Readme and License file are read from the source dir 
  
 [Languages]
-Name: "english"; MessagesFile: "compiler:Default.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\English\Readme.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\English\License.txt"
-Name: "spanish"; MessagesFile: "compiler:Languages\Spanish.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Spanish\Readme_sp.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Spanish\License_sp.txt"
-Name: "italian"; MessagesFile: "compiler:Languages\Italian.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Italian\Readme_it.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Italian\License_it.txt"
-Name: "French"; MessagesFile: "compiler:Languages\French.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\French\Readme_fr.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\French\License_fr.txt"
-Name: "Dutch"; MessagesFile: "compiler:Languages\Dutch.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Dutch\Readme_nl.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Dutch\License_nl.txt"
-Name: "Portuguese"; MessagesFile: "compiler:Languages\Portuguese.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Portuguese-PT\Readme_pt-pt.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Portuguese-PT\License_pt-pt.txt"
+Name: "en"; MessagesFile: "compiler:Default.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\English\Readme.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\English\License.txt"
+Name: "es"; MessagesFile: "compiler:Languages\Spanish.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Spanish\Readme_sp.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Spanish\License_sp.txt"
+Name: "it"; MessagesFile: "compiler:Languages\Italian.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Italian\Readme_it.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Italian\License_it.txt"
+Name: "fr"; MessagesFile: "compiler:Languages\French.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\French\Readme_fr.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\French\License_fr.txt"
+Name: "nl"; MessagesFile: "compiler:Languages\Dutch.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Dutch\Readme_nl.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Dutch\License_nl.txt"
+Name: "pt"; MessagesFile: "compiler:Languages\Portuguese.isl"; InfoBeforeFile:"C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Portuguese-PT\Readme_pt-pt.txt"; LicenseFile : "C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Lite\HD Collection Voice Pack Support\Portuguese-PT\License_pt-pt.txt"
 
+[CustomMessages]
+// Version warning
+VersionWarning=Ensure version 2.1.2070.0 of Silent Hill 2: Enhanced Edition released on April 5th 2023 or higher is installed prior to running this installer to avoid any issues
+es.VersionWarning=Asegúrese de que la versión 2.1.2070.0 de Silent Hill 2: Enhanced Edition lanzada el 5 de abril de 2023 o posterior esté instalada antes de ejecutar este instalador para evitar problemas
+it.VersionWarning=Assicurati che la versione 2.1.2070.0 di Silent Hill 2: Enhanced Edition rilasciata il 5 aprile 2023 o successiva sia installata prima di eseguire questo programma di installazione per evitare problemi
+fr.VersionWarning=Assurez-vous que la version 2.1.2070.0 de Silent Hill 2 : Enhanced Edition publiée le 5 avril 2023 ou une version ultérieure est installée avant d'exécuter ce programme d'installation pour éviter tout problème
+nl.VersionWarning=Zorg ervoor dat versie 2.1.2070.0 of hoger van Silent Hill 2: Enhanced Edition, uitgebracht op 5 april 2023, is geïnstalleerd voordat je dit installatieprogramma uitvoert om problemen te voorkomen.
+pt.VersionWarning=Para evitar problemas, certifique-se de que a versão 2.1.2070.0 de Silent Hill 2: Enhanced Edition, lançada em 5 de abril de 2023 ou superior, esteja instalada antes de executar este instalador 
+
+// Localized component descriptions
+// English
+voiceMain=Installs important files required for this mod to function
+voiceCutsc=Fixes subtitles for certain in-game cutscenes for all langauges (Not recomended when using translation packs)
+voiceMusic=Reinstalls Enhanced Edition Music files to the langauge folder (Highly recommended if the game is installed on a HDD or SD Card)
+// Spanish
+es.voiceMain=Spanish Main description
+es.voiceCutsc=Spanish Cutscene description
+es.voiceMusic=Spanish Music description
+// Italian
+it.voiceMain=Italian Main description
+it.voiceCutsc=Italian Cutscene description
+it.voiceMusic=Italian Music description
+// French
+fr.voiceMain=French Main description
+fr.voiceCutsc=French Cutscene description
+fr.voiceMusic=French Music description
+// Dutch
+nl.voiceMain=Dutch Main description
+nl.voiceCutsc=Dutch Cutscene description
+nl.voiceMusic=Dutch Music description
+// Portuguese
+pt.voiceMain=Portuguese Main description
+pt.voiceCutsc=Portuguese Cutscene description
+pt.voiceMusic=Portuguese Music description
 
  //After installation you can run Silent Hill 2 Enhanced Edition OR  run the Config Tool
 [Run]
@@ -330,9 +364,9 @@ var
   Description: string;
 begin
   case Index of
-    0: Description := 'Installs important files required for this mod to function';
-    1: Description := 'Fixes subtitles for certain in-game cutscenes for all langauges (Not recomended when using translation packs)';
-    2: Description := 'Reinstalls Enhanced Edition Music files to the langauge folder (Highly recommended if the game is installed on a HDD or SD Card)';
+    0: Description := CustomMessage('voiceMain');
+    1: Description := CustomMessage('voiceCutsc');
+    2: Description := CustomMessage('voiceMusic');
     
   else
     Description := 'Move your mouse over a component to see its description.';
@@ -487,29 +521,8 @@ end;
 function InitializeSetup: Boolean;
 begin
   Result := True;  
-  MsgBox(ExpandConstant('{cm:CustomMessage}'), mbInformation, MB_OK);
+  MsgBox(ExpandConstant('{cm:VersionWarning}'), mbInformation, MB_OK);
 end;
-
- 
-
-
-
-//Warning Box Before starting installation
-
-[CustomMessages]
-
-MsgBox=(ExpandConstant('{cm:MyCustomMessage}'), mbInformation, MB_OK);
-
-CustomMessage=Undefined //just in case (should be equal to English)
-english.CustomMessage=Ensure version 2.1.2070.0 of Silent Hill 2: Enhanced Edition released on April 5th 2023 or higher is installed prior to running this installer to avoid any issues
-spanish.CustomMessage=Asegúrese de que la versión 2.1.2070.0 de Silent Hill 2: Enhanced Edition lanzada el 5 de abril de 2023 o posterior esté instalada antes de ejecutar este instalador para evitar problemas
-italian.CustomMessage=Assicurati che la versione 2.1.2070.0 di Silent Hill 2: Enhanced Edition rilasciata il 5 aprile 2023 o successiva sia installata prima di eseguire questo programma di installazione per evitare problemi
-French.CustomMessage=Assurez-vous que la version 2.1.2070.0 de Silent Hill 2 : Enhanced Edition publiée le 5 avril 2023 ou une version ultérieure est installée avant d'exécuter ce programme d'installation pour éviter tout problème
-Portuguese.CustomMessage=Para evitar problemas, certifique-se de que a versão 2.1.2070.0 de Silent Hill 2: Enhanced Edition, lançada em 5 de abril de 2023 ou superior, esteja instalada antes de executar este instalador 
-Dutch.CustomMessage=Zorg ervoor dat versie 2.1.2070.0 of hoger van Silent Hill 2: Enhanced Edition, uitgebracht op 5 april 2023, is geïnstalleerd voordat je dit installatieprogramma uitvoert om problemen te voorkomen.
-
-
-
 
 
 
