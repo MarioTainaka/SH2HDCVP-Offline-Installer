@@ -34,7 +34,7 @@ SlicesPerDisk=3
 DiskSliceSize=1566000000
 WizardStyle=modern
 SetupIconFile=resources\sh2.ico
-Compression=lzma2/ultra
+Compression=zip
 OutputDir=C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Output\Lite
 
 
@@ -214,7 +214,7 @@ Name: "pt"; MessagesFile: "compiler:Languages\Portuguese.isl"; InfoBeforeFile:"C
 [CustomMessages]
 // Version warning
 VersionWarning=Ensure version 2.1.2070.0 of Silent Hill 2: Enhanced Edition released on April 5th 2023 or higher is installed prior to running this installer to avoid any issues
-es.VersionWarning=AsegÃºrese de que la versiÃ³n 2.1.2070.0 de Silent Hill 2: Enhanced Edition lanzada el 5 de abril de 2023 o posterior estÃ© instalada antes de ejecutar este instalador para evitar problemas
+es.VersionWarning=Asegúrese de que la versión 2.1.2070.0 de Silent Hill 2: Enhanced Edition lanzada el 5 de abril de 2023 o posterior esté instalada antes de ejecutar este instalador para evitar problemas
 it.VersionWarning=Assicurati che la versione 2.1.2070.0 di Silent Hill 2: Enhanced Edition rilasciata il 5 aprile 2023 o successiva sia installata prima di eseguire questo programma di installazione per evitare problemi
 fr.VersionWarning=Assurez-vous que la version 2.1.2070.0 de Silent Hill 2 : Enhanced Edition publiÃ©e le 5 avril 2023 ou une version ultÃ©rieure est installÃ©e avant d'exÃ©cuter ce programme d'installation pour Ã©viter tout problÃ¨me
 nl.VersionWarning=Zorg ervoor dat versie 2.1.2070.0 of hoger van Silent Hill 2: Enhanced Edition, uitgebracht op 5 april 2023, is geÃ¯nstalleerd voordat je dit installatieprogramma uitvoert om problemen te voorkomen.
@@ -228,15 +228,15 @@ musicTitle=Audio Enhacement Pack Music
 mainDesc=Installs important files required for this mod to function
 cutscDesc=Fixes subtitles for certain in-game cutscenes for all langauges (Not recomended when using translation packs)
 musicDesc=Reinstalls Enhanced Edition Music files to the langauge folder (Highly recommended if the game is installed on a HDD or SD Card)
-descMessage=Move your mouse over a component to see its description.
+descMessage=Mueva el ratón sobre un componente para ver su descripción.
 // Spanish
-es.mainTitle=Spanish Main title
-es.cutscTitle=Spanish Cutscene title
-es.musicTitle=Spanish Music title
-es.mainDesc=Spanish Main description
-es.cutscDesc=Spanish Cutscene description
-es.musicDesc=Spanish Music description
-es.descMessage=Spanish mouseover message
+es.mainTitle=Archivos principales
+es.cutscTitle=Correcciones de subtítulos de cinemáticas para todos los idiomas
+es.musicTitle=Paquete de mejora de audio Música
+es.mainDesc=Este componente incluye los FMV de edición mejorada, los efectos de sonido y los archivos de diálogo necesarios. Esto es necesario para que el mod funcione y no se puede desmarcar
+es.cutscDesc=hay Dos cinemáticas en el juego cuyo contexto cambió enormemente en la colección HD debido a descuidos. Esta opción corrige los subtítulos para adaptarse a esto. De forma predeterminada, esto se soluciona cuando se juega solo en inglés. Esta opción habilita esta solución para todos los idiomas. No se recomienda habilitar esta solución si está utilizando paquetes de traducción, ya que se sobrescribirán los archivos
+es.musicDesc=Esta opción reinstala los archivos de música de la Edición mejorada incluidos en el paquete de mejora de audio. Si está ejecutando el juego desde un disco duro o una tarjeta SD, se recomienda habilitar esta opción, ya que el juego tendrá problemas de rendimiento
+es.descMessage=Mueva el ratón sobre un componente para ver su descripción.
 // Italian
 it.mainTitle=Italian Main title
 it.cutscTitle=Italian Cutscene title
