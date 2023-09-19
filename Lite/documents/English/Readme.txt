@@ -1,6 +1,6 @@
 ﻿=================================================================
 
-Silent Hill 2 HD Collection Voice Pack Version 5.0.5 Lite Edition
+Silent Hill 2 HD Collection Voice Pack Version 5.0.6 Lite Edition
 =================================================================
 
 The Audio Enhancement Pack and FMV Enhancement Pack are NOT Required for this mod to function as they are already used as a base. This is the Lite Edition of the mod, which features compressed audio and CG cutscenes to bring the file size down for those with slow internet. The installer assets are also compressed in order to reduce the file size further. 
@@ -25,7 +25,7 @@ Installation
 Installation Components
 ==================================================
 
-Main: This component includes the Enhanced Edition FMV,s, Sound Effects and the required Dialogue files. This is required for the mod to work and cannot be unchecked
+Main Files: This component includes the Enhanced Edition FMV,s, Sound Effects and the required Dialogue files. This is required for the mod to work and cannot be unchecked
 
 Cutscene Subtitle Fixes For All Languages: There are two in-game cutscenes which had their context changed massively in the HD Collection due to oversights. This option fixes the subtitles to accommodate for this. By default this is fixed when playing the game in English only. This options enables this fix for all languages. It is not recommended to enable this fix if you're using translation packs as the files will be overwritten.
 

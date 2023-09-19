@@ -27,13 +27,11 @@ Instalação
 Componentes da Instalação
 ==================================================
 
-Main: This component includes the Enhanced Edition FMV,s, Sound Effects and the required Dialogue files. This is required for the mod to work and cannot be unchecked
+Ficheiros principais: Este componente inclui os FMVs da Enhanced Edition, os efeitos sonoros e os ficheiros de diálogo necessários. Isto é necessário para que o mod funcione e não pode ser desmarcado
 
-Cutscene Subtitle Fixes For All Languages: There are two in-game cutscenes which had their context changed massively in the HD Collection due to oversights. This option fixes the subtitles to accommodate for this. By default this is fixed when playing the game in English only. This options enables this fix for all languages. It is not recommended to enable this fix if you're using translation packs as the files will be overwritten.
+Correção das legendas das cenas em todos os idiomas: Há duas cenas no jogo cujo contexto foi alterado na Coleção HD devido a um lapso. Esta opção corrige as legendas para se adaptarem a este facto. Por defeito, isto é corrigido quando o jogo é jogado apenas em inglês. Esta opção ativa esta correção para todos os idiomas. Não é recomendável ativar esta correção se estiveres a usar pacotes de tradução, pois os ficheiros serão substituídos.
 
-Audio Enhancement Pack Music: This option reinstalls the Enhanced Edition music files included in the Audio Enhancement Pack, If you're running the game from a Harddrive or SD card it is highly recomended to enable this options as the game will run into performance issues.
-
-
+Música do Pacote de Melhoria de Áudio: Esta opção reinstala os ficheiros de música da Edição Melhorada incluídos no Pacote de Melhoria de Áudio. Se estiveres a correr o jogo a partir de um disco rígido ou cartão SD, é altamente recomendável ativar esta opção, uma vez que o jogo poderá ter problemas de desempenho.
 ==================================================
 Desinstalação\ Atualização\Desativação do Mod
 ==================================================

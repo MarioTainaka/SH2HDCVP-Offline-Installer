@@ -1,6 +1,6 @@
 =================================================================
 
-Silent Hill 2 HD Collection Voice Pack Versie 5.0.5 Lite Edition
+Silent Hill 2 HD Collection Voice Pack Versie 5.0.6 Lite Edition
 =================================================================
 
 De Audio Enhancement Pack en FMV Enhancement Pack zijn NIET nodig om deze mod te laten werken, omdat ze al als basis worden gebruikt. Dit is de Lite Editie van de mod, met gecomprimeerde audio en CG cutscenes om de bestandsgrootte te beperken voor mensen met een traag internet verbinding. De installatie bestanden zijn ook verkleind om de bestandsgrootte nog verder te beperken. 
@@ -26,11 +26,11 @@ Installatie
 Installatie-onderdelen
 ==================================================
 
-Main (Hoofd): Dit onderdeel bevat de Enhanced Edition FMV's, geluidseffecten en de vereiste dialoogbestanden. Dit is nodig om de mod te laten werken en kan niet worden uitgeschakeld.
+Hoofd Bestanden: Dit onderdeel bevat de Enhanced Edition FMV's, geluidseffecten en de vereiste dialoogbestanden. Dit is nodig om de mod te laten werken en kan niet worden uitgeschakeld.
 
-Cutscene Subtitle Fixes For All Languages (Cutscène ondertiteling fixes voor alle talen): Er zijn twee cutscènes in het spel waarvan de context door vergissingen enorm is veranderd in de HD Collection. Deze optie herstelt de ondertiteling om dit te verhelpen. Standaard wordt dit hersteld als het spel alleen in het Engels wordt gespeeld. Deze optie schakelt deze correctie in voor alle talen. Het is niet aan te raden om deze reparatie in te schakelen als je vertaalpakketten gebruikt, omdat de bestanden dan worden overschreven.
+Cutscène ondertiteling fixes voor alle talen: Er zijn twee cutscènes in het spel waarvan de context door vergissingen enorm is veranderd in de HD Collection. Deze optie herstelt de ondertiteling om dit te verhelpen. Standaard wordt dit hersteld als het spel alleen in het Engels wordt gespeeld. Deze optie schakelt deze correctie in voor alle talen. Het is niet aan te raden om deze reparatie in te schakelen als je vertaalpakketten gebruikt, omdat de bestanden dan worden overschreven.
 
-Audio Enhancement Pack Music (Muziek van audio-uitbreidingspakket): Deze optie installeert de Enhanced Edition-muziekbestanden opnieuw die zijn opgenomen in de Audio Enhancement Pack. Als je het spel vanaf een harde schijf of SD-kaart speelt, is het sterk aan te raden deze optie in te schakelen omdat het spel dan prestatieproblemen krijgt.
+Muziek van audio-uitbreidingspakket: Deze optie installeert de Enhanced Edition-muziekbestanden opnieuw die zijn opgenomen in de Audio Enhancement Pack. Als je het spel vanaf een harde schijf of SD-kaart speelt, is het sterk aan te raden deze optie in te schakelen omdat het spel dan prestatieproblemen krijgt.
 
 
 

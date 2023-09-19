@@ -24,11 +24,11 @@ Installation
 Composants d'installation
 =================================================
 
-Main (Principal) : ce composant comprend les FMV de l'édition améliorée, les effets sonores et les fichiers de dialogue requis. Ceci est nécessaire pour que le mod fonctionne et ne peut pas être décoché
+Fichiers principaux: ce composant comprend les FMV de l'édition améliorée, les effets sonores et les fichiers de dialogue requis. Ceci est nécessaire pour que le mod fonctionne et ne peut pas être décoché
 
-Cutscene Subtitle Fixes For All Languages : (Corrections des sous-titres de la cinématique pour toutes les langues) : Il existe deux cinématiques dans le jeu dont le contexte a été considérablement modifié dans la collection HD en raison d'oublis. Cette option corrige les sous-titres pour s'adapter à cela. Par défaut, cela est corrigé lorsque vous jouez au jeu en anglais uniquement. Cette option active ce correctif pour toutes les langues. Il n'est pas recommandé d'activer ce correctif si vous utilisez des packs de traduction car les fichiers seront écrasés.
+Corrections des sous-titres de la cinématique pour toutes les langues: Il existe deux cinématiques dans le jeu dont le contexte a été considérablement modifié dans la collection HD en raison d'oublis. Cette option corrige les sous-titres pour s'adapter à cela. Par défaut, cela est corrigé lorsque vous jouez au jeu en anglais uniquement. Cette option active ce correctif pour toutes les langues. Il n'est pas recommandé d'activer ce correctif si vous utilisez des packs de traduction car les fichiers seront écrasés.
 
-Audio Enhancement Pack Music (Pack d'amélioration audio Musique) : Cette option réinstalle les fichiers musicaux Enhanced Edition inclus dans le pack d'amélioration audio. Si vous exécutez le jeu à partir d'un disque dur ou d'une carte SD, il est fortement recommandé d'activer ces options car le jeu rencontrera des problèmes de performances.
+Pack d'amélioration audio Musique: Cette option réinstalle les fichiers musicaux Enhanced Edition inclus dans le pack d'amélioration audio. Si vous exécutez le jeu à partir d'un disque dur ou d'une carte SD, il est fortement recommandé d'activer ces options car le jeu rencontrera des problèmes de performances.
 
 ====================================================
 Désinstallation \ Mise à jour \ Désactivation du mod
