@@ -216,19 +216,19 @@ Name: "pt"; MessagesFile: "compiler:Languages\Portuguese.isl"; InfoBeforeFile:"C
 VersionWarning=Ensure version 2.1.2070.0 of Silent Hill 2: Enhanced Edition released on April 5th 2023 or higher is installed prior to running this installer to avoid any issues
 es.VersionWarning=Asegúrese de que la versión 2.1.2070.0 de Silent Hill 2: Enhanced Edition lanzada el 5 de abril de 2023 o posterior esté instalada antes de ejecutar este instalador para evitar problemas
 it.VersionWarning=Assicurati che la versione 2.1.2070.0 di Silent Hill 2: Enhanced Edition rilasciata il 5 aprile 2023 o successiva sia installata prima di eseguire questo programma di installazione per evitare problemi
-fr.VersionWarning=Assurez-vous que la version 2.1.2070.0 de Silent Hill 2 : Enhanced Edition publiÃ©e le 5 avril 2023 ou une version ultÃ©rieure est installÃ©e avant d'exÃ©cuter ce programme d'installation pour Ã©viter tout problÃ¨me
-nl.VersionWarning=Zorg ervoor dat versie 2.1.2070.0 of hoger van Silent Hill 2: Enhanced Edition, uitgebracht op 5 april 2023, is geÃ¯nstalleerd voordat je dit installatieprogramma uitvoert om problemen te voorkomen.
-pt.VersionWarning=Para evitar problemas, certifique-se de que a versÃ£o 2.1.2070.0 de Silent Hill 2: Enhanced Edition, lanÃ§ada em 5 de abril de 2023 ou superior, esteja instalada antes de executar este instalador 
+fr.VersionWarning=Assurez-vous que la version 2.1.2070.0 de Silent Hill 2 : Enhanced Edition publiée le 5 avril 2023 ou une version ultérieure est installée avant d'exécuter ce programme d'installation pour éviter tout problème
+nl.VersionWarning=Zorg ervoor dat versie 2.1.2070.0 of hoger van Silent Hill 2: Enhanced Edition, uitgebracht op 5 april 2023, is geïnstalleerd voordat je dit installatieprogramma uitvoert om problemen te voorkomen.
+pt.VersionWarning=Para evitar problemas, certifique-se de que a versão 2.1.2070.0 de Silent Hill 2: Enhanced Edition, lançada em 5 de abril de 2023 ou superior, esteja instalada antes de executar este instalador 
 
 // Localized component names and descriptions
 
 // English
 mainTitle=Main Files
 cutscTitle=Cutscene Subtitle Fixes For All Langauges
-musicTitle=Audio Enhacement Pack Music
+musicTitle=Audio Enhancement Pack Music
 mainDesc=Installs important files required for this mod to function
-cutscDesc=Fixes subtitles for certain in-game cutscenes for all langauges (Not recomended when using translation packs)
-musicDesc=Reinstalls Enhanced Edition Music files to the langauge folder (Highly recommended if the game is installed on a HDD or SD Card)
+cutscDesc=Fixes subtitles for certain in-game cutscenes for all languages (Not recommended when using translation packs)
+musicDesc=Reinstalls Enhanced Edition Music files to the language folder (Highly recommended if the game is installed on a HDD or SD Card)
 descMessage=Move your mouse over a component to see its description.
 
 // Spanish
@@ -250,13 +250,13 @@ it.musicDesc=Reinstalla i file musicali della Enhanced Edition nella cartella de
 it.descMessage=Passare il mouse su un componente per visualizzarne la descrizione.
 
 // French
-fr.mainTitle=French Main title
-fr.cutscTitle=French Cutscene title
-fr.musicTitle=French Music title
-fr.mainDesc=French Main description
-fr.cutscDesc=French Cutscene description
-fr.musicDesc=French Music description
-fr.descMessage=French mouseover message
+fr.mainTitle=Fichiers principaux
+fr.cutscTitle=Correction des sous-titres des scènes de coupes pour toutes les langues
+fr.musicTitle=Pack d'amélioration audio Musique
+fr.mainDesc=Installe les fichiers importants nécessaires au fonctionnement de ce mod
+fr.cutscDesc=Correction des sous-titres de certaines scènes du jeu pour toutes les langues (non recommandé lors de l'utilisation de packs de traduction).
+fr.musicDesc=Réinstalle les fichiers musicaux de l'édition améliorée dans le dossier des langues (fortement recommandé si le jeu est installé sur un disque dur ou une carte SD)
+fr.descMessage=Déplacez votre souris sur un composant pour voir sa description.
 
 // Dutch
 nl.mainTitle=Hoofd Bestanden
@@ -272,9 +272,9 @@ pt.mainTitle=Ficheiros principais
 pt.cutscTitle=Correções de legendas de cenas para todos os idiomas
 pt.musicTitle=Música do pacote de melhoramento de áudio
 pt.mainDesc=Instala ficheiros importantes necessários para o funcionamento deste mod
-pt.cutscDesc=Portuguese Cutscene description
-pt.musicDesc=Portuguese Music description
-pt.descMessage=Portuguese mouseover message
+pt.cutscDesc=Corrige as legendas de certas cenas do jogo para todas as línguas (não recomendado quando se utilizam pacotes de tradução)
+pt.musicDesc=Reinstala os ficheiros de música da Enhanced Edition na pasta de idiomas (altamente recomendado se o jogo estiver instalado num disco rígido ou cartão SD)
+pt.descMessage=Mova o rato sobre um componente para ver a respectiva descrição.
 
 //After installation you can run Silent Hill 2 Enhanced Edition OR  run the Config Tool
 [Run]
