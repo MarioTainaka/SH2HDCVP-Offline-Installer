@@ -221,6 +221,7 @@ nl.VersionWarning=Zorg ervoor dat versie 2.1.2070.0 of hoger van Silent Hill 2: 
 pt.VersionWarning=Para evitar problemas, certifique-se de que a versÃ£o 2.1.2070.0 de Silent Hill 2: Enhanced Edition, lanÃ§ada em 5 de abril de 2023 ou superior, esteja instalada antes de executar este instalador 
 
 // Localized component names and descriptions
+
 // English
 mainTitle=Main Files
 cutscTitle=Cutscene Subtitle Fixes For All Langauges
@@ -228,23 +229,26 @@ musicTitle=Audio Enhacement Pack Music
 mainDesc=Installs important files required for this mod to function
 cutscDesc=Fixes subtitles for certain in-game cutscenes for all langauges (Not recomended when using translation packs)
 musicDesc=Reinstalls Enhanced Edition Music files to the langauge folder (Highly recommended if the game is installed on a HDD or SD Card)
-descMessage=Mueva el ratón sobre un componente para ver su descripción.
+descMessage=Move your mouse over a component to see its description.
+
 // Spanish
 es.mainTitle=Archivos principales
 es.cutscTitle=Correcciones de subtítulos de cinemáticas para todos los idiomas
 es.musicTitle=Paquete de mejora de audio Música
-es.mainDesc=Este componente incluye los FMV de edición mejorada, los efectos de sonido y los archivos de diálogo necesarios. Esto es necesario para que el mod funcione y no se puede desmarcar
-es.cutscDesc=hay Dos cinemáticas en el juego cuyo contexto cambió enormemente en la colección HD debido a descuidos. Esta opción corrige los subtítulos para adaptarse a esto. De forma predeterminada, esto se soluciona cuando se juega solo en inglés. Esta opción habilita esta solución para todos los idiomas. No se recomienda habilitar esta solución si está utilizando paquetes de traducción, ya que se sobrescribirán los archivos
-es.musicDesc=Esta opción reinstala los archivos de música de la Edición mejorada incluidos en el paquete de mejora de audio. Si está ejecutando el juego desde un disco duro o una tarjeta SD, se recomienda habilitar esta opción, ya que el juego tendrá problemas de rendimiento
+es.mainDesc=Instala archivos importantes necesarios para que este mod funcione
+es.cutscDesc=Se corrigen los subtítulos de algunas escenas del juego en todos los idiomas (no se recomienda si se utilizan paquetes de traducción).
+es.musicDesc=Reinstala los archivos de música de la Enhanced Edition en la carpeta de idiomas (muy recomendable si el juego está instalado en un disco duro o en una tarjeta SD).
 es.descMessage=Mueva el ratón sobre un componente para ver su descripción.
+
 // Italian
-it.mainTitle=Italian Main title
-it.cutscTitle=Italian Cutscene title
-it.musicTitle=Italian Music title
-it.mainDesc=Italian Main description
-it.cutscDesc=Italian Cutscene description
-it.musicDesc=Italian Music description
-it.descMessage=Italian mouseover message
+it.mainTitle=Archivos principales
+it.cutscTitle=Correzioni dei sottotitoli dei filmati per tutte le lingue
+it.musicTitle=Pacchetto di miglioramento audio Musica
+it.mainDesc=Installa i file importanti necessari al funzionamento di questa mod
+it.cutscDesc=Corregge i sottotitoli per alcune scene di gioco in tutte le lingue (sconsigliato l'uso dei pacchetti di traduzione
+it.musicDesc=Reinstalla i file musicali della Enhanced Edition nella cartella della lingua (altamente raccomandato se il gioco è installato su un HDD o una scheda SD).
+it.descMessage=Passare il mouse su un componente per visualizzarne la descrizione.
+
 // French
 fr.mainTitle=French Main title
 fr.cutscTitle=French Cutscene title
@@ -253,19 +257,21 @@ fr.mainDesc=French Main description
 fr.cutscDesc=French Cutscene description
 fr.musicDesc=French Music description
 fr.descMessage=French mouseover message
+
 // Dutch
-nl.mainTitle=Dutch Main title
-nl.cutscTitle=Dutch Cutscene title
-nl.musicTitle=Dutch Music title
-nl.mainDesc=Dutch Main description
-nl.cutscDesc=Dutch Cutscene description
-nl.musicDesc=Dutch Music description
-nl.descMessage=Dutch mouseover message
+nl.mainTitle=Hoofd Bestanden
+nl.cutscTitle=Cutscène ondertiteling fixes voor alle talen
+nl.musicTitle=Muziek van audio-uitbreidingspakket
+nl.mainDesc=Installeert belangrijke bestanden die nodig zijn om deze mod te laten werken
+nl.cutscDesc=Verbetert ondertiteling voor bepaalde cutscènes in het spel voor alle talen (niet aanbevolen bij gebruik van vertaalpakketten)
+nl.musicDesc=Herinstalleert de Enhanced Edition muziekbestanden naar de langetermap (ten zeerste aanbevolen als het spel is geïnstalleerd op een HDD of SD-kaart)
+nl.descMessage=Beweeg je muis over een onderdeel om de beschrijving te zien.
+
 // Portuguese
-pt.mainTitle=Portuguese Main title
-pt.cutscTitle=Portuguese Cutscene title
-pt.musicTitle=Portuguese Music title
-pt.mainDesc=Portuguese Main description
+pt.mainTitle=Ficheiros principais
+pt.cutscTitle=Correções de legendas de cenas para todos os idiomas
+pt.musicTitle=Música do pacote de melhoramento de áudio
+pt.mainDesc=Instala ficheiros importantes necessários para o funcionamento deste mod
 pt.cutscDesc=Portuguese Cutscene description
 pt.musicDesc=Portuguese Music description
 pt.descMessage=Portuguese mouseover message
