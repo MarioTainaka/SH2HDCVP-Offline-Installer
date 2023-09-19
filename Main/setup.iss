@@ -34,7 +34,7 @@ SlicesPerDisk=3
 DiskSliceSize=1566000000
 WizardStyle=modern
 SetupIconFile=resources\sh2.ico
-Compression=lzma2/ultra
+Compression=zip
 OutputDir=C:\Users\Romario\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Output\Main 
 
 
