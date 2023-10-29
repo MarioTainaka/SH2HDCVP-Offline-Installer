@@ -1,6 +1,6 @@
 
 ===============================================================
-Versão 5.0.5/ Versão 5.0.5 Lite Edition Registo de alterações:
+Versão 5.0.6/ Versão 5.0.6 Lite Edition Registo de alterações:
 ==============================================================
 
 - Adicionado código para limpar ficheiros antigos de versões anteriores.

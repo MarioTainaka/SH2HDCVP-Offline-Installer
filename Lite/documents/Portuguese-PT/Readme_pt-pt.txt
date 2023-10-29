@@ -1,6 +1,6 @@
 ﻿==================================================================
 
-Silent Hill 2 HD Collection Voice Pack Version 5.0.5 Lite Edition
+Silent Hill 2 HD Collection Voice Pack Version 5.0.6 Lite Edition
 ==================================================================
 
 O "Audio Enhancement Pack" e o "FMV Enhancement Pack" NÃO são necessários para que este mod funcione, pois estes já são utilizados como base.Esta é a Lite Edition do mod, que inclui áudio comprimido e cenas em CG para reduzir o tamanho do ficheiro para quem tem uma Internet lenta. Os recursos do instalador também foram compactados para reduzir ainda mais o tamanho do arquivo. 

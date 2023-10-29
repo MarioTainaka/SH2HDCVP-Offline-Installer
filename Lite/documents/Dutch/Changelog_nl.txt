@@ -1,6 +1,6 @@
 
 =============================================================
-Versie 5.0.5/ Versie 5.0.5 Lite Edition Veranderingen:
+Versie 5.0.6/ Versie 5.0.6 Lite Edition Veranderingen:
 =============================================================
 
 - Code toegevoegd om oude bestanden van oudere versies op te schonen.

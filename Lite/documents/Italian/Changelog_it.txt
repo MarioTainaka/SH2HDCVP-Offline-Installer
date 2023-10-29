@@ -1,6 +1,6 @@
 ﻿
 ===========================================================================
-Registro delle modifiche della versione 5.0.5/versione 5.0.5 edizione Lite:
+Registro delle modifiche della versione 5.0.6/versione 5.0.6 edizione Lite:
 ============================================================================
 
 - Aggiunto codice per ripulire i vecchi file dalle versioni precedenti.

@@ -1,6 +1,6 @@
 =================================================================
 
-Silent Hill 2 HD Collection Voice Pack Versie 5.0.5
+Silent Hill 2 HD Collection Voice Pack Versie 5.0.6
 =================================================================
 
 De Audio Enhancement Pack en FMV Enhancement Pack zijn NIET nodig om deze mod te laten werken, omdat ze al als basis worden gebruikt. 

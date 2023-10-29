@@ -18,7 +18,7 @@ Dit project gebruikt de volgende open source tools en bibliotheken (C) 2023
 
 
 ==============================================================
-SH2MSGConvert versie 1.6 van loadwordteam
+SH2MSGConvert versie 1.6 Door loadwordteam
 
 		https://github.com/loadwordteam/SH2MSGConvert
 

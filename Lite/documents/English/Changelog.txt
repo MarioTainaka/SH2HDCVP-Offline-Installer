@@ -1,6 +1,6 @@
 
 =============================================================
-Version 5.0.5/ Version 5.0.5 Lite Edition Changelog:
+Version 5.0.6/ Version 5.0.6 Lite Edition Changelog:
 =============================================================
 
 - Added code to cleanup old files from older versions.

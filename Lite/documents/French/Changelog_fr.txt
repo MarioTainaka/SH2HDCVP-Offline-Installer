@@ -1,6 +1,6 @@
 
 ================================================== ==========
-Version 5.0.5/5.0.5 (édition légère), liste des modifications:
+Version 5.0.6/5.0.6 (édition légère), liste des modifications:
 ================================================== ===========
 
 - Ajout de code pour nettoyer les anciens fichiers des anciennes versions.
