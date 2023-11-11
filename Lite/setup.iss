@@ -164,6 +164,14 @@ Type: files; Name: "{app}\HD Collection Voice Pack Support\Spanish\Changelog_sp.
 Type: files; Name: "{app}\HD Collection Voice Pack Support\Spanish\License_sp.txt"
 Type: files; Name: "{app}\HD Collection Voice Pack Support\Spanish\Readme_sp.txt"
 Type: files; Name: "{app}\HD Collection Voice Pack Support\Spanish\Silent Hill 2 HD Collection Dub Staff Credits_sp.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Dutch\Changelog_nl.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Dutch\License_nl.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Dutch\Readme_nl.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Dutch\Silent Hill 2 HD Collection Dub Staff Credits_nl.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Portuguese-PT\Changelog_pt-pt.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Portuguese-PT\License_pt-pt.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Portuguese-PT\Readme_pt-pt.txt"
+Type: files; Name: "{app}\HD Collection Voice Pack Support\Portuguese-PT\Silent Hill 2 HD Collection Dub Staff Credits_pt-pt.txt"
 
 
 
