@@ -41,7 +41,7 @@ Installatie ongedaan maken\Upgraden\ De mod uitschakelen
 
 1: Verwijder de oude versie via programma's Toevoegen Of Verwijderen en installeer de nieuwere versie. Je kunt upgraden naar de hoofdversie als je dat wilt.
 
-2: Als je de mod wilt uitschakelen zonder deze te verwijderen hernoem dan de map "lang" naar iets anders zoals bijvoorbeeld "lang_backup". Zorg ervoor dat je de naam weer terug verandert als je de installatie ongedaan maakt.
+2: Als je de mod eenvoudigweg wilt uitschakelen zonder de installatie ongedaan te maken, schakel dan de "lang" map gebruiken uit in de configuratietool van Silent Hill 2 Enhanced Edition of gebruik de optie EnableLangPath in het Silent Hill 2 Enhanced Edition d3d8 ini-bestand.
 
 
 
