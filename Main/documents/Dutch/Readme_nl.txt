@@ -39,8 +39,7 @@ Installatie ongedaan maken\Upgraden\ De mod uitschakelen
 
 1: Verwijder de oude versie via programma's Toevoegen Of Verwijderen en installeer de nieuwere versie. Je kunt upgraden naar de hoofdversie als je dat wilt.
 
-2: Als je de mod wilt uitschakelen zonder deze te verwijderen hernoem dan de map "lang" naar iets anders zoals bijvoorbeeld "lang_backup". Zorg ervoor dat je de naam weer terug verandert als je de installatie ongedaan maakt.
-
+2: Als je de mod eenvoudigweg wilt uitschakelen zonder de installatie ongedaan te maken, schakel dan de "lang" map gebruiken uit in de configuratietool van Silent Hill 2 Enhanced Edition of gebruik de optie EnableLangPath in het Silent Hill 2 Enhanced Edition d3d8 ini-bestand.
 
 
 Deze mod is een passieproject dat de originele stemmen voor alle gebeurtenissen en stemmen in het spel vervangt door de HD 2012-stemmen die zijn opgenomen in PCB Studios in Los Angeles., bekend voor nasynchronisatie van je favoriete games zoals Persona. Het bevat ook opnieuw gemaakte FMV's met de HD-stemmen met het FMV Enhancement Pack als basis. De Enhanced Audio wordt ook als basis gebruikt. De HD-stemmen zijn opnieuw gemixt naar echt 2-kanaals stereo in plaats van 5:1 en alle mixfouten zijn hersteld.
