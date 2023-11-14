@@ -36,7 +36,7 @@ Désinstallation \ Mise à jour \ Désactivation du mod
 
 1 : Supprimez l'ancienne version à l'aide de la fonction Ajout ou suppression de programmes et installez la version la plus récente. Vous pouvez mettre à niveau entre la version Normale\Légère si vous le souhaitez.
 
-2: Si vous souhaitez désactiver le mod sans le désinstaller, renommez simplement le dossier "lang" en quelque chose d'autre comme "lang_backup" par exemple. Assurez-vous de lui redonner son nom lors de la désinstallation.
+2 : Si vous souhaitez simplement désactiver le mod sans le désinstaller, désactivez l'option Utiliser le dossier "lang" dans l'outil de configuration de Silent Hill 2 Enhanced Edition ou utilisez l'option EnableLangPath dans le fichier ini d3d8 de Silent Hill 2 Enhanced Edition.
 
 
 
