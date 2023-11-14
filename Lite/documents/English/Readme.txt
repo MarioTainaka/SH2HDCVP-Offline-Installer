@@ -38,7 +38,7 @@ Un-Installation\ Upgrading\Turning The Mod Off
 
 1:	Remove the old version by using Add Or Remove Programs and install the newer version. You can upgrade between the Main\Lite version if you want to.
 
-2: If you simply want to disable the mod without uninstalling disable the Use "lang" folder option in the config tool/EnableLangPath in the ini file.
+2: If you simply want to disable the mod without uninstalling disable the Use "lang" folder option in the Silent Hill 2 Enhanced Edition config tool or use the EnableLangPath option in the Silent Hill 2 Enhanced Edition d3d8 ini file.
 
 
 This mod is a passion project which replaces the Original Voice Acting For All Events and in game voices in the game with the HD 2012 voices recorded at PCB Studios in L.A famous for dubbing your favorite games like Persona. It also includes redone FMV's with the HD voices using the FMV Enhancement Pack As A Base. The Enhanced Audio is also used as a base. The HD voices have been remixed to true 2 channel stereo Instead of 5:1 and all mixing errors have been fixed.
