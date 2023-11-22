@@ -16,6 +16,10 @@ Gamebanna:https://gamebanana.com/sounds/49749
 
 NexusMods:TBD
 
+# Silent Hill 2 Enhanced Edition Website
+
+https://enhanced.townofsilenthill.com/SH2/
+
 
 
 
