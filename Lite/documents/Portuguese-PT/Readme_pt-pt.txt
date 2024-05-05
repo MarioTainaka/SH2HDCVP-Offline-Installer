@@ -38,7 +38,7 @@ Desinstalação\ Atualização\Desativação do Mod
 
 1:	Remove a versão antiga a partir da opção "Adicionar ou remover programas" do Windows, e instala a versão mais recente. Caso queiras, podes atualizar a versão Main para Lite, e vice versa.
 
-2: Se você deseja apenas desabilitar o mod sem desinstalá-lo, desative a opção Usar pasta "lang" na ferramenta de configuração do Silent Hill 2 Enhanced Edition ou use a opção EnableLangPath no arquivo ini Silent Hill 2 d3d8 Enhanced Edition.
+2:      Se pretendes desativar o mod sem o desinstalar, podes mudar o nome da pasta "lang" para qualquer outra coisa (ex. "lang_backup). Quando desinstalares o mod, não te esqueças de voltar a mudar o nome da pasta para o original!
 
 
 

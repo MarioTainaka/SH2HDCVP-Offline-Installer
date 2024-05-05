@@ -13,5 +13,7 @@ Registro de cambios de la versión 5.0.6/Versión 5.0.6 Lite Edition:
 
 - Se ha añadido al proyecto la localización en neerlandés.
 
+- Se ha añadido la compatibilidad con escenas a 60 FPS de la Enhanced Edition.
+
 
 

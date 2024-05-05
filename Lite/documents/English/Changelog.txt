@@ -13,6 +13,8 @@ Version 5.0.6/ Version 5.0.6 Lite Edition Changelog:
 
 - Added Dutch localization to the project.
 
+- Added 60FPS cutscene support from the Enhanced Edition.
+
 
 
 

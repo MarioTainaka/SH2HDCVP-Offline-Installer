@@ -13,5 +13,7 @@ Registro delle modifiche della versione 5.0.6/versione 5.0.6 edizione Lite:
 
 - Aggiunta la localizzazione in olandese al progetto.
 
+- Aggiunto il supporto per 60 filmati FPS dell'edizione avanzata.
+
 
 

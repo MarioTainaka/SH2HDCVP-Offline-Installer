@@ -13,3 +13,5 @@ Version 5.0.6/5.0.6 (édition légère), liste des modifications:
 
 - Ajout de la localisation néerlandaise au projet.
 
+- Ajout de la prise en charge des cinématiques à 60 FPS de l'édition améliorée.
+

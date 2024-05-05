@@ -38,7 +38,7 @@ Disinstallazione\Aggiornamento\Disattivare la mod
 
 1:	Rimuovi la vecchia versione utilizzando Installazione Applicazioni e installa la versione nuova. Puoi passare dalle versioni Reloaded II e Main/Lite in caso di necessità.
 
-2: Se vuoi semplicemente disabilitare la mod senza disinstallarla, disabilita l'opzione Usa cartella "lang" nello strumento di configurazione di Silent Hill 2 Enhanced Edition o usa l'opzione EnableLangPath nel file ini d3d8 di Silent Hill 2 Enhanced Edition.
+2:      Se vuoi disabilitare la mod senza disinstallarla basta rinominare la cartella "lang" in qualche altro modo, ad esempio "lang_backup". Ricordati di ricambiare il nome quando disinstalli la mod.
 
 Questa mod rimpiazza il doppiaggio originale per tutti gli eventi/cutscene e le voci in game con quelle registrate per la versione HD del 2020 registrate agli Studios PCB in L.A., famosi per aver doppiato alcuni fan favorites come Persona. Include anche gli FMV rimasterizzati con le voci del remaster HD utlizzando il pack FMV Enhancement come base. L'Enhanced Audio Pack (audio migliorato) è usato come base. Le voci del remaster HD sono state remixate per canali stereo 2.0 invece di 5.1, e tutti gli errori di mixing sono stati risolti.
 

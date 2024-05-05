@@ -41,7 +41,8 @@ Un-Installation\ Upgrading\Turning The Mod Off
 
 1:	Remove the old version by using Add Or Remove Programs and install the newer version. You can upgrade between the Main\Lite version if you want to.
 
-2: If you simply want to disable the mod without uninstalling disable the Use "lang" folder option in the Silent Hill 2 Enhanced Edition config tool or use the EnableLangPath option in the Silent Hill 2 Enhanced Edition d3d8 ini file.
+2:      If you want to disable the mod without uninstalling it just rename the "lang" folder to something else like "lang_backup" for example. Be sure to change the name back when un-installing.
+
 
 
 

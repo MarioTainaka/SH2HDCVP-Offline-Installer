@@ -7,11 +7,13 @@ Versie 5.0.6/ Versie 5.0.6 Lite Edition Veranderingen:
 
 - Beschrijvingen aangepast.
 
-- Ondersteuning toegevoegd voor VHS Alternate Audio. Houd er rekening mee dat tijdens de laatste scène de stemmen zullen terugkeren naar Monica Taylor Horgan omdat PCB nooit audio heeft opgenomen voor de ongecensureerde versie.
+- Ondersteuning toegevoegd voor VHS Alternatieve audio. Houd er rekening mee dat tijdens de laatste scène de stemmen zullen terugkeren naar Monica Taylor Horgan omdat PCB nooit audio heeft opgenomen voor de ongecensureerde versie.
 
 - Portugese (Portugal) lokalisatie toegevoegd aan het project.
 
 - Nederlandse lokalisatie toegevoegd aan het project.
+
+- Ondersteuning voor tussenfilmpjes van 60 FPS toegevoegd uit de Enhanced Edition.
 
 
 

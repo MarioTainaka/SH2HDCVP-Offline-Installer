@@ -1,9 +1,9 @@
 ﻿
- Copyright (C) 2023 Mario Tainaka\ SlaveOfSuzumiya
+ Copyright (C) 2024 Mario Tainaka\ SlaveOfSuzumiya
 
-This project uses files from the Silent Hill 2 Enhanced Edition\ Enhanced Edition Team (C) 2023
+This project uses files from the Silent Hill 2 Enhanced Edition\ Enhanced Edition Team (C) 2024
 
-This project uses the following open source tools and libraries (C) 2023
+This project uses the following open source tools and libraries (C) 2024
 
       ==============================================================
        AFS Packer - Version 2.1.1 By MaikelChan aka PacoChan                 

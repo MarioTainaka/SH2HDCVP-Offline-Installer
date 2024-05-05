@@ -13,6 +13,8 @@ Versão 5.0.6/ Versão 5.0.6 Lite Edition Registo de alterações:
 
 - Adicionada a localização em holandês ao projeto.
 
+- Adicionado suporte para cenas a 60FPS da Enhanced Edition.
+
 
 
 
