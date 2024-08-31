@@ -185,12 +185,12 @@ Name: "pt"; MessagesFile: "compiler:Languages\Portuguese.isl"; InfoBeforeFile:"C
 
 [CustomMessages]
 // Version warning
-VersionWarning=Ensure version 2.1.2070.0 of Silent Hill 2: Enhanced Edition released on April 5th 2023 or higher is installed prior to running this installer to avoid any issues
-es.VersionWarning=Asegúrese de que la versión 2.1.2070.0 de Silent Hill 2: Enhanced Edition lanzada el 5 de abril de 2023 o posterior esté instalada antes de ejecutar este instalador para evitar problemas
-it.VersionWarning=Assicurati che la versione 2.1.2070.0 di Silent Hill 2: Enhanced Edition rilasciata il 5 aprile 2023 o successiva sia installata prima di eseguire questo programma di installazione per evitare problemi
-fr.VersionWarning=Assurez-vous que la version 2.1.2070.0 de Silent Hill 2 : Enhanced Edition publiée le 5 avril 2023 ou une version ultérieure est installée avant d'exécuter ce programme d'installation pour éviter tout problème
-nl.VersionWarning=Zorg ervoor dat versie 2.1.2070.0 of hoger van Silent Hill 2: Enhanced Edition, uitgebracht op 5 april 2023, is geïnstalleerd voordat je dit installatieprogramma uitvoert om problemen te voorkomen.
-pt.VersionWarning=Para evitar problemas, certifique-se de que a versão 2.1.2070.0 de Silent Hill 2: Enhanced Edition, lançada em 5 de abril de 2023 ou superior, esteja instalada antes de executar este instalador 
+VersionWarning=Ensure the final version of the Silent Hill 2: Enhanced Edition released on August 30th 2024 is installed prior to running this installer to avoid any issues
+es.VersionWarning=Asegúrese de que la versión final de Silent Hill 2: Enhanced Edition lanzada el 30 de agosto de 2024 esté instalada antes de ejecutar este instalador para evitar problemas
+it.VersionWarning=Assicurati che la versione finale di Silent Hill 2: Enhanced Edition rilasciata il 30 agosto 2024 sia installata prima di eseguire questo programma di installazione per evitare eventuali problemi
+fr.VersionWarning=Assurez-vous que la version finale de Silent Hill 2 : Enhanced Edition publiée le 30 août 2024 est installée avant d'exécuter ce programme d'installation pour éviter tout problème
+nl.VersionWarning=Zorg ervoor dat de definitieve versie van Silent Hill 2: Enhanced Edition, uitgebracht op 30 augustus 2024, is geïnstalleerd voordat u dit installatieprogramma uitvoert om problemen te voorkomen
+pt.VersionWarning=Certifica-te de que a versão final do Silent Hill 2: Enhanced Edition, lançada a 30 de agosto de 2024, está instalada antes de executares este instalador para evitares quaisquer problemas
 
 // Localized component names and descriptions
 
