@@ -35,7 +35,7 @@ DiskSliceSize=1566000000
 WizardStyle=modern
 SetupIconFile=resources\sh2.ico
 Compression=zip
-OutputDir=C:\Users\User\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Output\Main 
+OutputDir=C:\Users\smode\Documents\Silent Hill HD Voice Pack Project Files\SH 2 NEW MIX\Installer Final\Output\Main 
 
 
 // Previous versions of the project will be deleted before starting installation of the new version
