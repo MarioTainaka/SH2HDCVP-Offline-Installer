@@ -35,7 +35,7 @@ DiskSliceSize=1566000000
 WizardStyle=modern
 SetupIconFile=resources\sh2.ico
 Compression=lzma2/ultra
-OutputDir=C:\Users\User\Documents\Silent Hill 2 HD Voice Pack Project\Installer Final\Main\Output
+OutputDir=C:\Users\User\Documents\Silent Hill 2 HD Voice Pack Project\Installer Final\Lite\Output
 
 
 
