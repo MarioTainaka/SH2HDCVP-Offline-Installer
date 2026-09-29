@@ -236,18 +236,18 @@ pt.VersionWarning=Certifica-te de que a versão final do Silent Hill 2: Enhanced 
 mainTitle=Main Files
 cutscTitle=Cutscene Subtitle Fixes For All Langauges
 musicTitle=Audio Enhancement Pack Music
-mainDesc=Installs important files required for this mod to function
-cutscDesc=Fixes subtitles for certain in-game cutscenes for all languages (Not recommended when using translation packs)
-musicDesc=Reinstalls Enhanced Edition Music files to the language folder (Highly recommended if the game is installed on a HDD or SD Card)
+mainDesc=Installs important files required for this mod to function.
+cutscDesc=Fixes subtitles for certain in-game cutscenes for all languages%n(Not recommended when using translation packs)
+musicDesc=Reinstalls Enhanced Edition Music files to the language folder%n(Highly recommended if the game is installed on a HDD or SD Card)
 descMessage=Move your mouse over a component to see its description.
 
 // Spanish
 es.mainTitle=Archivos principales
 es.cutscTitle=Correcciones de subtítulos de cinemáticas para todos los idiomas
 es.musicTitle=Paquete de mejora de audio Música
-es.mainDesc=Instala archivos importantes necesarios para que este mod funcione
-es.cutscDesc=Se corrigen los subtítulos de algunas escenas del juego en todos los idiomas (no se recomienda si se utilizan paquetes de traducción).
-es.musicDesc=Reinstala los archivos de música de la Enhanced Edition en la carpeta de idiomas (muy recomendable si el juego está instalado en un disco duro o en una tarjeta SD).
+es.mainDesc=Instala archivos importantes necesarios para que este mod funcione.
+es.cutscDesc=Se corrigen los subtítulos de algunas escenas del juego en todos los idiomas%n(no se recomienda si se utilizan paquetes de traducción)
+es.musicDesc=Reinstala los archivos de música de la Enhanced Edition en la carpeta de idiomas%n(muy recomendable si el juego está instalado en un disco duro o en una tarjeta SD)
 es.descMessage=Mueva el ratón sobre un componente para ver su descripción.
 
 // Italian
@@ -255,35 +255,35 @@ it.mainTitle=Archivos principales
 it.cutscTitle=Correzioni dei sottotitoli dei filmati per tutte le lingue
 it.musicTitle=Pacchetto di miglioramento audio Musica
 it.mainDesc=Installa i file importanti necessari al funzionamento di questa mod
-it.cutscDesc=Corregge i sottotitoli per alcune scene di gioco in tutte le lingue (sconsigliato l'uso dei pacchetti di traduzione
-it.musicDesc=Reinstalla i file musicali della Enhanced Edition nella cartella della lingua (altamente raccomandato se il gioco è installato su un HDD o una scheda SD).
+it.cutscDesc=Corregge i sottotitoli per alcune scene di gioco in tutte le lingue%n(sconsigliato l'uso dei pacchetti di traduzione
+it.musicDesc=Reinstalla i file musicali della Enhanced Edition nella cartella della lingua%n(altamente raccomandato se il gioco è installato su un HDD o una scheda SD).
 it.descMessage=Passare il mouse su un componente per visualizzarne la descrizione.
 
 // French
 fr.mainTitle=Fichiers principaux
 fr.cutscTitle=Correction des sous-titres des scènes de coupes pour toutes les langues
 fr.musicTitle=Pack d'amélioration audio Musique
-fr.mainDesc=Installe les fichiers importants nécessaires au fonctionnement de ce mod
-fr.cutscDesc=Correction des sous-titres de certaines scènes du jeu pour toutes les langues (non recommandé lors de l'utilisation de packs de traduction).
-fr.musicDesc=Réinstalle les fichiers musicaux de l'édition améliorée dans le dossier des langues (fortement recommandé si le jeu est installé sur un disque dur ou une carte SD)
+fr.mainDesc=Installe les fichiers importants nécessaires au fonctionnement de ce mod.
+fr.cutscDesc=Correction des sous-titres de certaines scènes du jeu pour toutes les langues%n(non recommandé lors de l'utilisation de packs de traduction).
+fr.musicDesc=Réinstalle les fichiers musicaux de l'édition améliorée dans le dossier des langues%n(fortement recommandé si le jeu est installé sur un disque dur ou une carte SD)
 fr.descMessage=Déplacez votre souris sur un composant pour voir sa description.
 
 // Dutch
 nl.mainTitle=Hoofd Bestanden
 nl.cutscTitle=Cutscène ondertiteling fixes voor alle talen
 nl.musicTitle=Muziek van audio-uitbreidingspakket
-nl.mainDesc=Installeert belangrijke bestanden die nodig zijn om deze mod te laten werken
-nl.cutscDesc=Verbetert ondertiteling voor bepaalde cutscènes in het spel voor alle talen (niet aanbevolen bij gebruik van vertaalpakketten)
-nl.musicDesc=Herinstalleert de Enhanced Edition muziekbestanden naar de langetermap (ten zeerste aanbevolen als het spel is geïnstalleerd op een HDD of SD-kaart)
+nl.mainDesc=Installeert belangrijke bestanden die nodig zijn om deze mod te laten werken.
+nl.cutscDesc=Verbetert ondertiteling voor bepaalde cutscènes in het spel voor alle talen%n(niet aanbevolen bij gebruik van vertaalpakketten)
+nl.musicDesc=Herinstalleert de Enhanced Edition muziekbestanden naar de langetermap%n(ten zeerste aanbevolen als het spel is geïnstalleerd op een HDD of SD-kaart)
 nl.descMessage=Beweeg je muis over een onderdeel om de beschrijving te zien.
 
 // Portuguese
 pt.mainTitle=Ficheiros principais
 pt.cutscTitle=Correções de legendas de cenas para todos os idiomas
 pt.musicTitle=Música do pacote de melhoramento de áudio
-pt.mainDesc=Instala ficheiros importantes necessários para o funcionamento deste mod
-pt.cutscDesc=Corrige as legendas de certas cenas do jogo para todas as línguas (não recomendado quando se utilizam pacotes de tradução)
-pt.musicDesc=Reinstala os ficheiros de música da Enhanced Edition na pasta de idiomas (altamente recomendado se o jogo estiver instalado num disco rígido ou cartão SD)
+pt.mainDesc=Instala ficheiros importantes necessários para o funcionamento deste mod.
+pt.cutscDesc=Corrige as legendas de certas cenas do jogo para todas as línguas%n(não recomendado quando se utilizam pacotes de tradução)
+pt.musicDesc=Reinstala os ficheiros de música da Enhanced Edition na pasta de idiomas%n(altamente recomendado se o jogo estiver instalado num disco rígido ou cartão SD)
 pt.descMessage=Mova o rato sobre um componente para ver a respectiva descrição.
 
 //After installation you can run Silent Hill 2 Enhanced Edition OR  run the Config Tool
