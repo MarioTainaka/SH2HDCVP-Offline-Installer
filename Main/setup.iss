@@ -237,7 +237,7 @@ nl.cutscTitle=Cutscène ondertiteling fixes voor alle talen
 nl.musicTitle=Muziek van audio-uitbreidingspakket
 nl.mainDesc=Installeert belangrijke bestanden die nodig zijn om deze mod te laten werken.
 nl.cutscDesc=Verbetert ondertiteling voor bepaalde cutscènes in het spel voor alle talen%n(niet aanbevolen bij gebruik van vertaalpakketten)
-nl.musicDesc=Herinstalleert de Enhanced Edition muziekbestanden naar de langetermap%n(ten zeerste aanbevolen als het spel is geïnstalleerd op een HDD of SD-kaart)
+nl.musicDesc=Herinstalleert de Enhanced Edition muziekbestanden in de talenmap%n(ten zeerste aanbevolen als het spel is geïnstalleerd op een harde schijf of SD-kaart)
 nl.descMessage=Beweeg je muis over een onderdeel om de beschrijving te zien.
 
 // Portuguese
