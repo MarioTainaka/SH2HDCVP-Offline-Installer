@@ -86,7 +86,7 @@ Type: files; Name: "{app}\lang\movie\toilet.bik"
 Type: files; Name: "{app}\lang\movie\water.bik"
 
 
-// Delete optional langauge files with cutscene subtitle fixes for Saisho_2
+// Delete optional langauge files with cutscene subtitle fixes for Saisho_2. I don't know what I was thinking with this. I think my iniital thought was that fan translations might alter this file...
 
 
 Type: files; Name: "{app}\lang\etc\message\stage_town_east_msg_e.mes"
